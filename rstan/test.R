@@ -1,16 +1,8 @@
-library(rstan)
+# random effects models
+# less parameter than fitting fixed effects for each category
+# support extrapolation
 
-rm(list = ls())
-setwd("~/gitHub/Genetics/rstan")
-
-# ?1: how priors affect MLE results?
-
-x = rnorm(100, 0, 1)
-y = 3 * x
-
-stan.dt <- list(N = 100, x = x, y = y, prior = 3)
-stan.lm <- stan_model("./prior.stan")
-
+# ---
 load("mdata.rdt")
 glm <- stan_model("./Manu/stan/glm.stan")
 
@@ -20,11 +12,6 @@ cov <- mdata[c("Age", "Sex")]
 dat <- list(N = 570, K = 4, D = 2, cov = cov)
 dat <- within(dat, { Ad = as.numeric(mdata$AD1); L = t(chol(kin)) })
 dat$g = rep(0, 570)
-
-fit.mle = optimizing(mymodel, data = y.stan)
-
-(est.alpha = fit.mle$par[grep("^alpha\\[", names(fit.mle$par))])
-(est.sigma = fit.mle$par[grep("^sigma\\[", names(fit.mle$par))])
 
 fit = sampling(glm, data = dat, chain = 1, iter = 1200, warmup = 200)
 
