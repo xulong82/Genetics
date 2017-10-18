@@ -32,9 +32,9 @@ sd(samples$beta) / sqrt(nrow(samples))
 
 # Compare flat prior vs normal prior
 
-load("~/GitHub/wgs2/Manu/R/mdata.rdt")
-load("~/GitHub/wgs2/Manu/R/sampling.rdt")
-load("~/GitHub/wgs2/Manu/R/genotypes.rdt")
+load("~/gitHub/wgs2/Manu/R/mdata.rdt")
+load("~/gitHub/wgs2/Manu/R/sampling.rdt")
+load("~/gitHub/wgs2/Manu/R/genotypes.rdt")
 
 mcmc = mcmc[order(mcmc$P), ]
 mcmc = rownames(mcmc[1:100, ]) # top 100 variants
@@ -78,6 +78,9 @@ abline(a = 0, b = 1, col = "red")
 
 plot(tops$P.norm, tops$P.flat, xlab = "Standard Normal Prior", ylab = "Flat Prior", main = "Tail Probability")
 abline(a = 0, b = 1, col = "red")
+
+tops$ratio = (tops$norm - tops$flat) / tops$flat * 100
+plot(tops$flat, tops$ratio, ylim = c(-50, 10), xlab = "Effect Size by Flat Prior", ylab = "Ratio %", main = "Ratio of Shrinkage")
 
 # Standard normal distribution as priors does shrinkage large effect sizes, and hereby shrinkage P.values. 
 # Standard normal distribution comes with the prior assumption that variant of large effect sizes are less likely.

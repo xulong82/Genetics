@@ -10,6 +10,8 @@
 # dirichlet distribution
 library(MCMCpack)
 dirich = rdirichlet(1e3, alpha = rep(1, 3))
+dirich = rdirichlet(1e3, alpha = rep(2, 3))
+dirich = rdirichlet(1e3, alpha = c(1, 2, 3))
 table(rowSums(dirich)) # each sample is a simplex vector
 plot(density(c(dirich)))
 summary(c(dirich))

@@ -1,4 +1,4 @@
-# probit and logistic links
+# probit versus logistic links
 
 # Pr(Y=1|X) = exp(x)/(1+exp(x)) # cumulative logistic distribution 
 # Pr(Y=1|X) = Pho(x) # cumulative normal distribution
@@ -45,17 +45,43 @@ mean(diff.links$probit - diff.links$logit > 0)
 library(rstan)
 setwd("~/GitHub/Genetics/rstan/")
 logit = stan_model("logit.stan") # Stan manual
-logit2 = stan_model("logit2.stan") # modified version
 probit = stan_model("probit.stan") # Stan manual
+
+logit2 = stan_model("logit2.stan") # modified version
 probit2 = stan_model("probit2.stan") # modified version 
 
-load("mdata.rdt") # ADSP
-dat <- list(N = 570, K = 4, D = 2, x = mdata[c("Age", "Sex")], y = as.numeric(mdata$AD1))
+load("~/gitHub/wgs2/Manu/R/mdata.rdt")
+load("~/gitHub/wgs2/Manu/R/sampling.rdt")
+load("~/gitHub/wgs2/Manu/R/genotypes.rdt")
 
-logit.mle = optimizing(logit, data = dat)
-logit2.mle = optimizing(logit2, data = dat)
-probit.mle = optimizing(probit, data = dat)
-probit2.mle = optimizing(probit2, data = dat)
+mcmc = mcmc[order(mcmc$P), ]
+mcmc = rownames(mcmc[1:100, ]) # top 100 variants
+
+all(mcmc %in% rownames(geno))
+all(mdata$ADSP.Sample.ID %in% colnames(geno))
+geno = geno[mcmc, mdata$ADSP.Sample.ID]
+
+data <- list(N = 570, K = 4, D = 2, x = mdata[c("Age", "Sex")], y = as.numeric(mdata$AD1))
+data$g = geno[1, ]
+
+logit.mle = optimizing(logit, data = data)
+probit.mle = optimizing(probit, data = data)
+
+logit2.mle = optimizing(logit2, data = data)
+probit2.mle = optimizing(probit2, data = data)
+
+tops = lapply(1:nrow(geno), function(g1) {
+  data$g = geno[g1, ]
+  fit.logist = optimizing(logit2, data = data, hessian = TRUE, algorithm = "LBFGS")
+  fit.probit = optimizing(probit2, data = data, hessian = TRUE, algorithm = "LBFGS")
+  data.frame(logist = fit.logist$value, probit = fit.probit$value)
+})
+
+tops = as.data.frame(do.call(rbind, tops))
+tops = tops[apply(tops, 1, min) > -1000, ] # bad fit, can be fixed by specify initial values; or sampling
+plot(tops$logist, tops$probit, xlim = c(-590, -580), ylim = c(-590, -580), 
+     xlab = "Logistic", ylab = "Probit", main = "Posterior Likelihood Probability")
+abline(0, 1, col = "red")
 
 logit.mc = sampling(logit, data = dat, chain = 1, iter = 1200, warmup = 200)
 probit.mc = sampling(probit, data = dat, chain = 1, iter = 1200, warmup = 200)
