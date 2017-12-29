@@ -1,0 +1,44 @@
+---
+title: "All the phenotypes of the ADSP WGS cohort"
+author: "Xulong Wang"
+date: "11/27/2016"
+output: html_document
+---
+
+### R the phenotypic document from the ADSP consortium
+
+```{r}
+
+rm(list = ls())
+setwd("~/Dropbox/GitHub/wgs2")
+options(stringsAsFactors = F)
+
+pheno <- read.delim("./docs/adsp_subject_and_experiment_metadata.txt")
+names(pheno)
+
+table(pheno$LSAC)
+table(pheno$APOE)
+table(pheno$Race)
+table(pheno$AD)
+
+table(pheno$Age == "null")
+pheno = pheno[pheno$Age != "null", ]
+pheno$Age = as.numeric(pheno$Age)
+
+pheno = pheno[pheno$AD %in% c(0, 1, 2, 3), ]
+
+pheno$AD1 = "No"
+pheno$AD1[pheno$AD == 3] = "Possible"
+pheno$AD1[pheno$AD == 2] = "Probable"
+pheno$AD1[pheno$AD == 1] = "Definite"
+pheno$AD1 = factor(pheno$AD1, levels = c("No", "Possible", "Probable", "Definite"))
+
+```
+
+### Save
+
+```{r, eval = F}
+
+save(pheno, file = "./data/pheno.rdt")
+
+```

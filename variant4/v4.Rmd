@@ -1,0 +1,71 @@
+---
+title: "Variant calls of 4 genome-wide significant variants by JAX-CS and the ADSP consortium"
+author: "Xulong Wang"
+date: "11/27/2016"
+output: html_document
+---
+
+```{r, include = F}
+
+rm(list = ls())
+options(stringsAsFactors = F)
+library(ggplot2)
+
+```
+
+Purpose of this analysis was to compare the variant calls by JAX-CS and the ADSP consortium on 4 variants: 5-102726073, 2-40973289, 7-580540, 7-580735.
+
+### Summary
+
++ JAX-CS called 6 more samples than ADSP. 
++ Variant calls of the 4 were identical by JAX-CS and ADSP on the shared samples.
+
+### by JAX CS
+
+```{r}
+
+jaxcs <- read.delim("~/Dropbox/GitHub/wgs2/v4/jaxcs.raw", sep = " ")
+
+jaxcs.sample <- read.delim("~/Dropbox/GitHub/wgs2/v4/wgs.sample", sep = " ")
+jaxcs$SRR = jaxcs.sample$ID_2[match(jaxcs$IID, jaxcs.sample$ID_1)]
+
+```
+
+### by ADSP
+
+```{r}
+
+adsp <- read.delim("~/Dropbox/GitHub/wgs2/v4/adsp.raw", sep = " ")
+
+pheno <- read.delim("~/Dropbox/GitHub/wgs2/docs/adsp_subject_and_experiment_metadata.txt")
+adsp$SRR = pheno$SRR[match(adsp$IID, pheno$ADSP.Sample.ID)]
+
+```
+
+### comparsion
+
+```{r}
+
+setdiff(jaxcs$SRR, adsp$SRR)
+setdiff(adsp$SRR, jaxcs$SRR)
+
+shared = intersect(jaxcs$SRR, adsp$SRR)
+
+adsp = adsp[match(shared, adsp$SRR), ]
+jaxcs = jaxcs[match(shared, jaxcs$SRR), ]
+
+(snps = names(adsp)[grep("^X", names(adsp))])
+
+for (snp in snps) { cat(snp, "\n")
+  
+  data = data.frame(ADSP = adsp[, snp], JAXCS = jaxcs[, snp])
+  
+  y = data[data$ADSP != data$JAXCS, ]
+  print(y)
+  
+  p = ggplot(data, aes(x = ADSP, y = JAXCS)) + 
+      geom_jitter(height = 0.3, width = 0.3) + ggtitle(snp)
+  print(p)
+}
+
+```

@@ -1,0 +1,50 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Skipping web check... [ --noweb ] 
+Writing this text to log file [ /home/xwang/Dropbox/GitHub/wgs2/v4/jaxcs.log ]
+Analysis started: Sun Nov 27 19:25:34 2016
+
+Options in effect:
+	--noweb
+	--bfile autosome
+	--extract /home/xwang/Dropbox/GitHub/wgs2/v4/v4.txt
+	--range
+	--recodeA
+	--out /home/xwang/Dropbox/GitHub/wgs2/v4/jaxcs
+
+Reading map (extended format) from [ autosome.bim ] 
+34739081 markers to be included from [ autosome.bim ]
+Reading pedigree information from [ autosome.fam ] 
+576 individuals read from [ autosome.fam ] 
+576 individuals with nonmissing phenotypes
+Assuming a quantitative trait
+Missing phenotype value is -9
+222 males, 354 females, and 0 of unspecified sex
+Reading genotype bitfile from [ autosome.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Reading list of ranges from [ /home/xwang/Dropbox/GitHub/wgs2/v4/v4.txt ]
+Allowing a 0 kb window around each range
+Added 4 distinct ranges to 4 sets
+4 ranges with at least 1 marker
+Assigned 4 SNPs to at least 1 range
+Extracting 4 SNPs
+Before frequency and genotyping pruning, there are 4 SNPs
+576 founders and 0 non-founders found
+Total genotyping rate in remaining individuals is 1
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 4 SNPs
+After filtering, 576 individuals with non-missing status
+After filtering, 222 males, 354 females, and 0 of unspecified sex
+Writing recoded file to [ /home/xwang/Dropbox/GitHub/wgs2/v4/jaxcs.raw ] 
+
+Analysis finished: Sun Nov 27 19:34:00 2016
+

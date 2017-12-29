@@ -1,0 +1,193 @@
+--
+title: "ADSP WGS GWAS results"
+author: "Xulong Wang"
+date: "December 24, 2016"
+output: html_document
+---
+
+```{r, eval = F}
+
+setwd("/data/xwang/adsp3/glm")
+setwd("/data/xwang/adsp3/glm2") # Binary
+
+glm <- lapply(dir(), function(x) { load(x); fit })
+lrt <- lapply(glm, function(x) {y = x[, "lp"]; y = y - min(y); names(y) = rownames(x); y})
+
+glm <- as.data.frame(do.call(rbind, glm))
+glm$P <- pnorm(abs(glm$p), sd = glm$se, lower.tail = F) * 2
+
+#---
+
+setwd("/data/xwang/adsp3/sampling")
+setwd("/data/xwang/adsp3/sampling2") # Binary
+setwd("/data/xwang/adsp3/sampling_prior") # Prior
+
+mcmc <- lapply(dir(), function(x) { load(x); fit })
+mcmc <- lapply(mcmc, function(x) { lapply(x, function(y) { sapply(y[all(! grepl("Error", y))], function(z) z["p", ]) }) })
+
+mcmc <- lapply(mcmc, function(x) do.call(cbind, x))
+mcmc <- t(do.call(cbind, mcmc[sapply(mcmc, function(x) dim(x)[1]) == 10]))
+
+mcmc <- as.data.frame(mcmc)
+mcmc$P <- pnorm(abs(unlist(mcmc$mean)), sd = unlist(mcmc$sd), lower.tail = F) * 2
+
+save(mcmc, file = "~/Dropbox/GitHub/wgs2/Manu/R/sampling.rdt")
+save(mcmc, file = "~/Dropbox/GitHub/wgs2/Manu/R/sampling_prior.rdt")
+
+setwd("/data/xwang/adsp3/R")
+geno = lapply(1:22, function(x) { cat(x, "\n"); load(paste0("chr", x, ".rdt")); geno[rownames(geno) %in% rownames(mcmc), ] })
+geno = do.call(rbind, geno)
+save(geno, file = "~/Dropbox/GitHub/wgs2/Manu/R/mcmc_geno.rdt")
+
+#---
+
+library(ggplot2)
+options(stringsAsFactors = F)
+
+chrlen <- read.delim("~/Dropbox/GitHub/X/genomes/human.hg19.genome", header = F)
+chrlen <- chrlen[match(paste0("chr", 1:22), chrlen$V1), ]
+chrlen <- cumsum(as.numeric(chrlen$V2)) * 1e-6; names(chrlen) <- c(1:22)
+chrmid <- diff(c(0, chrlen)) * 0.5 + c(0, chrlen[-length(chrlen)])
+
+manhattan <- glm
+manhattan <- mcmc
+
+manhattan$CHR = as.numeric(gsub(":.*", "", rownames(manhattan)))
+manhattan$POS = as.numeric(gsub(".*:(.*)_.*", "\\1", rownames(manhattan)))
+
+manhattan$POS2 <- c(0, chrlen)[manhattan$CHR] + manhattan$POS * 1e-6
+manhattan$col <- rep("o", nrow(manhattan))
+manhattan$col[manhattan$CHR %% 2 == 1] <- "e"
+
+manhattan$P <- -log10(manhattan$P)
+
+png("~/Dropbox/GitHub/wgs2/Manu/pdfs/manhattan_glm.png", width = 1e3, height = .5e3, res = 100)
+png("~/Dropbox/GitHub/wgs2/Manu/pdfs/manhattan_mcmc.png", width = 1e3, height = .5e3, res = 100)
+png("~/Dropbox/GitHub/wgs2/Manu/pdfs/manhattan_mcmc_prior.png", width = 1e3, height = .5e3, res = 100)
+
+ggplot(manhattan, aes(x = POS2, y = P, color = col)) + 
+  geom_point(alpha = 0.9) + # geom_hline(yintercept = 7.3, color = "gold") +
+  scale_x_continuous(breaks = chrmid, labels = names(chrlen)) + ylim(c(0, 9)) + 
+  scale_color_manual(values = c("dodgerblue3", "firebrick1")) + 
+  theme_bw() + xlab("") + ylab("-log10(P)") + guides(shape = F, color = F) +
+  theme(legend.key = element_blank())
+
+dev.off()
+
+```
+
+### Make a table with consequences
+
+```{r}
+
+load("~/Dropbox/GitHub/wgs2/Manu/R/sampling.rdt")
+mcmc$UID = gsub(":", "-", gsub("_.*", "", rownames(mcmc)))
+
+load("~/Dropbox/GitHub/wgs2/Manu/R/vep.rdt")
+vep$UID = gsub(":", "-", gsub("-.*", "", vep$Location))
+
+vep[vep$Consequence == "missense_variant", ]
+unique(vep[vep$Consequence == "missense_variant", "SYMBOL"])
+
+gwas = mcmc[mcmc$P < 1e-3, ]
+gwas = mcmc[mcmc$P < 1e-4, ]
+gwas = mcmc[mcmc$P < 1e-5, ]
+gwas = mcmc[mcmc$P < 1e-6, ]
+gwas = mcmc[mcmc$P < 5e-8, ]
+
+vep1 = vep[vep$UID %in% gwas$UID, ]
+
+sort(table(vep1$Consequence))
+sort(table(vep1$Consequence) / nrow(vep1))
+vep1[vep1$Consequence == "missense_variant", ]
+
+gwas$CHR = as.numeric(gsub(":.*", "", rownames(gwas)))
+gwas$POS = as.numeric(gsub("^.*:(.*)_.*", "\\1", rownames(gwas)))
+
+grp <- list(); grp[[1]] <- gwas[1, ]; grp_idx <- 1
+for (i in 2:nrow(gwas)) {
+  chr = gwas$CHR[i] == gwas$CHR[i-1]; pos = gwas$POS[i] - gwas$POS[i-1] < 1e6
+  if ( all(chr, pos) ) grp[[grp_idx]] = rbind(grp[[grp_idx]], gwas[i, ])
+  else { grp_idx = grp_idx + 1; grp[[grp_idx]] = gwas[i, ] }
+}
+
+sapply(grp, nrow)
+gwas <- do.call(rbind, lapply(grp, function(x) cbind(PEAK = x$UID[which.min(x$P)], x)))
+
+(peaks = as.character(unique(gwas$PEAK)))
+
+table = cbind(gwas[match(vep1$UID, gwas$UID), ], vep1)
+file = "/Users/xwang/Dropbox/GitHub/wgs2/Manu/tables/Supp_Table1.xlsx"
+write.xlsx(table, file = file, sheetName = "P(1e-6)")
+
+intron = vep1[grep("intron", vep1$Consequence), ]
+(intron_gene = unique(intron$SYMBOL))
+
+```
+
+# Manuscript consequence graph
+
+```{r}
+
+x = table$Consequence
+x[grep("intron", x)] = "intron_variant"
+x = as.data.frame(table(x))
+
+x = x[order(x$Freq, decreasing = T), ]
+x$feature = factor(x$x, levels = x$x)
+
+pdf("Manu/pdfs/top_cons.pdf", width = 8, height = 4)
+
+ggplot(x, aes(x = feature, y = Freq)) + geom_bar(stat = "identity", width = 0.5) + 
+  coord_flip() + geom_label(aes(label = Freq)) +
+  theme_bw() + xlab("") + ylab("Number of annotations") +
+  theme(axis.text = element_text(size = 15),
+        axis.title= element_text(size = 15, face = "bold"),
+        legend.text = element_text(size = 15),
+        legend.key = element_blank())
+
+dev.off()
+
+```
+
+# Manuscript Table 1
+
+```{r}
+
+load("~/Dropbox/GitHub/wgs/gwas/sampling.rdt")
+table1 = mcmc[mcmc$P < 1e-6, ]
+ID = rownames(table1)
+table1 = as.data.frame(apply(table1, 2, as.numeric))
+rownames(table1) = ID
+table1 = table1[order(table1$P), ]
+
+load("/data/xwang/adsp3/meta.rdt")
+meta$ID = as.character(meta$ID)
+table1 = cbind(meta[match(rownames(table1), meta$ID), ], table1)
+
+table1$UID = gsub(":", "-", gsub("_.*", "", table1$ID))
+table1$RSID = vep$Existing_variation[match(table1$UID, vep$UID)]
+
+table1 = table1[c("RSID", "CHR", "POS", "REF", "ALT", "MAF", "mean", "sd", "P")]
+file = "/Users/xwang/Dropbox/GitHub/wgs2/Manu/tables/Table1.xlsx"
+write.xlsx(table1, file = file, sheetName = "P(1e-6)")
+
+```
+
+#--- Significant variants by MCMC
+
+```{r}
+
+load("~/Dropbox/GitHub/wgs2/Manu/R/mdata.rdt")
+load("~/Dropbox/GitHub/wgs2/Manu/R/mcmc_geno.rdt")
+
+mcmc_geno = x[, mdata$ADSP.Sample.ID]
+y = within(mdata, { geno = geno[4, ] })
+
+table(y$AD1, y$geno)
+ggplot(y, aes(x = AD1, fill = as.factor(geno))) + geom_bar()
+
+ggplot(y, aes(x = AD1, fill = as.factor(geno))) + 
+  geom_bar(position = "fill") + theme_bw() + xlab("") + ylab("Proportion") 
+
+```

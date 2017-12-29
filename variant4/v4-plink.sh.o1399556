@@ -1,0 +1,119 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Skipping web check... [ --noweb ] 
+Writing this text to log file [ /home/xwang/Dropbox/GitHub/wgs2/v4/jaxcs.log ]
+Analysis started: Sun Nov 27 19:25:34 2016
+
+Options in effect:
+	--noweb
+	--bfile autosome
+	--extract /home/xwang/Dropbox/GitHub/wgs2/v4/v4.txt
+	--range
+	--recodeA
+	--out /home/xwang/Dropbox/GitHub/wgs2/v4/jaxcs
+
+Reading map (extended format) from [ autosome.bim ] 
+34739081 markers to be included from [ autosome.bim ]
+Reading pedigree information from [ autosome.fam ] 
+576 individuals read from [ autosome.fam ] 
+576 individuals with nonmissing phenotypes
+Assuming a quantitative trait
+Missing phenotype value is -9
+222 males, 354 females, and 0 of unspecified sex
+Reading genotype bitfile from [ autosome.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Reading list of ranges from [ /home/xwang/Dropbox/GitHub/wgs2/v4/v4.txt ]
+Allowing a 0 kb window around each range
+Added 4 distinct ranges to 4 sets
+4 ranges with at least 1 marker
+Assigned 4 SNPs to at least 1 range
+Extracting 4 SNPs
+Before frequency and genotyping pruning, there are 4 SNPs
+576 founders and 0 non-founders found
+Total genotyping rate in remaining individuals is 1
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 4 SNPs
+After filtering, 576 individuals with non-missing status
+After filtering, 222 males, 354 females, and 0 of unspecified sex
+Writing recoded file to [ /home/xwang/Dropbox/GitHub/wgs2/v4/jaxcs.raw ] 
+
+Analysis finished: Sun Nov 27 19:34:00 2016
+
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Skipping web check... [ --noweb ] 
+Writing this text to log file [ /home/xwang/Dropbox/GitHub/wgs2/v4/adsp.log ]
+Analysis started: Sun Nov 27 19:34:01 2016
+
+Options in effect:
+	--noweb
+	--bfile wgs
+	--extract /home/xwang/Dropbox/GitHub/wgs2/v4/v4.txt
+	--range
+	--recodeA
+	--out /home/xwang/Dropbox/GitHub/wgs2/v4/adsp
+
+Reading map (extended format) from [ wgs.bim ] 
+10324644 markers to be included from [ wgs.bim ]
+Reading pedigree information from [ wgs.fam ] 
+578 individuals read from [ wgs.fam ] 
+0 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+0 cases, 0 controls and 578 missing
+0 males, 0 females, and 578 of unspecified sex
+Warning, found 578 individuals with ambiguous sex codes
+Writing list of these individuals to [ /home/xwang/Dropbox/GitHub/wgs2/v4/adsp.nosex ]
+Reading genotype bitfile from [ wgs.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Reading list of ranges from [ /home/xwang/Dropbox/GitHub/wgs2/v4/v4.txt ]
+Allowing a 0 kb window around each range
+Added 4 distinct ranges to 4 sets
+4 ranges with at least 1 marker
+Assigned 4 SNPs to at least 1 range
+Extracting 4 SNPs
+Before frequency and genotyping pruning, there are 4 SNPs
+578 founders and 0 non-founders found
+Total genotyping rate in remaining individuals is 0.999567
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 4 SNPs
+After filtering, 0 cases, 0 controls and 578 missing
+After filtering, 0 males, 0 females, and 578 of unspecified sex
+Writing recoded file to [ /home/xwang/Dropbox/GitHub/wgs2/v4/adsp.raw ] 
+
+Analysis finished: Sun Nov 27 19:36:26 2016
+
+
+
+--------------------------------------------------------------------------------
+|  JAX TORQUE EPILOGUE
+|
+|  Job ID: 1399556.cadillac-master.jax.org
+|  Exit Status: 0
+|  Requested Resources:
+|      nodes=1:ppn=1,walltime=01:00:00
+|  Resources Consumed:
+|      cput=00:10:48,mem=18345612kb,vmem=20776524kb,walltime=00:10:52
+|  Walltime accuracy: 18.1%
+|
+| Epilogue Host (TORQUE Mother Superior): cadillac043
+|
+--------------------------------------------------------------------------------

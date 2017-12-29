@@ -1,0 +1,52 @@
+--
+title: "ADSP WGS GWAS results"
+author: "Xulong Wang"
+date: "December 24, 2016"
+output: html_document
+---
+
+## Objective: how results are different by converting categorical variable to binary (supplementary figure)
+
+```{r, eval = F}
+
+setwd("/data/xwang/adsp3/glm")
+glm <- lapply(dir(), function(x) { load(x); fit })
+glm <- as.data.frame(do.call(rbind, glm))
+glm$P <- pnorm(abs(glm$p), sd = glm$se, lower.tail = F) * 2
+
+category = glm
+
+setwd("/data/xwang/adsp3/glm2") # Binary
+glm <- lapply(dir(), function(x) { load(x); fit })
+glm <- as.data.frame(do.call(rbind, glm))
+glm$P <- pnorm(abs(glm$p), sd = glm$se, lower.tail = F) * 2
+
+binary = glm
+
+```
+
+### Graph
+
+```{r}
+
+library(ggplot2)
+
+head(category)
+head(binary)
+
+all(rownames(category) == rownames(binary))
+
+# P-value
+
+tmp = data.frame(category = -log10(category$P), binary = -log10(binary$P))
+
+png("~/Dropbox/GitHub/wgs2/Manu/pdfs/category_vs_binary.png", width = .6e3, height = .5e3, res = 200)
+
+ggplot(tmp, aes(x = category, y = binary)) + 
+  geom_point(alpha = 0.9) + 
+  theme_bw() + xlab("Categorical (-log10(P))") + ylab("Binary (-log10(P))")
+
+dev.off()
+
+```
+
