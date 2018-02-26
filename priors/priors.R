@@ -2,7 +2,7 @@ library(rstan)
 library(dplyr)
 
 rm(list = ls())
-setwd("~/gitHub/Genetics/priors")
+setwd("~/GitHub/Genetics/priors")
 
 load("./mdata.rdt") 
 load("./igap_t1k.rdt") # ./igap/igap.Rmd for more details
@@ -43,16 +43,21 @@ save(mymle0, mymle1, mymle2, mymle3, mymle4, file = "./mymle.rdt")
 # igap$Pval <- pnorm(abs(igap$Beta), sd = igap$SE, lower.tail = F) * 2
 # igap$Pval[igap$Pval < 1e-100] = 1e-100
 
+load("./mymle.rdt")
+
+postscript("~/GitHub/Genetics/print/supp5.eps", paper="special", width=5, height=4, horizontal=FALSE)
 plot(igap$Beta, mymle0$effect, xlim = c(-1, 2), ylim = c(-1, 2), 
-     xlab = "Effect in IGAP", ylab = "Effect in Bayes-GLMM", main = "No prior")
+     xlab = "Effect in IGAP", ylab = "Effect in Bayes-GLMM")
 abline(a = 0, b = 1, col = "red")
 plot(igap$SE, mymle0$effect.se, xlim = c(0, 0.2), ylim = c(0, 0.6), 
-     xlab = "Standard Error in IGAP", ylab = "Standard Error in Bayes-GLMM", main = "No prior")
+     xlab = "Standard Error in IGAP", ylab = "Standard Error in Bayes-GLMM")
 abline(a = 0, b = 1, col = "red")
 plot(-log10(igap$Pvalue), -log10(mymle0$Pval), xlim = c(0, 150), ylim = c(0, 6), 
-     xlab = "-log10(Pval) in IGAP", ylab = "-log10(Pval) in Bayes-GLMM", main = "No prior")
+     xlab = "-log10(Pval) in IGAP", ylab = "-log10(Pval) in Bayes-GLMM")
 abline(a = 0, b = 1, col = "red")
+dev.off()
 
+postscript("~/GitHub/Genetics/print/supp6.eps", paper="special", width=8, height=4, horizontal=FALSE)
 par(mfrow = c(1, 2))
 
 plot(-log10(mymle1$Pval), -log10(igap$Pvalue),
@@ -82,3 +87,5 @@ abline(a = 0, b = 1, col = "red")
 plot(-log10(mymle4$Pval), -log10(mymle0$Pval),
      xlab = "ADSP - Prior by method 4", ylab = "ADSP - No prior")
 abline(a = 0, b = 1, col = "red")
+
+dev.off()

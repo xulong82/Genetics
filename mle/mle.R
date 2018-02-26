@@ -40,9 +40,13 @@ mymcmc <- lapply(1:nrow(geno), function(g1) {
 mymcmc = as.data.frame(do.call(rbind, mymcmc))
 mymcmc$Pval <- pnorm(abs(mymcmc$mean), sd = mymcmc$sd, lower.tail = F) * 2
 
+postscript("~/GitHub/Genetics/print/supp2.eps", paper="special", width=4, height=3, horizontal=FALSE)
 plot(mymle$effect, mymcmc$mean, xlab = "Mean by MLE", ylab = "Mean by MCMC")
+abline(a = 0, b = 1)
 plot(mymle$effect.se, mymcmc$sd, xlab = "St.Err by MLE", ylab = "St.Dev by MCMC")
+abline(a = 0, b = 1)
 plot(-log10(mymle$Pval), -log10(mymcmc$Pval), xlab = "P-value by MLE", ylab = "P-value by MCMC")
 abline(a = 0, b = 1)
+dev.off()
 
 # MLE/Hessian method agrees with MCMC 

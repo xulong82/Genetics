@@ -32,9 +32,9 @@ sd(samples$beta) / sqrt(nrow(samples))
 
 # Compare flat prior vs normal prior
 
-load("~/gitHub/wgs2/Manu/R/mdata.rdt")
-load("~/gitHub/wgs2/Manu/R/sampling.rdt")
-load("~/gitHub/wgs2/Manu/R/genotypes.rdt")
+load("~/GitHub/Genetics/Manu/R/mdata.rdt")
+load("~/GitHub/Genetics/Manu/R/sampling.rdt")
+load("~/GitHub/Genetics/Manu/R/genotypes.rdt")
 
 mcmc = mcmc[order(mcmc$P), ]
 mcmc = rownames(mcmc[1:100, ]) # top 100 variants
@@ -45,6 +45,7 @@ geno = geno[mcmc, mdata$ADSP.Sample.ID]
 
 prior.norm = stan_model("~/GitHub/Genetics/rstan/prior2.stan") # N(0, 1) as prior of variant effect
 prior.flat = stan_model("~/GitHub/Genetics/rstan/prior3.stan") # flat as prior of variant effect
+
 data <- list(N = 570, K = 4, D = 2, x = mdata[c("Age", "Sex")], y = as.numeric(mdata$AD1), g = geno[1, ])
 
 fit.norm = sampling(prior.norm, data = data, chain = 1, iter = 1200, warmup = 200)
@@ -73,8 +74,10 @@ tops$P.flat <- pnorm(abs(tops$flat), sd = tops$flat.se, lower.tail = F) * 2
 tops$P.norm <- -log10(tops$P.norm)
 tops$P.flat <- -log10(tops$P.flat)
 
+postscript("~/GitHub/Genetics/print/supp1.eps", paper="special", width=4, height=3, horizontal=FALSE)
 plot(tops$norm, tops$flat, xlab = "Standard Normal Prior", ylab = "Flat Prior", main = "Effect Size")
 abline(a = 0, b = 1, col = "red")
+dev.off()
 
 plot(tops$P.norm, tops$P.flat, xlab = "Standard Normal Prior", ylab = "Flat Prior", main = "Tail Probability")
 abline(a = 0, b = 1, col = "red")
