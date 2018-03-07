@@ -1,0 +1,4434 @@
+%0 Journal Article
+%A Auton, A.
+%A Brooks, L. D.
+%A Durbin, R. M.
+%A Garrison, E. P.
+%A Kang, H. M.
+%A Korbel, J. O.
+%A Marchini, J. L.
+%A McCarthy, S.
+%A McVean, G. A.
+%A Abecasis, G. R.
+%D 2015
+%T A global reference for human genetic variation
+%B Nature
+%V 526
+%N 7571
+%P 68-74
+%7 2015/10/04
+%8 Oct 1
+%! A global reference for human genetic variation
+%O Nature
+%@ 0028-0836
+%R 10.1038/nature15393
+%2 PMC4750478
+%$ NIHMS753481
+%M 26432245
+%K Datasets as Topic
+Demography
+Disease Susceptibility
+Exome/genetics
+Genetic Variation/*genetics
+Genetics, Medical
+Genetics, Population/*standards
+Genome, Human/*genetics
+Genome-Wide Association Study
+Genomics/*standards
+Genotype
+Haplotypes/genetics
+High-Throughput Nucleotide Sequencing
+Humans
+INDEL Mutation/genetics
+*Internationality
+Physical Chromosome Mapping
+Polymorphism, Single Nucleotide/genetics
+Quantitative Trait Loci/genetics
+Rare Diseases/genetics
+Reference Standards
+Sequence Analysis, DNA
+%X The 1000 Genomes Project set out to provide a comprehensive description of common human genetic variation by applying whole-genome sequencing to a diverse set of individuals from multiple populations. Here we report completion of the project, having reconstructed the genomes of 2,504 individuals from 26 populations using a combination of low-coverage whole-genome sequencing, deep exome sequencing, and dense microarray genotyping. We characterized a broad spectrum of genetic variation, in total over 88 million variants (84.7 million single nucleotide polymorphisms (SNPs), 3.6 million short insertions/deletions (indels), and 60,000 structural variants), all phased onto high-quality haplotypes. This resource includes >99% of SNP variants with a frequency of >1% for a variety of ancestries. We describe the distribution of genetic variation across the global sample, and discuss the implications for common disease studies.
+%Z 1476-4687
+1000 Genomes Project Consortium
+Auton, Adam
+Brooks, Lisa D
+Durbin, Richard M
+Garrison, Erik P
+Kang, Hyun Min
+Korbel, Jan O
+Marchini, Jonathan L
+McCarthy, Shane
+McVean, Gil A
+Abecasis, Goncalo R
+089276/Z.09/Z/Wellcome Trust/United Kingdom
+090532/Z/09/Z/Wellcome Trust/United Kingdom
+090770/Wellcome Trust/United Kingdom
+095552/Z/11/Z/Wellcome Trust/United Kingdom
+095908/Wellcome Trust/United Kingdom
+096599/Wellcome Trust/United Kingdom
+100956/Wellcome Trust/United Kingdom
+102541/Wellcome Trust/United Kingdom
+136855/Canadian Institutes of Health Research/Canada
+617306/European Research Council/International
+BB/I021213/1/Biotechnology and Biological Sciences Research Council/United Kingdom
+BB/I02593X/1/Biotechnology and Biological Sciences Research Council/United Kingdom
+DP2OD6514/OD/NIH HHS/United States
+DP5OD9154/OD/NIH HHS/United States
+G0801823/Medical Research Council/United Kingdom
+HHSN268201100040C/PHS HHS/United States
+HHSN272201000025C/PHS HHS/United States
+P01GM99568/GM/NIGMS NIH HHS/United States
+P30 CA016672/CA/NCI NIH HHS/United States
+R01 CA166661/CA/NCI NIH HHS/United States
+R01 DK075787/DK/NIDDK NIH HHS/United States
+R01 GM108805/GM/NIGMS NIH HHS/United States
+R01 HG002898/HG/NHGRI NIH HHS/United States
+R01 HG006849/HG/NHGRI NIH HHS/United States
+R01 HG007022/HG/NHGRI NIH HHS/United States
+R01 HG007068/HG/NHGRI NIH HHS/United States
+R01CA166661/CA/NCI NIH HHS/United States
+R01CA172652/CA/NCI NIH HHS/United States
+R01GM104390/GM/NIGMS NIH HHS/United States
+R01GM59290/GM/NIGMS NIH HHS/United States
+R01HG2385/HG/NHGRI NIH HHS/United States
+R01HG2898/HG/NHGRI NIH HHS/United States
+R01HG4960/HG/NHGRI NIH HHS/United States
+R01HG5214/HG/NHGRI NIH HHS/United States
+R01HG5701/HG/NHGRI NIH HHS/United States
+R01HG6855/HG/NHGRI NIH HHS/United States
+R01HG7068/HG/NHGRI NIH HHS/United States
+R01HG7644/HG/NHGRI NIH HHS/United States
+R01HL104608/HL/NHLBI NIH HHS/United States
+R01HL87699/HL/NHLBI NIH HHS/United States
+RC2HG5552/HG/NHGRI NIH HHS/United States
+T32GM7790/GM/NIGMS NIH HHS/United States
+T32HL94284/HL/NHLBI NIH HHS/United States
+U01HG5211/HG/NHGRI NIH HHS/United States
+U01HG5214/HG/NHGRI NIH HHS/United States
+U01HG5715/HG/NHGRI NIH HHS/United States
+U01HG5718/HG/NHGRI NIH HHS/United States
+U01HG5728/HG/NHGRI NIH HHS/United States
+U01HG6513/HG/NHGRI NIH HHS/United States
+U41 HG002371/HG/NHGRI NIH HHS/United States
+U41 HG007497/HG/NHGRI NIH HHS/United States
+U41HG7497/HG/NHGRI NIH HHS/United States
+U41HG7635/HG/NHGRI NIH HHS/United States
+U54HG3067/HG/NHGRI NIH HHS/United States
+U54HG3079/HG/NHGRI NIH HHS/United States
+U54HG3273/HG/NHGRI NIH HHS/United States
+WT0855322/Z/08/Z/Wellcome Trust/United Kingdom
+WT086084/Z/08/Z/Wellcome Trust/United Kingdom
+WT090770/Z/09/Z/Wellcome Trust/United Kingdom
+WT095908/Wellcome Trust/United Kingdom
+WT097307/Wellcome Trust/United Kingdom
+WT098051/Wellcome Trust/United Kingdom
+WT100956/Z/13/Z/Wellcome Trust/United Kingdom
+WT109497/Wellcome Trust/United Kingdom
+British Heart Foundation/United Kingdom
+Howard Hughes Medical Institute/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+Nature. 2015 Oct 1;526(7571):68-74. doi: 10.1038/nature15393.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Bell, R. D.
+%D 2012
+%T The imbalance of vascular molecules in Alzheimer's disease
+%B J Alzheimers Dis
+%V 32
+%N 3
+%P 699-709
+%7 2012/08/02
+%! The imbalance of vascular molecules in Alzheimer's disease
+%O Journal of Alzheimer's disease : JAD
+%@ 1387-2877
+%R 10.3233/jad-2012-121060
+%M 22850315
+%K Alzheimer Disease/*blood/*diagnosis/epidemiology
+Amyloid beta-Peptides/blood
+Animals
+Apolipoprotein E4/blood
+Biomarkers/blood
+Blood-Brain Barrier/metabolism/pathology
+Humans
+Risk Factors
+Serum Response Factor/blood
+Vascular Diseases/*blood/*diagnosis/epidemiology
+%X The vascular system plays an integral role during Alzheimer's disease (AD). Both systemic circulatory changes and alterations directly within the brain vasculature have been suggested to contribute to both the onset and progression of neurological conditions such as AD. It is now well established that vascular risk factors including hypertension, diabetes, obesity, atherosclerosis, metabolic syndrome, and stroke significantly increase one's risk of later developing AD. Research within the last decade has begun to identify specific vascular molecules associated with such risk factors as well as elucidate the biological role they may play in the pathological processes linked to AD. This review aims to provide an overview of some of the key molecules within vascular cells and circulating in blood that have been identified to be altered in AD pathogenesis. In particular, the vascular-specific transcription factors MEOX2, MYOCD, and SRF, genetic risk factor APOE4, transport proteins LRP1 and RAGE, and circulating molecules such as sLRP1, homocysteine, and albumin are discussed. I aim to clarify how these identified vascular molecules may help to predict, explain, and influence the incidence AD. A strong emphasis is placed on the concept that these molecules play overlapping roles in cardiovascular disease progression, neurovascular dysfunction, and amyloid-beta pathology. The studies reviewed here have identified vascular-based molecular targets in AD and thus provide new therapeutic avenues for the treatment of this devastating disease.
+%Z 1875-8908
+Bell, Robert D
+Journal Article
+Review
+Netherlands
+J Alzheimers Dis. 2012;32(3):699-709. doi: 10.3233/JAD-2012-121060.
+%+ Aab Cardiovascular Research Institute, University of Rochester School of Medicine and Dentistry, Rochester, NY 14642, USA. robert bell@urmc.rochester.edu
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Bennett, D. A.
+%A Schneider, J. A.
+%A Arvanitakis, Z.
+%A Wilson, R. S.
+%D 2012
+%T Overview and findings from the religious orders study
+%B Curr Alzheimer Res
+%V 9
+%N 6
+%P 628-45
+%7 2012/04/05
+%8 Jul
+%! Overview and findings from the religious orders study
+%O Current Alzheimer research
+%@ 1567-2050
+%2 PMC3409291
+%$ NIHMS372991
+%M 22471860
+%K Aged
+Aged, 80 and over
+Aging/*pathology
+Alzheimer Disease/*epidemiology/etiology/*pathology
+Autopsy
+Brain/*pathology
+Epidemiologic Studies
+Female
+Humans
+Longitudinal Studies
+Male
+Neuropsychological Tests
+*Research Design
+Risk Factors
+%X UNLABELLED: The Religious Orders Study is a longitudinal clinical-pathologic cohort study of aging and Alzheimer's disease (AD). In this manuscript, we summarize the study methods including the study design and describe the clinical evaluation, assessment of risk factors, collection of ante-mortem biological specimens, brain autopsy and collection of selected postmortem data. THE RESULTS: (1) review the relation of neuropathologic indices to clinical diagnoses and cognition proximate to death; (2) examine the relation of risk factors to clinical outcomes; (3) examine the relation of risk factors to measures of neuropathology; and (4) summarize additional study findings. We then discuss and contextualize the study findings.
+%Z 1875-5828
+Bennett, David A
+Schneider, Julie A
+Arvanitakis, Zoe
+Wilson, Robert S
+R01AG24871/AG/NIA NIH HHS/United States
+R01 AG024871/AG/NIA NIH HHS/United States
+P01AG14449/AG/NIA NIH HHS/United States
+K08AG00849/AG/NIA NIH HHS/United States
+K08 AG000849/AG/NIA NIH HHS/United States
+R01AG26916/AG/NIA NIH HHS/United States
+R01 AG043375/AG/NIA NIH HHS/United States
+P01 AG009466/AG/NIA NIH HHS/United States
+R01AG26147/AG/NIA NIH HHS/United States
+P30 AG010161/AG/NIA NIH HHS/United States
+P01 AG014449/AG/NIA NIH HHS/United States
+P01AG09466/AG/NIA NIH HHS/United States
+R01 AG026147/AG/NIA NIH HHS/United States
+R01AG15819/AG/NIA NIH HHS/United States
+P30AG10161/AG/NIA NIH HHS/United States
+R01 AG026916/AG/NIA NIH HHS/United States
+K23 AG023675/AG/NIA NIH HHS/United States
+R01 AG015819/AG/NIA NIH HHS/United States
+K23AG23675/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United Arab Emirates
+Curr Alzheimer Res. 2012 Jul;9(6):628-45.
+%+ Rush Alzheimer's Disease Center, Rush University Medical Center, 600 S. Paulina, Suite 1028, Chicago, IL 60612, USA. David_A_Bennett@Rush.edu
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Bennett, D. A.
+%A Schneider, J. A.
+%A Buchman, A. S.
+%A Barnes, L. L.
+%A Boyle, P. A.
+%A Wilson, R. S.
+%D 2012
+%T Overview and findings from the rush Memory and Aging Project
+%B Curr Alzheimer Res
+%V 9
+%N 6
+%P 646-63
+%7 2012/04/05
+%8 Jul
+%! Overview and findings from the rush Memory and Aging Project
+%O Current Alzheimer research
+%@ 1567-2050
+%2 PMC3439198
+%$ NIHMS386797
+%M 22471867
+%K Aging/*pathology
+Alzheimer Disease/*epidemiology/etiology/pathology
+Brain/pathology
+*Cognition
+Cognition Disorders/epidemiology/etiology/pathology
+Dementia/*epidemiology/etiology/pathology
+Humans
+*Memory
+Neuropsychological Tests
+Research Design
+%X The Memory and Aging Project is a longitudinal, epidemiologic clinical-pathologic cohort study of common chronic conditions of aging with an emphasis on decline in cognitive and motor function and risk of Alzheimer's disease (AD). In this manuscript, we first summarize the study design and methods. Then, we present data on: (1) the relation of motor function to cognition, disability, and death; (2) the relation of risk factors to cognitive and motor outcomes, disability and death; (3) the relation of neuropathologic indices to cognitive outcomes; (4) the relation of risk factors to neuropathologic indices; and (5) additional study findings. The findings are discussed and contextualized.
+%Z 1875-5828
+Bennett, David A
+Schneider, Julie A
+Buchman, Aron S
+Barnes, Lisa L
+Boyle, Patricia A
+Wilson, Robert S
+R01AG33678/AG/NIA NIH HHS/United States
+R01AG24871/AG/NIA NIH HHS/United States
+R01 AG024480/AG/NIA NIH HHS/United States
+R21AG30765/AG/NIA NIH HHS/United States
+R01 AG024871/AG/NIA NIH HHS/United States
+R21 AG030765/AG/NIA NIH HHS/United States
+R01AG26916/AG/NIA NIH HHS/United States
+R01 AG017917/AG/NIA NIH HHS/United States
+R01AG17917/AG/NIA NIH HHS/United States
+R01 AG033678/AG/NIA NIH HHS/United States
+K23AG23040/AG/NIA NIH HHS/United States
+R01AG22018/AG/NIA NIH HHS/United States
+R01AG15819/AG/NIA NIH HHS/United States
+R01 AG022018/AG/NIA NIH HHS/United States
+R01 AG034374/AG/NIA NIH HHS/United States
+K23 AG023040/AG/NIA NIH HHS/United States
+R01AG34374/AG/NIA NIH HHS/United States
+R01AG24480/AG/NIA NIH HHS/United States
+R01 AG026916/AG/NIA NIH HHS/United States
+R01 AG015819/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United Arab Emirates
+Curr Alzheimer Res. 2012 Jul;9(6):646-63.
+%+ Rush Alzheimer's Disease Center, Rush University Medical Center, 600 S. Paulina, Suite 1028, Chicago, IL 60612, USA. David_A_Bennett@Rush.edu
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Bernstein, B. E.
+%A Stamatoyannopoulos, J. A.
+%A Costello, J. F.
+%A Ren, B.
+%A Milosavljevic, A.
+%A Meissner, A.
+%A Kellis, M.
+%A Marra, M. A.
+%A Beaudet, A. L.
+%A Ecker, J. R.
+%A Farnham, P. J.
+%A Hirst, M.
+%A Lander, E. S.
+%A Mikkelsen, T. S.
+%A Thomson, J. A.
+%D 2010
+%T The NIH Roadmap Epigenomics Mapping Consortium
+%B Nat Biotechnol
+%V 28
+%N 10
+%P 1045-8
+%7 2010/10/15
+%8 Oct
+%! The NIH Roadmap Epigenomics Mapping Consortium
+%O Nature biotechnology
+%@ 1087-0156
+%R 10.1038/nbt1010-1045
+%2 PMC3607281
+%$ NIHMS452871
+%M 20944595
+%K *Cooperative Behavior
+*Epigenomics
+Genome, Human/genetics
+Humans
+*National Institutes of Health (U.S.)
+Reference Standards
+Stem Cells/metabolism
+United States
+%X The NIH Roadmap Epigenomics Mapping Consortium aims to produce a public resource of epigenomic maps for stem cells and primary ex vivo tissues selected to represent the normal counterparts of tissues and organ systems frequently involved in human disease.
+%Z 1546-1696
+Bernstein, Bradley E
+Stamatoyannopoulos, John A
+Costello, Joseph F
+Ren, Bing
+Milosavljevic, Aleksandar
+Meissner, Alexander
+Kellis, Manolis
+Marra, Marco A
+Beaudet, Arthur L
+Ecker, Joseph R
+Farnham, Peggy J
+Hirst, Martin
+Lander, Eric S
+Mikkelsen, Tarjei S
+Thomson, James A
+R01 HG003523/HG/NHGRI NIH HHS/United States
+R01 HG004037/HG/NHGRI NIH HHS/United States
+R01 HG005085/HG/NHGRI NIH HHS/United States
+Journal Article
+United States
+Nat Biotechnol. 2010 Oct;28(10):1045-8. doi: 10.1038/nbt1010-1045.
+%+ Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA. Bernstein.Bradley@mgh.harvard.edu
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Bertram, L.
+%A Tanzi, R. E.
+%D 2008
+%T Thirty years of Alzheimer's disease genetics: the implications of systematic meta-analyses
+%B Nat Rev Neurosci
+%V 9
+%N 10
+%P 768-78
+%7 2008/09/20
+%8 Oct
+%! Thirty years of Alzheimer's disease genetics: the implications of systematic meta-analyses
+%O Nature reviews. Neuroscience
+%@ 1471-003x
+%R 10.1038/nrn2494
+%M 18802446
+%K Alzheimer Disease/*genetics/metabolism/physiopathology
+Amyloid beta-Protein Precursor/genetics
+Animals
+Apolipoproteins E/genetics
+Brain Chemistry/*genetics
+Genetic Predisposition to Disease/*genetics
+Humans
+*Meta-Analysis as Topic
+Mutation/*genetics
+Presenilins/genetics
+Risk Factors
+%X The genetic underpinnings of Alzheimer's disease (AD) remain largely elusive despite early successes in identifying three genes that cause early-onset familial AD (those that encode amyloid precursor protein (APP) and the presenilins (PSEN1 and PSEN2)), and one genetic risk factor for late-onset AD (the gene that encodes apolipoprotein E (APOE)). A large number of studies that aimed to help uncover the remaining disease-related loci have been published in recent decades, collectively proposing or refuting the involvement of over 500 different gene candidates. Systematic meta-analyses of these studies currently highlight more than 20 loci that have modest but significant effects on AD risk. This Review discusses the putative pathogenetic roles and common biochemical pathways of some of the most genetically and biologically compelling of these potential AD risk factors.
+%Z 1471-0048
+Bertram, Lars
+Tanzi, Rudolph E
+5R01AG23667/AG/NIA NIH HHS/United States
+5R37MH60009/MH/NIMH NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Review
+England
+Nat Rev Neurosci. 2008 Oct;9(10):768-78. doi: 10.1038/nrn2494.
+%+ Genetics and Aging Research Unit, MassGeneral Institute for Neurodegenerative Diseases, Department of Neurology, Massachusetts General Hospital, 114 16th Street, Charlestown, Massachusetts 02129, USA. bertram@helix.mgh.harvard.edu
+%W NLM
+%G eng
+
+
+
+%0 Book
+%A Carpenter, B.
+%A Gelman, A.
+%A Hoffman, M.
+%A Lee, D.
+%A Goodrich, B.
+%A Betancourt, M.
+%A Brubaker, M.
+%A Guo, J.
+%A Li, P.
+%A Riddell, A.
+%D 2017
+%T Stan: A Probabilistic Programming Language
+%C Journal of Statistical Software
+%V 76
+%N 1
+%! Stan: A Probabilistic Programming Language
+
+
+
+%0 Journal Article
+%A Chen, H.
+%A Wang, C.
+%A Conomos, M. P.
+%A Stilp, A. M.
+%A Li, Z.
+%A Sofer, T.
+%A Szpiro, A. A.
+%A Chen, W.
+%A Brehm, J. M.
+%A Celedon, J. C.
+%A Redline, S.
+%A Papanicolaou, G. J.
+%A Thornton, T. A.
+%A Laurie, C. C.
+%A Rice, K.
+%A Lin, X.
+%D 2016
+%T Control for Population Structure and Relatedness for Binary Traits in Genetic Association Studies via Logistic Mixed Models
+%B Am J Hum Genet
+%V 98
+%N 4
+%P 653-66
+%7 2016/03/29
+%8 Apr 7
+%! Control for Population Structure and Relatedness for Binary Traits in Genetic Association Studies via Logistic Mixed Models
+%O American journal of human genetics
+%@ 0002-9297
+%R 10.1016/j.ajhg.2016.02.012
+%2 PMC4833218
+%M 27018471
+%K Asthma/genetics
+Case-Control Studies
+Central America
+Computer Simulation
+Genetic Association Studies/*methods
+Genetics, Population/*methods
+Genotyping Techniques
+Humans
+*Linear Models
+Logistic Models
+Models, Genetic
+*Phenotype
+Phylogeography
+Polymorphism, Single Nucleotide
+South America
+%X Linear mixed models (LMMs) are widely used in genome-wide association studies (GWASs) to account for population structure and relatedness, for both continuous and binary traits. Motivated by the failure of LMMs to control type I errors in a GWAS of asthma, a binary trait, we show that LMMs are generally inappropriate for analyzing binary traits when population stratification leads to violation of the LMM's constant-residual variance assumption. To overcome this problem, we develop a computationally efficient logistic mixed model approach for genome-wide analysis of binary traits, the generalized linear mixed model association test (GMMAT). This approach fits a logistic mixed model once per GWAS and performs score tests under the null hypothesis of no association between a binary trait and individual genetic variants. We show in simulation studies and real data analysis that GMMAT effectively controls for population structure and relatedness when analyzing binary traits in a wide variety of study designs.
+%Z 1537-6605
+Chen, Han
+Wang, Chaolong
+Conomos, Matthew P
+Stilp, Adrienne M
+Li, Zilin
+Sofer, Tamar
+Szpiro, Adam A
+Chen, Wei
+Brehm, John M
+Celedon, Juan C
+Redline, Susan
+Papanicolaou, George J
+Thornton, Timothy A
+Laurie, Cathy C
+Rice, Kenneth
+Lin, Xihong
+DK063491/DK/NIDDK NIH HHS/United States
+HHSN268201300005C/PHS HHS/United States
+HSN26220/20054C/PHS HHS/United States
+K01 CA148958/CA/NCI NIH HHS/United States
+K99 HL130593/HL/NHLBI NIH HHS/United States
+N01-HC65233/HC/NHLBI NIH HHS/United States
+N01-HC65234/HC/NHLBI NIH HHS/United States
+N01-HC65235/HC/NHLBI NIH HHS/United States
+N01-HC65236/HC/NHLBI NIH HHS/United States
+N01-HC65237/HC/NHLBI NIH HHS/United States
+P01 CA134294/CA/NCI NIH HHS/United States
+P01 GM099568/GM/NIGMS NIH HHS/United States
+R01 HL113338/HL/NHLBI NIH HHS/United States
+R35 CA197449/CA/NCI NIH HHS/United States
+R37 CA076404/CA/NCI NIH HHS/United States
+UL1TR000124/TR/NCATS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Am J Hum Genet. 2016 Apr 7;98(4):653-66. doi: 10.1016/j.ajhg.2016.02.012. Epub 2016 Mar 24.
+%+ Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, USA.
+Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, USA
+Computational and Systems Biology, Genome Institute of Singapore, Singapore 138672, Singapore.
+Department of Biostatistics, University of Washington, Seattle, WA 98195, USA.
+Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, USA
+Department of Mathematics, Tsinghua University, Beijing 100084, P. R. China.
+Division of Pediatric Pulmonary Medicine, Allergy and Immunology, Children's Hospital of Pittsburgh of UPMC, University of Pittsburgh, Pittsburgh, PA 15224, USA.
+Division of Sleep and Circadian Disorders, Departments of Medicine and Neurology, Brigham and Women's Hospital, Boston, MA 02115, USA.
+Prevention and Population Sciences Program, Division of Cardiovascular Sciences, National Heart, Lung, and Blood Institute, NIH, Bethesda, MD 20892, USA.
+Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA 02115, USA. Electronic address: xlin@hsph.harvard.edu.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Cheng, R.
+%A Abney, M.
+%A Palmer, A. A.
+%A Skol, A. D.
+%D 2011
+%T QTLRel: an R package for genome-wide association studies in which relatedness is a concern
+%B BMC Genet
+%V 12
+%P 66
+%7 2011/07/29
+%! QTLRel: an R package for genome-wide association studies in which relatedness is a concern
+%O BMC genetics
+%@ 1471-2156
+%R 10.1186/1471-2156-12-66
+%2 PMC3160955
+%M 21794153
+%K Genetic Variation
+*Genome-Wide Association Study
+Humans
+Models, Statistical
+*Pedigree
+Quantitative Trait Loci
+*Software
+%X BACKGROUND: Existing software for quantitative trait mapping is either not able to model polygenic variation or does not allow incorporation of more than one genetic variance component. Improperly modeling the genetic relatedness among subjects can result in excessive false positives. We have developed an R package, QTLRel, to enable more flexible modeling of genetic relatedness as well as covariates and non-genetic variance components. RESULTS: We have successfully used the package to analyze many datasets, including F(3)(4) body weight data that contains 688 individuals genotyped at 3105 SNP markers and identified 11 QTL. It took 295 seconds to estimate variance components and 70 seconds to perform the genome scan on an Linux machine equipped with a 2.40GHz Intel(R) Core(TM)2 Quad CPU. CONCLUSIONS: QTLRel provides a toolkit for genome-wide association studies that is capable of calculating genetic incidence matrices from pedigrees, estimating variance components, performing genome scans, incorporating interactive covariates and genetic and non-genetic variance components, as well as other functionalities such as multiple-QTL mapping and genome-wide epistasis.
+%Z 1471-2156
+Cheng, Riyan
+Abney, Mark
+Palmer, Abraham A
+Skol, Andrew D
+R01 DA021336/DA/NIDA NIH HHS/United States
+R01 GM097737/GM/NIGMS NIH HHS/United States
+R01 HG002899/HG/NHGRI NIH HHS/United States
+R01DA021336/DA/NIDA NIH HHS/United States
+R01MH079103/MH/NIMH NIH HHS/United States
+R21DA024845/DA/NIDA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+England
+BMC Genet. 2011 Jul 27;12:66. doi: 10.1186/1471-2156-12-66.
+%+ Department of Human Genetics, The University of Chicago, IL 60637, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A De Jager, P. L.
+%A Srivastava, G.
+%A Lunnon, K.
+%A Burgess, J.
+%A Schalkwyk, L. C.
+%A Yu, L.
+%A Eaton, M. L.
+%A Keenan, B. T.
+%A Ernst, J.
+%A McCabe, C.
+%A Tang, A.
+%A Raj, T.
+%A Replogle, J.
+%A Brodeur, W.
+%A Gabriel, S.
+%A Chai, H. S.
+%A Younkin, C.
+%A Younkin, S. G.
+%A Zou, F.
+%A Szyf, M.
+%A Epstein, C. B.
+%A Schneider, J. A.
+%A Bernstein, B. E.
+%A Meissner, A.
+%A Ertekin-Taner, N.
+%A Chibnik, L. B.
+%A Kellis, M.
+%A Mill, J.
+%A Bennett, D. A.
+%D 2014
+%T Alzheimer's disease: early alterations in brain DNA methylation at ANK1, BIN1, RHBDF2 and other loci
+%B Nat Neurosci
+%V 17
+%N 9
+%P 1156-63
+%7 2014/08/19
+%8 Sep
+%! Alzheimer's disease: early alterations in brain DNA methylation at ANK1, BIN1, RHBDF2 and other loci
+%O Nature neuroscience
+%@ 1097-6256
+%R 10.1038/nn.3786
+%2 PMC4292795
+%$ NIHMS614693
+%M 25129075
+%K Adaptor Proteins, Signal Transducing/*genetics
+Aged
+Aged, 80 and over
+Alzheimer Disease/epidemiology/*genetics/*pathology
+Amyloidosis/epidemiology/genetics/pathology
+Ankyrins/*genetics
+Brain/pathology/physiology
+Carrier Proteins/*genetics
+CpG Islands/genetics
+DNA Methylation/*genetics
+Female
+Genetic Predisposition to Disease/epidemiology/genetics
+Genome-Wide Association Study
+Humans
+Male
+Middle Aged
+Nuclear Proteins/*genetics
+Protein Interaction Maps
+Tumor Suppressor Proteins/*genetics
+%X We used a collection of 708 prospectively collected autopsied brains to assess the methylation state of the brain's DNA in relation to Alzheimer's disease (AD). We found that the level of methylation at 71 of the 415,848 interrogated CpGs was significantly associated with the burden of AD pathology, including CpGs in the ABCA7 and BIN1 regions, which harbor known AD susceptibility variants. We validated 11 of the differentially methylated regions in an independent set of 117 subjects. Furthermore, we functionally validated these CpG associations and identified the nearby genes whose RNA expression was altered in AD: ANK1, CDH23, DIP2A, RHBDF2, RPL13, SERPINF1 and SERPINF2. Our analyses suggest that these DNA methylation changes may have a role in the onset of AD given that we observed them in presymptomatic subjects and that six of the validated genes connect to a known AD susceptibility gene network.
+%Z 1546-1726
+De Jager, Philip L
+Srivastava, Gyan
+Lunnon, Katie
+Burgess, Jeremy
+Schalkwyk, Leonard C
+Orcid: 0000000170305756
+Yu, Lei
+Eaton, Matthew L
+Keenan, Brendan T
+Ernst, Jason
+McCabe, Cristin
+Tang, Anna
+Raj, Towfique
+Replogle, Joseph
+Brodeur, Wendy
+Gabriel, Stacey
+Chai, High S
+Younkin, Curtis
+Younkin, Steven G
+Zou, Fanggeng
+Szyf, Moshe
+Epstein, Charles B
+Schneider, Julie A
+Bernstein, Bradley E
+Meissner, Alex
+Ertekin-Taner, Nilufer
+Chibnik, Lori B
+Kellis, Manolis
+Mill, Jonathan
+Bennett, David A
+U01 AG046152/AG/NIA NIH HHS/United States
+R01 AG17917/AG/NIA NIH HHS/United States
+RF1 AG015819/AG/NIA NIH HHS/United States
+R01 HG004037/HG/NHGRI NIH HHS/United States
+P50 AG016574/AG/NIA NIH HHS/United States
+K25 AG041906/AG/NIA NIH HHS/United States
+AG036039/AG/NIA NIH HHS/United States
+R01 AG017917/AG/NIA NIH HHS/United States
+P30 AG10161/AG/NIA NIH HHS/United States
+KL2 RR024151/RR/NCRR NIH HHS/United States
+K25 AG041906-01/AG/NIA NIH HHS/United States
+R01 AG036042/AG/NIA NIH HHS/United States
+P30 AG010161/AG/NIA NIH HHS/United States
+R01 AG15819/AG/NIA NIH HHS/United States
+R01 AG032990/AG/NIA NIH HHS/United States
+R01 NS080820/NS/NINDS NIH HHS/United States
+RC2 AG036547/AG/NIA NIH HHS/United States
+U01 AG046139/AG/NIA NIH HHS/United States
+R01 AG18023/AG/NIA NIH HHS/United States
+R01AG036836/AG/NIA NIH HHS/United States
+U01 ES017155/ES/NIEHS NIH HHS/United States
+R01 AG018023/AG/NIA NIH HHS/United States
+R01 AG036836/AG/NIA NIH HHS/United States
+R01 AG015819/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Nat Neurosci. 2014 Sep;17(9):1156-63. doi: 10.1038/nn.3786. Epub 2014 Aug 17.
+%+ 1] Program in Translational NeuroPsychiatric Genomics, Institute for the Neurosciences, Departments of Neurology and Psychiatry, Brigham and Women's Hospital, Boston, Massachusetts, USA. [2] Harvard Medical School, Boston, Massachusetts, USA. [3] Program in Medical and Population Genetics, Broad Institute, Cambridge, Massachusetts, USA.
+1] Program in Translational NeuroPsychiatric Genomics, Institute for the Neurosciences, Departments of Neurology and Psychiatry, Brigham and Women's Hospital, Boston, Massachusetts, USA. [2] Program in Medical and Population Genetics, Broad Institute, Cambridge, Massachusetts, USA.
+1] University of Exeter Medical School, University of Exeter, Exeter, UK. [2] Institute of Psychiatry, King's College London, London, UK.
+1] Department of Neuroscience, Mayo Clinic, Jacksonville, Florida, USA. [2] Department of Neurology, Mayo Clinic, Jacksonville, Florida, USA.
+Rush Alzheimer's Disease Center, Rush University Medical Center, Chicago, Illinois, USA.
+1] Program in Medical and Population Genetics, Broad Institute, Cambridge, Massachusetts, USA. [2] Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.
+Program in Medical and Population Genetics, Broad Institute, Cambridge, Massachusetts, USA.
+Program in Translational NeuroPsychiatric Genomics, Institute for the Neurosciences, Departments of Neurology and Psychiatry, Brigham and Women's Hospital, Boston, Massachusetts, USA.
+Genetic Analysis Platform, Broad Institute, Cambridge, Massachusetts, USA.
+Department of Neuroscience, Mayo Clinic, Jacksonville, Florida, USA.
+Department of Pharmacology and Therapeutics, McGill University, Montreal, Quebec, Canada.
+Epigenomics Program, Broad Institute, Cambridge, Massachusetts, USA.
+1] Harvard Medical School, Boston, Massachusetts, USA. [2] Epigenomics Program, Broad Institute, Cambridge, Massachusetts, USA. [3] Department of Pathology, Massachusetts General Hospital, Boston, Massachusetts, USA.
+1] Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology, Cambridge, Massachusetts, USA. [2] Epigenomics Program, Broad Institute, Cambridge, Massachusetts, USA. [3] Harvard Stem Cell Institute, Harvard University, Cambridge, Massachusetts, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Consortium, Encode Project
+%D 2012
+%T An integrated encyclopedia of DNA elements in the human genome
+%B Nature
+%V 489
+%N 7414
+%P 57-74
+%7 2012/09/08
+%8 Sep 6
+%! An integrated encyclopedia of DNA elements in the human genome
+%O Nature
+%@ 0028-0836
+%R 10.1038/nature11247
+%2 PMC3439153
+%$ NIHMS381381
+%M 22955616
+%K Alleles
+Animals
+Binding Sites/genetics
+Chromatin/genetics/metabolism
+Chromatin Immunoprecipitation
+Chromosomes, Human/genetics/metabolism
+DNA/*genetics
+DNA Footprinting
+DNA Methylation/genetics
+DNA-Binding Proteins/metabolism
+Deoxyribonuclease I/metabolism
+*Encyclopedias as Topic
+Exons/genetics
+Genetic Predisposition to Disease/genetics
+Genetic Variation/genetics
+Genome, Human/*genetics
+Genome-Wide Association Study
+*Genomics
+Histones/chemistry/metabolism
+Humans
+Mammals/genetics
+*Molecular Sequence Annotation
+Neoplasms/genetics
+Polymorphism, Single Nucleotide/genetics
+Promoter Regions, Genetic/genetics
+Proteins/genetics
+Regulatory Sequences, Nucleic Acid/*genetics
+Sequence Analysis, RNA
+Transcription Factors/metabolism
+Transcription, Genetic/genetics
+%X The human genome encodes the blueprint of life, but the function of the vast majority of its nearly three billion bases is unknown. The Encyclopedia of DNA Elements (ENCODE) project has systematically mapped regions of transcription, transcription factor association, chromatin structure and histone modification. These data enabled us to assign biochemical functions for 80% of the genome, in particular outside of the well-studied protein-coding regions. Many discovered candidate regulatory elements are physically associated with one another and with expressed genes, providing new insights into the mechanisms of gene regulation. The newly identified elements also show a statistical correspondence to sequence variants linked to human disease, and can thereby guide interpretation of this variation. Overall, the project provides new insights into the organization and regulation of our genes and genome, and is an expansive resource of functional annotations for biomedical research.
+%Z 1476-4687
+ENCODE Project Consortium
+095908/Wellcome Trust/United Kingdom
+K99 HG006698/HG/NHGRI NIH HHS/United States
+P30 CA016086/CA/NCI NIH HHS/United States
+P30 CA045508/CA/NCI NIH HHS/United States
+R01 DK054369/DK/NIDDK NIH HHS/United States
+R01 DK065806/DK/NIDDK NIH HHS/United States
+R01 HG003143/HG/NHGRI NIH HHS/United States
+R01 HG005085/HG/NHGRI NIH HHS/United States
+R01HG003143/HG/NHGRI NIH HHS/United States
+R01HG003541/HG/NHGRI NIH HHS/United States
+R01HG003700/HG/NHGRI NIH HHS/United States
+R01HG003988/HG/NHGRI NIH HHS/United States
+R01HG004456-03/HG/NHGRI NIH HHS/United States
+R37 DK044746/DK/NIDDK NIH HHS/United States
+RC2 HG005573/HG/NHGRI NIH HHS/United States
+RC2HG005591/HG/NHGRI NIH HHS/United States
+RC2HG005679/HG/NHGRI NIH HHS/United States
+T32 GM007205/GM/NIGMS NIH HHS/United States
+U01 HG004695/HG/NHGRI NIH HHS/United States
+U01HG004561/HG/NHGRI NIH HHS/United States
+U01HG004571/HG/NHGRI NIH HHS/United States
+U01HG004695/HG/NHGRI NIH HHS/United States
+U41HG004568/HG/NHGRI NIH HHS/United States
+U54HG004555/HG/NHGRI NIH HHS/United States
+U54HG004557/HG/NHGRI NIH HHS/United States
+U54HG004558/HG/NHGRI NIH HHS/United States
+U54HG004563/HG/NHGRI NIH HHS/United States
+U54HG004570/HG/NHGRI NIH HHS/United States
+U54HG004576/HG/NHGRI NIH HHS/United States
+U54HG004592/HG/NHGRI NIH HHS/United States
+ZIAHG200323/PHS HHS/United States
+ZIAHG200341/PHS HHS/United States
+Intramural NIH HHS/United States
+Journal Article
+Research Support, American Recovery and Reinvestment Act
+Research Support, N.I.H., Extramural
+Research Support, N.I.H., Intramural
+Research Support, U.S. Gov't, Non-P.H.S.
+England
+Nature. 2012 Sep 6;489(7414):57-74. doi: 10.1038/nature11247.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Gatti, D. M.
+%A Svenson, K. L.
+%A Shabalin, A.
+%A Wu, L. Y.
+%A Valdar, W.
+%A Simecek, P.
+%A Goodwin, N.
+%A Cheng, R.
+%A Pomp, D.
+%A Palmer, A.
+%A Chesler, E. J.
+%A Broman, K. W.
+%A Churchill, G. A.
+%D 2014
+%T Quantitative trait locus mapping methods for diversity outbred mice
+%B G3 (Bethesda)
+%V 4
+%N 9
+%P 1623-33
+%7 2014/09/23
+%8 Sep
+%! Quantitative trait locus mapping methods for diversity outbred mice
+%O G3 (Bethesda, Md.)
+%@ 2160-1836
+%R 10.1534/g3.114.013748
+%2 PMC4169154
+%M 25237114
+%K Animals
+Animals, Outbred Strains/*genetics
+Chromosome Mapping/*methods
+Computer Simulation
+Genotype
+Leukocyte Count
+Mice
+Models, Genetic
+Neutrophils/cytology
+Phenotype
+Polymorphism, Single Nucleotide
+*Quantitative Trait Loci
+Software
+Mpp
+Multiparent Advanced Generation Inter-Cross (MAGIC)
+Multiparental populations
+diversity outbred
+haplotype reconstruction
+quantitative trait locus mapping
+%X Genetic mapping studies in the mouse and other model organisms are used to search for genes underlying complex phenotypes. Traditional genetic mapping studies that employ single-generation crosses have poor mapping resolution and limit discovery to loci that are polymorphic between the two parental strains. Multiparent outbreeding populations address these shortcomings by increasing the density of recombination events and introducing allelic variants from multiple founder strains. However, multiparent crosses present new analytical challenges and require specialized software to take full advantage of these benefits. Each animal in an outbreeding population is genetically unique and must be genotyped using a high-density marker set; regression models for mapping must accommodate multiple founder alleles, and complex breeding designs give rise to polygenic covariance among related animals that must be accounted for in mapping analysis. The Diversity Outbred (DO) mice combine the genetic diversity of eight founder strains in a multigenerational breeding design that has been maintained for >16 generations. The large population size and randomized mating ensure the long-term genetic stability of this population. We present a complete analytical pipeline for genetic mapping in DO mice, including algorithms for probabilistic reconstruction of founder haplotypes from genotyping array intensity data, and mapping methods that accommodate multiple founder haplotypes and account for relatedness among animals. Power analysis suggests that studies with as few as 200 DO mice can detect loci with large effects, but loci that account for <5% of trait variance may require a sample size of up to 1000 animals. The methods described here are implemented in the freely available R package DOQTL.
+%Z 2160-1836
+Gatti, Daniel M
+Svenson, Karen L
+Shabalin, Andrey
+Wu, Long-Yang
+Valdar, William
+Simecek, Petr
+Goodwin, Neal
+Cheng, Riyan
+Pomp, Daniel
+Palmer, Abraham
+Chesler, Elissa J
+Broman, Karl W
+Churchill, Gary A
+DK056350/DK/NIDDK NIH HHS/United States
+DK076050/DK/NIDDK NIH HHS/United States
+P30 AG038070/AG/NIA NIH HHS/United States
+P30 CA034196/CA/NCI NIH HHS/United States
+P30 DK056350/DK/NIDDK NIH HHS/United States
+P30 GM070683/GM/NIGMS NIH HHS/United States
+P50 GM076468/GM/NIGMS NIH HHS/United States
+R01 GM070683/GM/NIGMS NIH HHS/United States
+R01 GM074244/GM/NIGMS NIH HHS/United States
+RC1DK087346/DK/NIDDK NIH HHS/United States
+UL1 TR000430/TR/NCATS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+G3 (Bethesda). 2014 Sep 18;4(9):1623-33. doi: 10.1534/g3.114.013748.
+%+ The Jackson Laboratory, Bar Harbor, Maine 04609.
+Medical College of Virginia of Virginia Commonwealth University, Richmond, Virginia 23298.
+Department of Genetics, University of North Carolina, Chapel Hill, North Carolina 27599 Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, North Carolina 27599.
+Division of Plant Sciences, Research School of Biology, The Australian National University, Canberra, Australian Capital Territory 0200, Australia.
+Department of Genetics, University of North Carolina, Chapel Hill, North Carolina 27599.
+Department of Human Genetics, University of Chicago, Chicago, Illinois 60637.
+Department of Biostatistics and Medical Informatics, University of Wisconsin, Madison, Wisconsin 53706.
+The Jackson Laboratory, Bar Harbor, Maine 04609 gary.churchill@jax.org.
+%W NLM
+%G eng
+
+
+
+%0 Book
+%A Gelman  , A.
+%A Carlin  , J.
+%A Stern  , H.
+%A Dunson  , D.
+%A Vehtari  , A.
+%A Rubin, D.
+%D 2013
+%T Bayesian Data Analysis, Third Edition
+%I CRC Press
+%P 675
+%! Bayesian Data Analysis, Third Edition
+
+
+
+%0 Generic
+%A Gelman, A.
+%A Rubin, D.
+%D 1992
+%T Inference from Iterative Simulation Using Multiple Sequences
+%C Statistical Science
+%V 7
+%N 4
+%P 457-472
+%! Inference from Iterative Simulation Using Multiple Sequences
+
+
+
+%0 Generic
+%A Gilmour, A.
+%A Thompson, R.
+%A Cullis, B.
+%D 1995
+%T Average Information REML: An
+Efficient Algorithm for Variance Parameter Estimation in Linear Mixed Models
+%I Biometrics
+%V 51
+%N 4
+%P 1440-1450
+%! Average Information REML: An
+Efficient Algorithm for Variance Parameter Estimation in Linear Mixed Models
+
+
+
+%0 Journal Article
+%A Guerreiro, R.
+%A Wojtas, A.
+%A Bras, J.
+%A Carrasquillo, M.
+%A Rogaeva, E.
+%A Majounie, E.
+%A Cruchaga, C.
+%A Sassi, C.
+%A Kauwe, J. S.
+%A Younkin, S.
+%A Hazrati, L.
+%A Collinge, J.
+%A Pocock, J.
+%A Lashley, T.
+%A Williams, J.
+%A Lambert, J. C.
+%A Amouyel, P.
+%A Goate, A.
+%A Rademakers, R.
+%A Morgan, K.
+%A Powell, J.
+%A St George-Hyslop, P.
+%A Singleton, A.
+%A Hardy, J.
+%D 2013
+%T TREM2 variants in Alzheimer's disease
+%B N Engl J Med
+%V 368
+%N 2
+%P 117-27
+%7 2012/11/16
+%8 Jan 10
+%! TREM2 variants in Alzheimer's disease
+%O The New England journal of medicine
+%@ 0028-4793
+%R 10.1056/NEJMoa1211851
+%2 PMC3631573
+%$ NIHMS448530
+%M 23150934
+%K Aged
+Alzheimer Disease/*genetics/pathology
+Animals
+Brain/pathology
+Exome/genetics
+Genetic Variation
+Genome-Wide Association Study
+Genotype
+Genotyping Techniques
+Heterozygote
+Humans
+Membrane Glycoproteins/*genetics/metabolism
+Mice
+Mice, Inbred A
+*Mutation
+RNA, Messenger/metabolism
+Receptors, Immunologic/*genetics/metabolism
+Risk Factors
+Sequence Analysis, DNA/methods
+%X BACKGROUND: Homozygous loss-of-function mutations in TREM2, encoding the triggering receptor expressed on myeloid cells 2 protein, have previously been associated with an autosomal recessive form of early-onset dementia. METHODS: We used genome, exome, and Sanger sequencing to analyze the genetic variability in TREM2 in a series of 1092 patients with Alzheimer's disease and 1107 controls (the discovery set). We then performed a meta-analysis on imputed data for the TREM2 variant rs75932628 (predicted to cause a R47H substitution) from three genomewide association studies of Alzheimer's disease and tested for the association of the variant with disease. We genotyped the R47H variant in an additional 1887 cases and 4061 controls. We then assayed the expression of TREM2 across different regions of the human brain and identified genes that are differentially expressed in a mouse model of Alzheimer's disease and in control mice. RESULTS: We found significantly more variants in exon 2 of TREM2 in patients with Alzheimer's disease than in controls in the discovery set (P=0.02). There were 22 variant alleles in 1092 patients with Alzheimer's disease and 5 variant alleles in 1107 controls (P<0.001). The most commonly associated variant, rs75932628 (encoding R47H), showed highly significant association with Alzheimer's disease (P<0.001). Meta-analysis of rs75932628 genotypes imputed from genomewide association studies confirmed this association (P=0.002), as did direct genotyping of an additional series of 1887 patients with Alzheimer's disease and 4061 controls (P<0.001). Trem2 expression differed between control mice and a mouse model of Alzheimer's disease. CONCLUSIONS: Heterozygous rare variants in TREM2 are associated with a significant increase in the risk of Alzheimer's disease. (Funded by Alzheimer's Research UK and others.).
+%Z 1533-4406
+Guerreiro, Rita
+Wojtas, Aleksandra
+Bras, Jose
+Carrasquillo, Minerva
+Rogaeva, Ekaterina
+Majounie, Elisa
+Cruchaga, Carlos
+Sassi, Celeste
+Kauwe, John S K
+Younkin, Steven
+Hazrati, Lilinaz
+Collinge, John
+Pocock, Jennifer
+Lashley, Tammaryn
+Williams, Julie
+Lambert, Jean-Charles
+Amouyel, Philippe
+Goate, Alison
+Rademakers, Rosa
+Morgan, Kevin
+Powell, John
+St George-Hyslop, Peter
+Singleton, Andrew
+Hardy, John
+Alzheimer Genetic Analysis Group
+081864/Wellcome Trust/United Kingdom
+089698/Wellcome Trust/United Kingdom
+089703/Wellcome Trust/United Kingdom
+095317/Wellcome Trust/United Kingdom
+1R01 AG041797-01/AG/NIA NIH HHS/United States
+2P50 AG005681-27/AG/NIA NIH HHS/United States
+5P30 NS069329-02/NS/NINDS NIH HHS/United States
+G0701075/Medical Research Council/United Kingdom
+G0701441/Medical Research Council/United Kingdom
+G0802462/Medical Research Council/United Kingdom
+G0902227/Medical Research Council/United Kingdom
+G1100695/Medical Research Council/United Kingdom
+MC_G1000735/Medical Research Council/United Kingdom
+MC_U123192748/Medical Research Council/United Kingdom
+MR/K013041/1/Medical Research Council/United Kingdom
+P30 NS069329/NS/NINDS NIH HHS/United States
+P50 AG008702/AG/NIA NIH HHS/United States
+P50 AG016574/AG/NIA NIH HHS/United States
+R01 AG018023/AG/NIA NIH HHS/United States
+R01 AG041797/AG/NIA NIH HHS/United States
+R01 AG042611/AG/NIA NIH HHS/United States
+R01 AG18023/AG/NIA NIH HHS/United States
+U01 AG006786/AG/NIA NIH HHS/United States
+U24 AG021886/AG/NIA NIH HHS/United States
+WT089698/Wellcome Trust/United Kingdom
+Z01 AG000950-10/AG/NIA NIH HHS/United States
+Canadian Institutes of Health Research/Canada
+Intramural NIH HHS/United States
+Medical Research Council/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, N.I.H., Extramural
+Research Support, N.I.H., Intramural
+Research Support, Non-U.S. Gov't
+United States
+N Engl J Med. 2013 Jan 10;368(2):117-27. doi: 10.1056/NEJMoa1211851. Epub 2012 Nov 14.
+%+ University College London (UCL) Institute of Neurology, London, United Kingdom.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Harold, D.
+%A Abraham, R.
+%A Hollingworth, P.
+%A Sims, R.
+%A Gerrish, A.
+%A Hamshere, M. L.
+%A Pahwa, J. S.
+%A Moskvina, V.
+%A Dowzell, K.
+%A Williams, A.
+%A Jones, N.
+%A Thomas, C.
+%A Stretton, A.
+%A Morgan, A. R.
+%A Lovestone, S.
+%A Powell, J.
+%A Proitsi, P.
+%A Lupton, M. K.
+%A Brayne, C.
+%A Rubinsztein, D. C.
+%A Gill, M.
+%A Lawlor, B.
+%A Lynch, A.
+%A Morgan, K.
+%A Brown, K. S.
+%A Passmore, P. A.
+%A Craig, D.
+%A McGuinness, B.
+%A Todd, S.
+%A Holmes, C.
+%A Mann, D.
+%A Smith, A. D.
+%A Love, S.
+%A Kehoe, P. G.
+%A Hardy, J.
+%A Mead, S.
+%A Fox, N.
+%A Rossor, M.
+%A Collinge, J.
+%A Maier, W.
+%A Jessen, F.
+%A Schurmann, B.
+%A Heun, R.
+%A van den Bussche, H.
+%A Heuser, I.
+%A Kornhuber, J.
+%A Wiltfang, J.
+%A Dichgans, M.
+%A Frolich, L.
+%A Hampel, H.
+%A Hull, M.
+%A Rujescu, D.
+%A Goate, A. M.
+%A Kauwe, J. S.
+%A Cruchaga, C.
+%A Nowotny, P.
+%A Morris, J. C.
+%A Mayo, K.
+%A Sleegers, K.
+%A Bettens, K.
+%A Engelborghs, S.
+%A De Deyn, P. P.
+%A Van Broeckhoven, C.
+%A Livingston, G.
+%A Bass, N. J.
+%A Gurling, H.
+%A McQuillin, A.
+%A Gwilliam, R.
+%A Deloukas, P.
+%A Al-Chalabi, A.
+%A Shaw, C. E.
+%A Tsolaki, M.
+%A Singleton, A. B.
+%A Guerreiro, R.
+%A Muhleisen, T. W.
+%A Nothen, M. M.
+%A Moebus, S.
+%A Jockel, K. H.
+%A Klopp, N.
+%A Wichmann, H. E.
+%A Carrasquillo, M. M.
+%A Pankratz, V. S.
+%A Younkin, S. G.
+%A Holmans, P. A.
+%A O'Donovan, M.
+%A Owen, M. J.
+%A Williams, J.
+%D 2009
+%T Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer's disease
+%B Nat Genet
+%V 41
+%N 10
+%P 1088-93
+%7 2009/09/08
+%8 Oct
+%! Genome-wide association study identifies variants at CLU and PICALM associated with Alzheimer's disease
+%O Nature genetics
+%@ 1061-4036
+%R 10.1038/ng.440
+%2 PMC2845877
+%$ UKMS27833
+%M 19734902
+%K Alzheimer Disease/*genetics
+Chromosomes, Human
+Clusterin/*genetics
+*Genetic Predisposition to Disease
+Genome, Human
+*Genome-Wide Association Study
+Humans
+Monomeric Clathrin Assembly Proteins/*genetics
+*Polymorphism, Single Nucleotide
+%X We undertook a two-stage genome-wide association study (GWAS) of Alzheimer's disease (AD) involving over 16,000 individuals, the most powerful AD GWAS to date. In stage 1 (3,941 cases and 7,848 controls), we replicated the established association with the apolipoprotein E (APOE) locus (most significant SNP, rs2075650, P = 1.8 x 10(-157)) and observed genome-wide significant association with SNPs at two loci not previously associated with the disease: at the CLU (also known as APOJ) gene (rs11136000, P = 1.4 x 10(-9)) and 5' to the PICALM gene (rs3851179, P = 1.9 x 10(-8)). These associations were replicated in stage 2 (2,023 cases and 2,340 controls), producing compelling evidence for association with Alzheimer's disease in the combined dataset (rs11136000, P = 8.5 x 10(-10), odds ratio = 0.86; rs3851179, P = 1.3 x 10(-9), odds ratio = 0.86).
+%Z 1546-1718
+Harold, Denise
+Abraham, Richard
+Hollingworth, Paul
+Sims, Rebecca
+Gerrish, Amy
+Hamshere, Marian L
+Pahwa, Jaspreet Singh
+Moskvina, Valentina
+Dowzell, Kimberley
+Williams, Amy
+Jones, Nicola
+Thomas, Charlene
+Stretton, Alexandra
+Morgan, Angharad R
+Lovestone, Simon
+Powell, John
+Proitsi, Petroula
+Lupton, Michelle K
+Brayne, Carol
+Rubinsztein, David C
+Gill, Michael
+Lawlor, Brian
+Lynch, Aoibhinn
+Morgan, Kevin
+Brown, Kristelle S
+Passmore, Peter A
+Craig, David
+McGuinness, Bernadette
+Todd, Stephen
+Holmes, Clive
+Mann, David
+Smith, A David
+Love, Seth
+Kehoe, Patrick G
+Hardy, John
+Mead, Simon
+Fox, Nick
+Rossor, Martin
+Collinge, John
+Maier, Wolfgang
+Jessen, Frank
+Schurmann, Britta
+Heun, Reinhard
+van den Bussche, Hendrik
+Heuser, Isabella
+Kornhuber, Johannes
+Wiltfang, Jens
+Dichgans, Martin
+Frolich, Lutz
+Hampel, Harald
+Hull, Michael
+Rujescu, Dan
+Goate, Alison M
+Kauwe, John S K
+Cruchaga, Carlos
+Nowotny, Petra
+Morris, John C
+Mayo, Kevin
+Sleegers, Kristel
+Bettens, Karolien
+Engelborghs, Sebastiaan
+De Deyn, Peter P
+Van Broeckhoven, Christine
+Livingston, Gill
+Bass, Nicholas J
+Gurling, Hugh
+McQuillin, Andrew
+Gwilliam, Rhian
+Deloukas, Panagiotis
+Al-Chalabi, Ammar
+Shaw, Christopher E
+Tsolaki, Magda
+Singleton, Andrew B
+Guerreiro, Rita
+Muhleisen, Thomas W
+Nothen, Markus M
+Moebus, Susanne
+Jockel, Karl-Heinz
+Klopp, Norman
+Wichmann, H-Erich
+Carrasquillo, Minerva M
+Pankratz, V Shane
+Younkin, Steven G
+Holmans, Peter A
+O'Donovan, Michael
+Owen, Michael J
+Williams, Julie
+064354/Wellcome Trust/United Kingdom
+082604/Wellcome Trust/United Kingdom
+G0300429/Medical Research Council/United Kingdom
+G0600974/Medical Research Council/United Kingdom
+G0601846/Medical Research Council/United Kingdom
+G0701075/Medical Research Council/United Kingdom
+G0900688/Medical Research Council/United Kingdom
+MC_U123160651/Medical Research Council/United Kingdom
+MC_U123192748/Medical Research Council/United Kingdom
+UL1 RR024992/RR/NCRR NIH HHS/United States
+Intramural NIH HHS/United States
+Medical Research Council/United Kingdom
+Wellcome Trust/United Kingdom
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, N.I.H., Intramural
+Research Support, Non-U.S. Gov't
+United States
+Nat Genet. 2009 Oct;41(10):1088-93. doi: 10.1038/ng.440. Epub 2009 Sep 6.
+%+ Medical Research Council Centre for Neuropsychiatric Genetics and Genomics, Department of Psychological Medicine and Neurology, School of Medicine, Cardiff University, Cardiff, UK.
+%W NLM
+%G eng
+
+
+
+%0 Generic
+%A Henderson, C. R.
+%D 1953
+%T Estimation of Variance and Covariance Components
+%C Biometrics
+%V 9
+%N 2
+%P 226-252
+%! Estimation of Variance and Covariance Components
+
+
+
+%0 Journal Article
+%A Hollingworth, P.
+%A Harold, D.
+%A Sims, R.
+%A Gerrish, A.
+%A Lambert, J. C.
+%A Carrasquillo, M. M.
+%A Abraham, R.
+%A Hamshere, M. L.
+%A Pahwa, J. S.
+%A Moskvina, V.
+%A Dowzell, K.
+%A Jones, N.
+%A Stretton, A.
+%A Thomas, C.
+%A Richards, A.
+%A Ivanov, D.
+%A Widdowson, C.
+%A Chapman, J.
+%A Lovestone, S.
+%A Powell, J.
+%A Proitsi, P.
+%A Lupton, M. K.
+%A Brayne, C.
+%A Rubinsztein, D. C.
+%A Gill, M.
+%A Lawlor, B.
+%A Lynch, A.
+%A Brown, K. S.
+%A Passmore, P. A.
+%A Craig, D.
+%A McGuinness, B.
+%A Todd, S.
+%A Holmes, C.
+%A Mann, D.
+%A Smith, A. D.
+%A Beaumont, H.
+%A Warden, D.
+%A Wilcock, G.
+%A Love, S.
+%A Kehoe, P. G.
+%A Hooper, N. M.
+%A Vardy, E. R.
+%A Hardy, J.
+%A Mead, S.
+%A Fox, N. C.
+%A Rossor, M.
+%A Collinge, J.
+%A Maier, W.
+%A Jessen, F.
+%A Ruther, E.
+%A Schurmann, B.
+%A Heun, R.
+%A Kolsch, H.
+%A van den Bussche, H.
+%A Heuser, I.
+%A Kornhuber, J.
+%A Wiltfang, J.
+%A Dichgans, M.
+%A Frolich, L.
+%A Hampel, H.
+%A Gallacher, J.
+%A Hull, M.
+%A Rujescu, D.
+%A Giegling, I.
+%A Goate, A. M.
+%A Kauwe, J. S.
+%A Cruchaga, C.
+%A Nowotny, P.
+%A Morris, J. C.
+%A Mayo, K.
+%A Sleegers, K.
+%A Bettens, K.
+%A Engelborghs, S.
+%A De Deyn, P. P.
+%A Van Broeckhoven, C.
+%A Livingston, G.
+%A Bass, N. J.
+%A Gurling, H.
+%A McQuillin, A.
+%A Gwilliam, R.
+%A Deloukas, P.
+%A Al-Chalabi, A.
+%A Shaw, C. E.
+%A Tsolaki, M.
+%A Singleton, A. B.
+%A Guerreiro, R.
+%A Muhleisen, T. W.
+%A Nothen, M. M.
+%A Moebus, S.
+%A Jockel, K. H.
+%A Klopp, N.
+%A Wichmann, H. E.
+%A Pankratz, V. S.
+%A Sando, S. B.
+%A Aasly, J. O.
+%A Barcikowska, M.
+%A Wszolek, Z. K.
+%A Dickson, D. W.
+%A Graff-Radford, N. R.
+%A Petersen, R. C.
+%A van Duijn, C. M.
+%A Breteler, M. M.
+%A Ikram, M. A.
+%A DeStefano, A. L.
+%A Fitzpatrick, A. L.
+%A Lopez, O.
+%A Launer, L. J.
+%A Seshadri, S.
+%A Berr, C.
+%A Campion, D.
+%A Epelbaum, J.
+%A Dartigues, J. F.
+%A Tzourio, C.
+%A Alperovitch, A.
+%A Lathrop, M.
+%A Feulner, T. M.
+%A Friedrich, P.
+%A Riehle, C.
+%A Krawczak, M.
+%A Schreiber, S.
+%A Mayhaus, M.
+%A Nicolhaus, S.
+%A Wagenpfeil, S.
+%A Steinberg, S.
+%A Stefansson, H.
+%A Stefansson, K.
+%A Snaedal, J.
+%A Bjornsson, S.
+%A Jonsson, P. V.
+%A Chouraki, V.
+%A Genier-Boley, B.
+%A Hiltunen, M.
+%A Soininen, H.
+%A Combarros, O.
+%A Zelenika, D.
+%A Delepine, M.
+%A Bullido, M. J.
+%A Pasquier, F.
+%A Mateo, I.
+%A Frank-Garcia, A.
+%A Porcellini, E.
+%A Hanon, O.
+%A Coto, E.
+%A Alvarez, V.
+%A Bosco, P.
+%A Siciliano, G.
+%A Mancuso, M.
+%A Panza, F.
+%A Solfrizzi, V.
+%A Nacmias, B.
+%A Sorbi, S.
+%A Bossu, P.
+%A Piccardi, P.
+%A Arosio, B.
+%A Annoni, G.
+%A Seripa, D.
+%A Pilotto, A.
+%A Scarpini, E.
+%A Galimberti, D.
+%A Brice, A.
+%A Hannequin, D.
+%A Licastro, F.
+%A Jones, L.
+%A Holmans, P. A.
+%A Jonsson, T.
+%A Riemenschneider, M.
+%A Morgan, K.
+%A Younkin, S. G.
+%A Owen, M. J.
+%A O'Donovan, M.
+%A Amouyel, P.
+%A Williams, J.
+%D 2011
+%T Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are associated with Alzheimer's disease
+%B Nat Genet
+%V 43
+%N 5
+%P 429-35
+%7 2011/04/05
+%8 May
+%! Common variants at ABCA7, MS4A6A/MS4A4E, EPHA1, CD33 and CD2AP are associated with Alzheimer's disease
+%O Nature genetics
+%@ 1061-4036
+%R 10.1038/ng.803
+%2 PMC3084173
+%$ UKMS34702
+%M 21460840
+%K ATP-Binding Cassette Transporters/*genetics
+Adaptor Proteins, Signal Transducing/*genetics
+Aged
+Aged, 80 and over
+Alzheimer Disease/*genetics
+Antigens, CD/*genetics
+Antigens, Differentiation, Myelomonocytic/*genetics
+Case-Control Studies
+Cytoskeletal Proteins/*genetics
+Databases, Genetic
+Female
+Genetic Predisposition to Disease
+Genetic Variation
+Genome-Wide Association Study
+Humans
+Male
+Membrane Proteins/*genetics
+Multigene Family
+Polymorphism, Single Nucleotide
+Receptor, EphA1/*genetics
+Sialic Acid Binding Ig-like Lectin 3
+%X We sought to identify new susceptibility loci for Alzheimer's disease through a staged association study (GERAD+) and by testing suggestive loci reported by the Alzheimer's Disease Genetic Consortium (ADGC) in a companion paper. We undertook a combined analysis of four genome-wide association datasets (stage 1) and identified ten newly associated variants with P </= 1 x 10(-5). We tested these variants for association in an independent sample (stage 2). Three SNPs at two loci replicated and showed evidence for association in a further sample (stage 3). Meta-analyses of all data provided compelling evidence that ABCA7 (rs3764650, meta P = 4.5 x 10(-17); including ADGC data, meta P = 5.0 x 10(-21)) and the MS4A gene cluster (rs610932, meta P = 1.8 x 10(-14); including ADGC data, meta P = 1.2 x 10(-16)) are new Alzheimer's disease susceptibility loci. We also found independent evidence for association for three loci reported by the ADGC, which, when combined, showed genome-wide significance: CD2AP (GERAD+, P = 8.0 x 10(-4); including ADGC data, meta P = 8.6 x 10(-9)), CD33 (GERAD+, P = 2.2 x 10(-4); including ADGC data, meta P = 1.6 x 10(-9)) and EPHA1 (GERAD+, P = 3.4 x 10(-4); including ADGC data, meta P = 6.0 x 10(-10)).
+%Z 1546-1718
+Hollingworth, Paul
+Harold, Denise
+Sims, Rebecca
+Gerrish, Amy
+Lambert, Jean-Charles
+Carrasquillo, Minerva M
+Abraham, Richard
+Hamshere, Marian L
+Pahwa, Jaspreet Singh
+Moskvina, Valentina
+Dowzell, Kimberley
+Jones, Nicola
+Stretton, Alexandra
+Thomas, Charlene
+Richards, Alex
+Ivanov, Dobril
+Widdowson, Caroline
+Chapman, Jade
+Lovestone, Simon
+Powell, John
+Proitsi, Petroula
+Lupton, Michelle K
+Brayne, Carol
+Rubinsztein, David C
+Gill, Michael
+Lawlor, Brian
+Lynch, Aoibhinn
+Brown, Kristelle S
+Passmore, Peter A
+Craig, David
+McGuinness, Bernadette
+Todd, Stephen
+Holmes, Clive
+Mann, David
+Smith, A David
+Beaumont, Helen
+Warden, Donald
+Wilcock, Gordon
+Love, Seth
+Kehoe, Patrick G
+Hooper, Nigel M
+Vardy, Emma R L C
+Hardy, John
+Mead, Simon
+Fox, Nick C
+Rossor, Martin
+Collinge, John
+Maier, Wolfgang
+Jessen, Frank
+Ruther, Eckart
+Schurmann, Britta
+Heun, Reiner
+Kolsch, Heike
+van den Bussche, Hendrik
+Heuser, Isabella
+Kornhuber, Johannes
+Wiltfang, Jens
+Dichgans, Martin
+Frolich, Lutz
+Hampel, Harald
+Gallacher, John
+Hull, Michael
+Rujescu, Dan
+Giegling, Ina
+Goate, Alison M
+Kauwe, John S K
+Cruchaga, Carlos
+Nowotny, Petra
+Morris, John C
+Mayo, Kevin
+Sleegers, Kristel
+Bettens, Karolien
+Engelborghs, Sebastiaan
+De Deyn, Peter P
+Van Broeckhoven, Christine
+Livingston, Gill
+Bass, Nicholas J
+Gurling, Hugh
+McQuillin, Andrew
+Gwilliam, Rhian
+Deloukas, Panagiotis
+Al-Chalabi, Ammar
+Shaw, Christopher E
+Tsolaki, Magda
+Singleton, Andrew B
+Guerreiro, Rita
+Muhleisen, Thomas W
+Nothen, Markus M
+Moebus, Susanne
+Jockel, Karl-Heinz
+Klopp, Norman
+Wichmann, H-Erich
+Pankratz, V Shane
+Sando, Sigrid B
+Aasly, Jan O
+Barcikowska, Maria
+Wszolek, Zbigniew K
+Dickson, Dennis W
+Graff-Radford, Neill R
+Petersen, Ronald C
+Alzheimer's Disease Neuroimaging Initiative
+van Duijn, Cornelia M
+Breteler, Monique M B
+Ikram, M Arfan
+DeStefano, Anita L
+Fitzpatrick, Annette L
+Lopez, Oscar
+Launer, Lenore J
+Seshadri, Sudha
+CHARGE consortium
+Berr, Claudine
+Campion, Dominique
+Epelbaum, Jacques
+Dartigues, Jean-Francois
+Tzourio, Christophe
+Alperovitch, Annick
+Lathrop, Mark
+EADI1 consortium
+Feulner, Thomas M
+Friedrich, Patricia
+Riehle, Caterina
+Krawczak, Michael
+Schreiber, Stefan
+Mayhaus, Manuel
+Nicolhaus, S
+Wagenpfeil, Stefan
+Steinberg, Stacy
+Stefansson, Hreinn
+Stefansson, Kari
+Snaedal, Jon
+Bjornsson, Sigurbjorn
+Jonsson, Palmi V
+Chouraki, Vincent
+Genier-Boley, Benjamin
+Hiltunen, Mikko
+Soininen, Hilkka
+Combarros, Onofre
+Zelenika, Diana
+Delepine, Marc
+Bullido, Maria J
+Pasquier, Florence
+Mateo, Ignacio
+Frank-Garcia, Ana
+Porcellini, Elisa
+Hanon, Olivier
+Coto, Eliecer
+Alvarez, Victoria
+Bosco, Paolo
+Siciliano, Gabriele
+Mancuso, Michelangelo
+Panza, Francesco
+Solfrizzi, Vincenzo
+Nacmias, Benedetta
+Sorbi, Sandro
+Bossu, Paola
+Piccardi, Paola
+Arosio, Beatrice
+Annoni, Giorgio
+Seripa, Davide
+Pilotto, Alberto
+Scarpini, Elio
+Galimberti, Daniela
+Brice, Alexis
+Hannequin, Didier
+Licastro, Federico
+Jones, Lesley
+Holmans, Peter A
+Jonsson, Thorlakur
+Riemenschneider, Matthias
+Morgan, Kevin
+Younkin, Steven G
+Owen, Michael J
+O'Donovan, Michael
+Amouyel, Philippe
+Williams, Julie
+082604/Wellcome Trust/United Kingdom
+G0300429/Medical Research Council/United Kingdom
+G0601846/Medical Research Council/United Kingdom
+G0701075/Medical Research Council/United Kingdom
+G0802189/Medical Research Council/United Kingdom
+G0900688/Medical Research Council/United Kingdom
+G0902227/Medical Research Council/United Kingdom
+G9810900/Medical Research Council/United Kingdom
+MC_G1000734/Medical Research Council/United Kingdom
+MC_U123160651/Medical Research Council/United Kingdom
+U24 AG021886/AG/NIA NIH HHS/United States
+Medical Research Council/United Kingdom
+Wellcome Trust/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Nat Genet. 2011 May;43(5):429-35. doi: 10.1038/ng.803. Epub 2011 Apr 3.
+%+ Medical Research Council Centre for Neuropsychiatric Genetics and Genomics, Neurosciences and Mental Health Research Institute, Department of Psychological Medicine and Neurology, School of Medicine, Cardiff University, Cardiff, UK.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Iturria-Medina, Y.
+%A Sotero, R. C.
+%A Toussaint, P. J.
+%A Mateos-Pérez, J. M.
+%A Evans, A. C.
+%A Initiative, Alzheimer’s Disease Neuroimaging
+%D 2016
+%T Early role of vascular dysregulation on late-onset Alzheimer's disease based on multifactorial data-driven analysis
+%B Nat Commun
+%V 7
+%P 11934
+%! Early role of vascular dysregulation on late-onset Alzheimer's disease based on multifactorial data-driven analysis
+%@ 2041-1723
+%R 10.1038/ncomms11934
+%2 PMC4919512
+%M 27327500
+%X Multifactorial mechanisms underlying late-onset Alzheimer's disease (LOAD) are poorly characterized from an integrative perspective. Here spatiotemporal alterations in brain amyloid-β deposition, metabolism, vascular, functional activity at rest, structural properties, cognitive integrity and peripheral proteins levels are characterized in relation to LOAD progression. We analyse over 7,700 brain images and tens of plasma and cerebrospinal fluid biomarkers from the Alzheimer's Disease Neuroimaging Initiative (ADNI). Through a multifactorial data-driven analysis, we obtain dynamic LOAD-abnormality indices for all biomarkers, and a tentative temporal ordering of disease progression. Imaging results suggest that intra-brain vascular dysregulation is an early pathological event during disease development. Cognitive decline is noticeable from initial LOAD stages, suggesting early memory deficit associated with the primary disease factors. High abnormality levels are also observed for specific proteins associated with the vascular system's integrity. Although still subjected to the sensitivity of the algorithms and biomarkers employed, our results might contribute to the development of preventive therapeutic interventions.
+%U https://www.ncbi.nlm.nih.gov/pubmed/27327500
+%G eng
+
+
+
+%0 Journal Article
+%A Jones, L.
+%A Holmans, P. A.
+%A Hamshere, M. L.
+%A Harold, D.
+%A Moskvina, V.
+%A Ivanov, D.
+%A Pocklington, A.
+%A Abraham, R.
+%A Hollingworth, P.
+%A Sims, R.
+%A Gerrish, A.
+%A Pahwa, J. S.
+%A Jones, N.
+%A Stretton, A.
+%A Morgan, A. R.
+%A Lovestone, S.
+%A Powell, J.
+%A Proitsi, P.
+%A Lupton, M. K.
+%A Brayne, C.
+%A Rubinsztein, D. C.
+%A Gill, M.
+%A Lawlor, B.
+%A Lynch, A.
+%A Morgan, K.
+%A Brown, K. S.
+%A Passmore, P. A.
+%A Craig, D.
+%A McGuinness, B.
+%A Todd, S.
+%A Holmes, C.
+%A Mann, D.
+%A Smith, A. D.
+%A Love, S.
+%A Kehoe, P. G.
+%A Mead, S.
+%A Fox, N.
+%A Rossor, M.
+%A Collinge, J.
+%A Maier, W.
+%A Jessen, F.
+%A Schurmann, B.
+%A Heun, R.
+%A Kolsch, H.
+%A van den Bussche, H.
+%A Heuser, I.
+%A Peters, O.
+%A Kornhuber, J.
+%A Wiltfang, J.
+%A Dichgans, M.
+%A Frolich, L.
+%A Hampel, H.
+%A Hull, M.
+%A Rujescu, D.
+%A Goate, A. M.
+%A Kauwe, J. S.
+%A Cruchaga, C.
+%A Nowotny, P.
+%A Morris, J. C.
+%A Mayo, K.
+%A Livingston, G.
+%A Bass, N. J.
+%A Gurling, H.
+%A McQuillin, A.
+%A Gwilliam, R.
+%A Deloukas, P.
+%A Al-Chalabi, A.
+%A Shaw, C. E.
+%A Singleton, A. B.
+%A Guerreiro, R.
+%A Muhleisen, T. W.
+%A Nothen, M. M.
+%A Moebus, S.
+%A Jockel, K. H.
+%A Klopp, N.
+%A Wichmann, H. E.
+%A Ruther, E.
+%A Carrasquillo, M. M.
+%A Pankratz, V. S.
+%A Younkin, S. G.
+%A Hardy, J.
+%A O'Donovan, M. C.
+%A Owen, M. J.
+%A Williams, J.
+%D 2010
+%T Genetic evidence implicates the immune system and cholesterol metabolism in the aetiology of Alzheimer's disease
+%B PLoS One
+%V 5
+%N 11
+%P e13950
+%7 2010/11/19
+%! Genetic evidence implicates the immune system and cholesterol metabolism in the aetiology of Alzheimer's disease
+%O PloS one
+%@ 1932-6203
+%R 10.1371/journal.pone.0013950
+%2 PMC2981526
+%M 21085570
+%K Alzheimer Disease/*genetics/immunology/metabolism
+Apolipoproteins E/genetics/metabolism
+Cholesterol/*metabolism
+Chromosome Mapping
+Genetic Predisposition to Disease/genetics
+Genome, Human
+*Genome-Wide Association Study
+Humans
+Immune System/*metabolism
+Polymorphism, Single Nucleotide
+%X BACKGROUND: Late Onset Alzheimer's disease (LOAD) is the leading cause of dementia. Recent large genome-wide association studies (GWAS) identified the first strongly supported LOAD susceptibility genes since the discovery of the involvement of APOE in the early 1990s. We have now exploited these GWAS datasets to uncover key LOAD pathophysiological processes. METHODOLOGY: We applied a recently developed tool for mining GWAS data for biologically meaningful information to a LOAD GWAS dataset. The principal findings were then tested in an independent GWAS dataset. PRINCIPAL FINDINGS: We found a significant overrepresentation of association signals in pathways related to cholesterol metabolism and the immune response in both of the two largest genome-wide association studies for LOAD. SIGNIFICANCE: Processes related to cholesterol metabolism and the innate immune response have previously been implicated by pathological and epidemiological studies of Alzheimer's disease, but it has been unclear whether those findings reflected primary aetiological events or consequences of the disease process. Our independent evidence from two large studies now demonstrates that these processes are aetiologically relevant, and suggests that they may be suitable targets for novel and existing therapeutic approaches.
+%Z 1932-6203
+Jones, Lesley
+Holmans, Peter A
+Hamshere, Marian L
+Harold, Denise
+Moskvina, Valentina
+Ivanov, Dobril
+Pocklington, Andrew
+Abraham, Richard
+Hollingworth, Paul
+Sims, Rebecca
+Gerrish, Amy
+Pahwa, Jaspreet Singh
+Jones, Nicola
+Stretton, Alexandra
+Morgan, Angharad R
+Lovestone, Simon
+Powell, John
+Proitsi, Petroula
+Lupton, Michelle K
+Brayne, Carol
+Rubinsztein, David C
+Gill, Michael
+Lawlor, Brian
+Lynch, Aoibhinn
+Morgan, Kevin
+Brown, Kristelle S
+Passmore, Peter A
+Craig, David
+McGuinness, Bernadette
+Todd, Stephen
+Holmes, Clive
+Mann, David
+Smith, A David
+Love, Seth
+Kehoe, Patrick G
+Mead, Simon
+Fox, Nick
+Rossor, Martin
+Collinge, John
+Maier, Wolfgang
+Jessen, Frank
+Schurmann, Britta
+Heun, Reinhard
+Kolsch, Heike
+van den Bussche, Hendrik
+Heuser, Isabella
+Peters, Oliver
+Kornhuber, Johannes
+Wiltfang, Jens
+Dichgans, Martin
+Frolich, Lutz
+Hampel, Harald
+Hull, Michael
+Rujescu, Dan
+Goate, Alison M
+Kauwe, John S K
+Cruchaga, Carlos
+Nowotny, Petra
+Morris, John C
+Mayo, Kevin
+Livingston, Gill
+Bass, Nicholas J
+Gurling, Hugh
+McQuillin, Andrew
+Gwilliam, Rhian
+Deloukas, Panos
+Al-Chalabi, Ammar
+Shaw, Christopher E
+Singleton, Andrew B
+Guerreiro, Rita
+Muhleisen, Thomas W
+Nothen, Markus M
+Moebus, Susanne
+Jockel, Karl-Heinz
+Klopp, Norman
+Wichmann, H-Erich
+Ruther, Eckhard
+Carrasquillo, Minerva M
+Pankratz, V Shane
+Younkin, Steven G
+Hardy, John
+O'Donovan, Michael C
+Owen, Michael J
+Williams, Julie
+G0300429/Medical Research Council/United Kingdom
+G0600974/Medical Research Council/United Kingdom
+G0601846/Medical Research Council/United Kingdom
+G0701075/Medical Research Council/United Kingdom
+G0900688/Medical Research Council/United Kingdom
+MC_U123160651/Medical Research Council/United Kingdom
+MC_U123192748/Medical Research Council/United Kingdom
+Z01 AG000950-06/AG/NIA NIH HHS/United States
+Medical Research Council/United Kingdom
+Wellcome Trust/United Kingdom
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+PLoS One. 2010 Nov 15;5(11):e13950. doi: 10.1371/journal.pone.0013950.
+%+ Department of Psychological Medicine and Neurology, School of Medicine, Cardiff University, Medical Research Council Centre for Neuropsychiatric Genetics and Genomics, Cardiff, United Kingdom.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Jonsson, T.
+%A Stefansson, H.
+%A Steinberg, S.
+%A Jonsdottir, I.
+%A Jonsson, P. V.
+%A Snaedal, J.
+%A Bjornsson, S.
+%A Huttenlocher, J.
+%A Levey, A. I.
+%A Lah, J. J.
+%A Rujescu, D.
+%A Hampel, H.
+%A Giegling, I.
+%A Andreassen, O. A.
+%A Engedal, K.
+%A Ulstein, I.
+%A Djurovic, S.
+%A Ibrahim-Verbaas, C.
+%A Hofman, A.
+%A Ikram, M. A.
+%A van Duijn, C. M.
+%A Thorsteinsdottir, U.
+%A Kong, A.
+%A Stefansson, K.
+%D 2013
+%T Variant of TREM2 associated with the risk of Alzheimer's disease
+%B N Engl J Med
+%V 368
+%N 2
+%P 107-16
+%7 2012/11/16
+%8 Jan 10
+%! Variant of TREM2 associated with the risk of Alzheimer's disease
+%O The New England journal of medicine
+%@ 0028-4793
+%R 10.1056/NEJMoa1211103
+%2 PMC3677583
+%$ NIHMS448531
+%M 23150908
+%K Aged, 80 and over
+Alzheimer Disease/*genetics
+Apolipoprotein E4/genetics
+Case-Control Studies
+Cognition
+Genetic Variation
+Genotyping Techniques
+Heterozygote
+Humans
+Iceland
+Membrane Glycoproteins/*genetics
+*Mutation, Missense
+Polymorphism, Single Nucleotide
+Receptors, Immunologic/*genetics
+Risk Factors
+Sequence Analysis, DNA
+%X BACKGROUND: Sequence variants, including the epsilon4 allele of apolipoprotein E, have been associated with the risk of the common late-onset form of Alzheimer's disease. Few rare variants affecting the risk of late-onset Alzheimer's disease have been found. METHODS: We obtained the genome sequences of 2261 Icelanders and identified sequence variants that were likely to affect protein function. We imputed these variants into the genomes of patients with Alzheimer's disease and control participants and then tested for an association with Alzheimer's disease. We performed replication tests using case-control series from the United States, Norway, The Netherlands, and Germany. We also tested for a genetic association with cognitive function in a population of unaffected elderly persons. RESULTS: A rare missense mutation (rs75932628-T) in the gene encoding the triggering receptor expressed on myeloid cells 2 (TREM2), which was predicted to result in an R47H substitution, was found to confer a significant risk of Alzheimer's disease in Iceland (odds ratio, 2.92; 95% confidence interval [CI], 2.09 to 4.09; P=3.42x10(-10)). The mutation had a frequency of 0.46% in controls 85 years of age or older. We observed the association in additional sample sets (odds ratio, 2.90; 95% CI, 2.16 to 3.91; P=2.1x10(-12) in combined discovery and replication samples). We also found that carriers of rs75932628-T between the ages of 80 and 100 years without Alzheimer's disease had poorer cognitive function than noncarriers (P=0.003). CONCLUSIONS: Our findings strongly implicate variant TREM2 in the pathogenesis of Alzheimer's disease. Given the reported antiinflammatory role of TREM2 in the brain, the R47H substitution may lead to an increased predisposition to Alzheimer's disease through impaired containment of inflammatory processes. (Funded by the National Institute on Aging and others.).
+%Z 1533-4406
+Jonsson, Thorlakur
+Stefansson, Hreinn
+Steinberg, Stacy
+Jonsdottir, Ingileif
+Jonsson, Palmi V
+Snaedal, Jon
+Bjornsson, Sigurbjorn
+Huttenlocher, Johanna
+Levey, Allan I
+Lah, James J
+Rujescu, Dan
+Hampel, Harald
+Giegling, Ina
+Andreassen, Ole A
+Engedal, Knut
+Ulstein, Ingun
+Djurovic, Srdjan
+Ibrahim-Verbaas, Carla
+Hofman, Albert
+Ikram, M Arfan
+van Duijn, Cornelia M
+Thorsteinsdottir, Unnur
+Kong, Augustine
+Stefansson, Kari
+P50 AG025688/AG/NIA NIH HHS/United States
+P50-AG025688/AG/NIA NIH HHS/United States
+U01 HG006375/HG/NHGRI NIH HHS/United States
+U01AG006781/AG/NIA NIH HHS/United States
+U01HG004438/HG/NHGRI NIH HHS/United States
+U01HG004603/HG/NHGRI NIH HHS/United States
+U01HG004610/HG/NHGRI NIH HHS/United States
+U24 AG021886/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+N Engl J Med. 2013 Jan 10;368(2):107-16. doi: 10.1056/NEJMoa1211103. Epub 2012 Nov 14.
+%+ deCODE Genetics, Reykjavik, Iceland.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Jun, G.
+%A Naj, A. C.
+%A Beecham, G. W.
+%A Wang, L. S.
+%A Buros, J.
+%A Gallins, P. J.
+%A Buxbaum, J. D.
+%A Ertekin-Taner, N.
+%A Fallin, M. D.
+%A Friedland, R.
+%A Inzelberg, R.
+%A Kramer, P.
+%A Rogaeva, E.
+%A St George-Hyslop, P.
+%A Cantwell, L. B.
+%A Dombroski, B. A.
+%A Saykin, A. J.
+%A Reiman, E. M.
+%A Bennett, D. A.
+%A Morris, J. C.
+%A Lunetta, K. L.
+%A Martin, E. R.
+%A Montine, T. J.
+%A Goate, A. M.
+%A Blacker, D.
+%A Tsuang, D. W.
+%A Beekly, D.
+%A Cupples, L. A.
+%A Hakonarson, H.
+%A Kukull, W.
+%A Foroud, T. M.
+%A Haines, J.
+%A Mayeux, R.
+%A Farrer, L. A.
+%A Pericak-Vance, M. A.
+%A Schellenberg, G. D.
+%D 2010
+%T Meta-analysis confirms CR1, CLU, and PICALM as alzheimer disease risk loci and reveals interactions with APOE genotypes
+%B Arch Neurol
+%V 67
+%N 12
+%P 1473-84
+%7 2010/08/11
+%8 Dec
+%! Meta-analysis confirms CR1, CLU, and PICALM as alzheimer disease risk loci and reveals interactions with APOE genotypes
+%O Archives of neurology
+%@ 0003-9942
+%R 10.1001/archneurol.2010.201
+%2 PMC3048805
+%$ NIHMS272831
+%M 20697030
+%K Aged
+Aged, 80 and over
+Alzheimer Disease/*genetics
+Apolipoproteins E/*genetics
+Clusterin/*genetics
+Cohort Studies
+Confidence Intervals
+European Continental Ancestry Group
+Female
+Gene Frequency
+Genome-Wide Association Study
+Genotype
+Humans
+Male
+Meta-Analysis as Topic
+Monomeric Clathrin Assembly Proteins/*genetics
+Odds Ratio
+Polymorphism, Single Nucleotide/genetics
+Receptors, Complement 3b/*genetics
+Risk Factors
+%X OBJECTIVES: To determine whether genotypes at CLU, PICALM, and CR1 confer risk for Alzheimer disease (AD) and whether risk for AD associated with these genes is influenced by apolipoprotein E (APOE) genotypes. DESIGN: Association study of AD and CLU, PICALM, CR1, and APOE genotypes. SETTING: Academic research institutions in the United States, Canada, and Israel. PARTICIPANTS: Seven thousand seventy cases with AD, 3055 with autopsies, and 8169 elderly cognitively normal controls, 1092 with autopsies, from 12 different studies, including white, African American, Israeli-Arab, and Caribbean Hispanic individuals. RESULTS: Unadjusted, CLU (odds ratio [OR], 0.91; 95% confidence interval [CI], 0.85-0.96 for single-nucleotide polymorphism [SNP] rs11136000), CR1 (OR, 1.14; 95% CI, 1.07-1.22; SNP rs3818361), and PICALM (OR, 0.89; 95% CI, 0.84-0.94, SNP rs3851179) were associated with AD in white individuals. None were significantly associated with AD in the other ethnic groups. APOE epsilon4 was significantly associated with AD (ORs, 1.80-9.05) in all but 1 small white cohort and in the Arab cohort. Adjusting for age, sex, and the presence of at least 1 APOE epsilon4 allele greatly reduced evidence for association with PICALM but not CR1 or CLU. Models with the main SNP effect, presence or absence of APOE epsilon4, and an interaction term showed significant interaction between presence or absence of APOE epsilon4 and PICALM. CONCLUSIONS: We confirm in a completely independent data set that CR1, CLU, and PICALM are AD susceptibility loci in European ancestry populations. Genotypes at PICALM confer risk predominantly in APOE epsilon4-positive subjects. Thus, APOE and PICALM synergistically interact.
+%Z 1538-3687
+Jun, Gyungah
+Naj, Adam C
+Beecham, Gary W
+Wang, Li-San
+Buros, Jacqueline
+Gallins, Paul J
+Buxbaum, Joseph D
+Ertekin-Taner, Nilufer
+Fallin, M Daniele
+Friedland, Robert
+Inzelberg, Rivka
+Kramer, Patricia
+Rogaeva, Ekaterina
+St George-Hyslop, Peter
+Alzheimer's Disease Genetics Consortium
+Cantwell, Laura B
+Dombroski, Beth A
+Saykin, Andrew J
+Reiman, Eric M
+Bennett, David A
+Morris, John C
+Lunetta, Kathryn L
+Martin, Eden R
+Montine, Thomas J
+Goate, Alison M
+Blacker, Deborah
+Tsuang, Debby W
+Beekly, Duane
+Cupples, L Adrienne
+Hakonarson, Hakon
+Kukull, Walter
+Foroud, Tatiana M
+Haines, Jonathan
+Mayeux, Richard
+Farrer, Lindsay A
+Pericak-Vance, Margaret A
+Schellenberg, Gerard D
+081864/Wellcome Trust/United Kingdom
+AG002219/AG/NIA NIH HHS/United States
+AG005138/AG/NIA NIH HHS/United States
+AG010491/AG/NIA NIH HHS/United States
+AG019757/AG/NIA NIH HHS/United States
+AG021547/AG/NIA NIH HHS/United States
+AG025688/AG/NIA NIH HHS/United States
+AG027944/AG/NIA NIH HHS/United States
+K01 AG030514/AG/NIA NIH HHS/United States
+K01 AG030514-01A1/AG/NIA NIH HHS/United States
+K01 AG030514-04/AG/NIA NIH HHS/United States
+K08 NS054811/NS/NINDS NIH HHS/United States
+K08 NS054811-06/NS/NINDS NIH HHS/United States
+K24 AG027841/AG/NIA NIH HHS/United States
+K24 AG027841-01A1/AG/NIA NIH HHS/United States
+K24 AG027841-05/AG/NIA NIH HHS/United States
+M01 RR000096-38/RR/NCRR NIH HHS/United States
+M01 RR000096-47/RR/NCRR NIH HHS/United States
+MO1 RR00096/RR/NCRR NIH HHS/United States
+N01 HC-25195/HC/NHLBI NIH HHS/United States
+N01 HC025195/HC/NHLBI NIH HHS/United States
+P01 AG002219/AG/NIA NIH HHS/United States
+P01 AG002219-22/AG/NIA NIH HHS/United States
+P01 AG002219-28/AG/NIA NIH HHS/United States
+P01 AG003991/AG/NIA NIH HHS/United States
+P01 AG003991-16/AG/NIA NIH HHS/United States
+P01 AG003991-24/AG/NIA NIH HHS/United States
+P01 AG010491/AG/NIA NIH HHS/United States
+P01 AG010491-06A2/AG/NIA NIH HHS/United States
+P01 AG010491-14/AG/NIA NIH HHS/United States
+P01 AG019724/AG/NIA NIH HHS/United States
+P01 AG019724-01A1/AG/NIA NIH HHS/United States
+P01 AG019724-10/AG/NIA NIH HHS/United States
+P01 AG03991/AG/NIA NIH HHS/United States
+P30 AG008017/AG/NIA NIH HHS/United States
+P30 AG008017-10/AG/NIA NIH HHS/United States
+P30 AG008017-15/AG/NIA NIH HHS/United States
+P30 AG008051/AG/NIA NIH HHS/United States
+P30 AG008051-10/AG/NIA NIH HHS/United States
+P30 AG008051-16/AG/NIA NIH HHS/United States
+P30 AG010124/AG/NIA NIH HHS/United States
+P30 AG010124-09/AG/NIA NIH HHS/United States
+P30 AG010124-15/AG/NIA NIH HHS/United States
+P30 AG010129/AG/NIA NIH HHS/United States
+P30 AG010129-09/AG/NIA NIH HHS/United States
+P30 AG010129-10/AG/NIA NIH HHS/United States
+P30 AG010129-13/AG/NIA NIH HHS/United States
+P30 AG010129-19/AG/NIA NIH HHS/United States
+P30 AG010133/AG/NIA NIH HHS/United States
+P30 AG010133-15/AG/NIA NIH HHS/United States
+P30 AG010161/AG/NIA NIH HHS/United States
+P30 AG010161-09/AG/NIA NIH HHS/United States
+P30 AG010161-14/AG/NIA NIH HHS/United States
+P30 AG012300/AG/NIA NIH HHS/United States
+P30 AG012300-06/AG/NIA NIH HHS/United States
+P30 AG012300-11/AG/NIA NIH HHS/United States
+P30 AG013846/AG/NIA NIH HHS/United States
+P30 AG013846-04/AG/NIA NIH HHS/United States
+P30 AG013846-10/AG/NIA NIH HHS/United States
+P30 AG013854/AG/NIA NIH HHS/United States
+P30 AG013854-04/AG/NIA NIH HHS/United States
+P30 AG013854-10/AG/NIA NIH HHS/United States
+P30 AG019610/AG/NIA NIH HHS/United States
+P30 AG019610-01/AG/NIA NIH HHS/United States
+P30 AG019610-08/AG/NIA NIH HHS/United States
+P30 AG028377/AG/NIA NIH HHS/United States
+P30 AG028377-01/AG/NIA NIH HHS/United States
+P30 AG028377-05/AG/NIA NIH HHS/United States
+P30 AG028383/AG/NIA NIH HHS/United States
+P30 AG028383-04/AG/NIA NIH HHS/United States
+P30 AG028383-05/AG/NIA NIH HHS/United States
+P30 AG08051/AG/NIA NIH HHS/United States
+P30 AG10129/AG/NIA NIH HHS/United States
+P30 AG10133/AG/NIA NIH HHS/United States
+P30 AG10161/AG/NIA NIH HHS/United States
+P50 AG005131/AG/NIA NIH HHS/United States
+P50 AG005131-16/AG/NIA NIH HHS/United States
+P50 AG005131-21/AG/NIA NIH HHS/United States
+P50 AG005133/AG/NIA NIH HHS/United States
+P50 AG005133-16/AG/NIA NIH HHS/United States
+P50 AG005133-22/AG/NIA NIH HHS/United States
+P50 AG005134/AG/NIA NIH HHS/United States
+P50 AG005134-16/AG/NIA NIH HHS/United States
+P50 AG005134-22/AG/NIA NIH HHS/United States
+P50 AG005136/AG/NIA NIH HHS/United States
+P50 AG005136-16/AG/NIA NIH HHS/United States
+P50 AG005136-20/AG/NIA NIH HHS/United States
+P50 AG005136-28/AG/NIA NIH HHS/United States
+P50 AG005138/AG/NIA NIH HHS/United States
+P50 AG005138-16/AG/NIA NIH HHS/United States
+P50 AG005138-20/AG/NIA NIH HHS/United States
+P50 AG005142/AG/NIA NIH HHS/United States
+P50 AG005142-20/AG/NIA NIH HHS/United States
+P50 AG005142-25/AG/NIA NIH HHS/United States
+P50 AG005142-26A16897/AG/NIA NIH HHS/United States
+P50 AG005146/AG/NIA NIH HHS/United States
+P50 AG005146-17S1/AG/NIA NIH HHS/United States
+P50 AG005146-25/AG/NIA NIH HHS/United States
+P50 AG005681/AG/NIA NIH HHS/United States
+P50 AG005681-18/AG/NIA NIH HHS/United States
+P50 AG005681-20/AG/NIA NIH HHS/United States
+P50 AG005681-23/AG/NIA NIH HHS/United States
+P50 AG008671/AG/NIA NIH HHS/United States
+P50 AG008671-11/AG/NIA NIH HHS/United States
+P50 AG008671-15/AG/NIA NIH HHS/United States
+P50 AG008702/AG/NIA NIH HHS/United States
+P50 AG008702-10/AG/NIA NIH HHS/United States
+P50 AG008702-20/AG/NIA NIH HHS/United States
+P50 AG016570/AG/NIA NIH HHS/United States
+P50 AG016570-01/AG/NIA NIH HHS/United States
+P50 AG016570-07/AG/NIA NIH HHS/United States
+P50 AG016573/AG/NIA NIH HHS/United States
+P50 AG016573-01A1/AG/NIA NIH HHS/United States
+P50 AG016573-06/AG/NIA NIH HHS/United States
+P50 AG016574/AG/NIA NIH HHS/United States
+P50 AG016574-01/AG/NIA NIH HHS/United States
+P50 AG016574-09/AG/NIA NIH HHS/United States
+P50 AG016574-12/AG/NIA NIH HHS/United States
+P50 AG016575/AG/NIA NIH HHS/United States
+P50 AG016576/AG/NIA NIH HHS/United States
+P50 AG016577/AG/NIA NIH HHS/United States
+P50 AG016582/AG/NIA NIH HHS/United States
+P50 AG016582-07S1/AG/NIA NIH HHS/United States
+P50 AG016582-10/AG/NIA NIH HHS/United States
+P50 AG023501/AG/NIA NIH HHS/United States
+P50 AG023501-01/AG/NIA NIH HHS/United States
+P50 AG023501-08/AG/NIA NIH HHS/United States
+P50 AG025688/AG/NIA NIH HHS/United States
+P50 AG025688-01/AG/NIA NIH HHS/United States
+P50 AG025688-07/AG/NIA NIH HHS/United States
+P50 AG05131/AG/NIA NIH HHS/United States
+P50 AG05681/AG/NIA NIH HHS/United States
+P50 AG08671/AG/NIA NIH HHS/United States
+P50 AG16574/AG/NIA NIH HHS/United States
+R01 AG 027944/AG/NIA NIH HHS/United States
+R01 AG008122/AG/NIA NIH HHS/United States
+R01 AG008122-07/AG/NIA NIH HHS/United States
+R01 AG008122-20/AG/NIA NIH HHS/United States
+R01 AG009029/AG/NIA NIH HHS/United States
+R01 AG009029-09/AG/NIA NIH HHS/United States
+R01 AG009029-14/AG/NIA NIH HHS/United States
+R01 AG015819/AG/NIA NIH HHS/United States
+R01 AG016495/AG/NIA NIH HHS/United States
+R01 AG016495-01/AG/NIA NIH HHS/United States
+R01 AG016495-10/AG/NIA NIH HHS/United States
+R01 AG017173/AG/NIA NIH HHS/United States
+R01 AG017173-04A2/AG/NIA NIH HHS/United States
+R01 AG017173-08/AG/NIA NIH HHS/United States
+R01 AG017917/AG/NIA NIH HHS/United States
+R01 AG017917-01A1/AG/NIA NIH HHS/United States
+R01 AG017917-05/AG/NIA NIH HHS/United States
+R01 AG019085/AG/NIA NIH HHS/United States
+R01 AG019085-01A1/AG/NIA NIH HHS/United States
+R01 AG019085-10/AG/NIA NIH HHS/United States
+R01 AG019757/AG/NIA NIH HHS/United States
+R01 AG019757-01A1/AG/NIA NIH HHS/United States
+R01 AG019757-06/AG/NIA NIH HHS/United States
+R01 AG020688/AG/NIA NIH HHS/United States
+R01 AG020688-01A2/AG/NIA NIH HHS/United States
+R01 AG020688-05/AG/NIA NIH HHS/United States
+R01 AG021547/AG/NIA NIH HHS/United States
+R01 AG021547-01A1/AG/NIA NIH HHS/United States
+R01 AG021547-05/AG/NIA NIH HHS/United States
+R01 AG025259/AG/NIA NIH HHS/United States
+R01 AG025259-01A2/AG/NIA NIH HHS/United States
+R01 AG025259-05/AG/NIA NIH HHS/United States
+R01 AG026916/AG/NIA NIH HHS/United States
+R01 AG026916-01/AG/NIA NIH HHS/United States
+R01 AG026916-04/AG/NIA NIH HHS/United States
+R01 AG027944/AG/NIA NIH HHS/United States
+R01 AG027944-01A2/AG/NIA NIH HHS/United States
+R01 AG027944-04/AG/NIA NIH HHS/United States
+R01 AG031287/AG/NIA NIH HHS/United States
+R01 AG031287-01A2/AG/NIA NIH HHS/United States
+R01 AG031287-02/AG/NIA NIH HHS/United States
+R01 AG031581/AG/NIA NIH HHS/United States
+R01 AG031581-10/AG/NIA NIH HHS/United States
+R01 AG031581-13/AG/NIA NIH HHS/United States
+R01 AG032990/AG/NIA NIH HHS/United States
+R01 AG032990-01A1/AG/NIA NIH HHS/United States
+R01 AG033193/AG/NIA NIH HHS/United States
+R01 AG033193-01/AG/NIA NIH HHS/United States
+R01 AG033193-03/AG/NIA NIH HHS/United States
+R01 AG037212/AG/NIA NIH HHS/United States
+R01 AG08122/AG/NIA NIH HHS/United States
+R01 AG16495/AG/NIA NIH HHS/United States
+R01 AG17917/AG/NIA NIH HHS/United States
+R01 CA129769/CA/NCI NIH HHS/United States
+R01 CA129769-01A2/CA/NCI NIH HHS/United States
+R01 CA129769-03/CA/NCI NIH HHS/United States
+R01 HG002213/HG/NHGRI NIH HHS/United States
+R01 HG002213-01/HG/NHGRI NIH HHS/United States
+R01 HG002213-03/HG/NHGRI NIH HHS/United States
+R01 HG02213/HG/NHGRI NIH HHS/United States
+R01 MH080295/MH/NIMH NIH HHS/United States
+R01 MH080295-01A2/MH/NIMH NIH HHS/United States
+R01 MH080295-04/MH/NIMH NIH HHS/United States
+R01 NS017950/NS/NINDS NIH HHS/United States
+R01 NS017950-18/NS/NINDS NIH HHS/United States
+R01 NS017950-24/NS/NINDS NIH HHS/United States
+R01AG020688/AG/NIA NIH HHS/United States
+R37 AG015473/AG/NIA NIH HHS/United States
+R37 AG015473-06/AG/NIA NIH HHS/United States
+R37 AG015473-11/AG/NIA NIH HHS/United States
+RC2 AG036528/AG/NIA NIH HHS/United States
+RC2 AG036528-01/AG/NIA NIH HHS/United States
+RC2 AG036528-02/AG/NIA NIH HHS/United States
+RC2 AG036535/AG/NIA NIH HHS/United States
+RC2 AG036535-01/AG/NIA NIH HHS/United States
+RC2 AG036535-02/AG/NIA NIH HHS/United States
+RC2AG036528/AG/NIA NIH HHS/United States
+U01 AG006786/AG/NIA NIH HHS/United States
+U01 AG006786-14/AG/NIA NIH HHS/United States
+U01 AG006786-24/AG/NIA NIH HHS/United States
+U01 AG010483/AG/NIA NIH HHS/United States
+U01 AG010483-09/AG/NIA NIH HHS/United States
+U01 AG010483-18/AG/NIA NIH HHS/United States
+U01 AG016976/AG/NIA NIH HHS/United States
+U01 AG016976-01/AG/NIA NIH HHS/United States
+U01 AG016976-07/AG/NIA NIH HHS/United States
+U01 AG024904/AG/NIA NIH HHS/United States
+U01 AG024904-01/AG/NIA NIH HHS/United States
+U01 AG024904-07/AG/NIA NIH HHS/United States
+U01 AG032984/AG/NIA NIH HHS/United States
+U01 AG032984-01/AG/NIA NIH HHS/United States
+U01 AG032984-02/AG/NIA NIH HHS/United States
+U01 AG032984-03/AG/NIA NIH HHS/United States
+U01 AG10483/AG/NIA NIH HHS/United States
+U01 HG006375/HG/NHGRI NIH HHS/United States
+U01AG06786/AG/NIA NIH HHS/United States
+U24 AG021886/AG/NIA NIH HHS/United States
+U24 AG021886-02/AG/NIA NIH HHS/United States
+U24 AG021886-09/AG/NIA NIH HHS/United States
+U24 AG026395/AG/NIA NIH HHS/United States
+U24 AG026395-01/AG/NIA NIH HHS/United States
+U24 AG026395-05/AG/NIA NIH HHS/United States
+U24-AG021886/AG/NIA NIH HHS/United States
+UL1 RR025777-04/RR/NCRR NIH HHS/United States
+UL1 RR02777/RR/NCRR NIH HHS/United States
+UL1 RR029893/RR/NCRR NIH HHS/United States
+UL1 RR029893-01/RR/NCRR NIH HHS/United States
+UL1 RR029893-03/RR/NCRR NIH HHS/United States
+UO1 AG16976/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Arch Neurol. 2010 Dec;67(12):1473-84. doi: 10.1001/archneurol.2010.201. Epub 2010 Aug 9.
+%+ Department of Medicine, Boston University, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Kang, H. M.
+%A Sul, J. H.
+%A Service, S. K.
+%A Zaitlen, N. A.
+%A Kong, S. Y.
+%A Freimer, N. B.
+%A Sabatti, C.
+%A Eskin, E.
+%D 2010
+%T Variance component model to account for sample structure in genome-wide association studies
+%B Nat Genet
+%V 42
+%N 4
+%P 348-54
+%7 2010/03/09
+%8 Apr
+%! Variance component model to account for sample structure in genome-wide association studies
+%O Nature genetics
+%@ 1061-4036
+%R 10.1038/ng.548
+%2 PMC3092069
+%$ NIHMS196426
+%M 20208533
+%K *Genome-Wide Association Study
+Humans
+Models, Genetic
+*Models, Statistical
+Polymorphism, Single Nucleotide
+Population Groups/*genetics
+Principal Component Analysis
+Quantitative Trait Loci
+Software
+%X Although genome-wide association studies (GWASs) have identified numerous loci associated with complex traits, imprecise modeling of the genetic relatedness within study samples may cause substantial inflation of test statistics and possibly spurious associations. Variance component approaches, such as efficient mixed-model association (EMMA), can correct for a wide range of sample structures by explicitly accounting for pairwise relatedness between individuals, using high-density markers to model the phenotype distribution; but such approaches are computationally impractical. We report here a variance component approach implemented in publicly available software, EMMA eXpedited (EMMAX), that reduces the computational time for analyzing large GWAS data sets from years to hours. We apply this method to two human GWAS data sets, performing association analysis for ten quantitative traits from the Northern Finland Birth Cohort and seven common diseases from the Wellcome Trust Case Control Consortium. We find that EMMAX outperforms both principal component analysis and genomic control in correcting for sample structure.
+%Z 1546-1718
+Kang, Hyun Min
+Sul, Jae Hoon
+Service, Susan K
+Zaitlen, Noah A
+Kong, Sit-Yee
+Freimer, Nelson B
+Sabatti, Chiara
+Eskin, Eleazar
+1K25HL080079/HL/NHLBI NIH HHS/United States
+5PL1NS062410-03/NS/NINDS NIH HHS/United States
+5RL1MH083268-03/MH/NIMH NIH HHS/United States
+5UL1DE019580-03/DE/NIDCR NIH HHS/United States
+6R01HL087679-03/HL/NHLBI NIH HHS/United States
+GM053275-14/GM/NIGMS NIH HHS/United States
+HL087679-01/HL/NHLBI NIH HHS/United States
+K25 HL080079/HL/NHLBI NIH HHS/United States
+K25 HL080079-05/HL/NHLBI NIH HHS/United States
+N01-ES-45530/ES/NIEHS NIH HHS/United States
+NH084698/NH/NIH HHS/United States
+P30 1MH083268/MH/NIMH NIH HHS/United States
+U01-DA024417/DA/NIDA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+Nat Genet. 2010 Apr;42(4):348-54. doi: 10.1038/ng.548. Epub 2010 Mar 7.
+%+ Center for Statistical Genetics, Department of Biostatistics, University of Michigan, Ann Arbor, Michigan, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Kang, H. M.
+%A Zaitlen, N. A.
+%A Wade, C. M.
+%A Kirby, A.
+%A Heckerman, D.
+%A Daly, M. J.
+%A Eskin, E.
+%D 2008
+%T Efficient control of population structure in model organism association mapping
+%B Genetics
+%V 178
+%N 3
+%P 1709-23
+%7 2008/04/04
+%8 Mar
+%! Efficient control of population structure in model organism association mapping
+%O Genetics
+%@ 0016-6731 (Print)
+0016-6731
+%R 10.1534/genetics.107.080101
+%2 PMC2278096
+%M 18385116
+%K Animals
+Arabidopsis/*genetics
+Body Weight/genetics
+Chromosome Mapping/*methods
+Flowers/genetics
+Genome/genetics
+Inbreeding
+Mice
+Mice, Inbred Strains
+*Models, Biological
+Models, Genetic
+Organ Size/genetics
+Phenotype
+Polymorphism, Single Nucleotide/genetics
+Population Dynamics
+Quantitative Trait, Heritable
+Saccharin/metabolism
+Software
+Zea mays/*genetics
+%X Genomewide association mapping in model organisms such as inbred mouse strains is a promising approach for the identification of risk factors related to human diseases. However, genetic association studies in inbred model organisms are confronted by the problem of complex population structure among strains. This induces inflated false positive rates, which cannot be corrected using standard approaches applied in human association studies such as genomic control or structured association. Recent studies demonstrated that mixed models successfully correct for the genetic relatedness in association mapping in maize and Arabidopsis panel data sets. However, the currently available mixed-model methods suffer from computational inefficiency. In this article, we propose a new method, efficient mixed-model association (EMMA), which corrects for population structure and genetic relatedness in model organism association mapping. Our method takes advantage of the specific nature of the optimization problem in applying mixed models for association mapping, which allows us to substantially increase the computational speed and reliability of the results. We applied EMMA to in silico whole-genome association mapping of inbred mouse strains involving hundreds of thousands of SNPs, in addition to Arabidopsis and maize data sets. We also performed extensive simulation studies to estimate the statistical power of EMMA under various SNP effects, varying degrees of population structure, and differing numbers of multiple measurements per strain. Despite the limited power of inbred mouse association mapping due to the limited number of available inbred strains, we are able to identify significantly associated SNPs, which fall into known QTL or genes identified through previous studies while avoiding an inflation of false positives. An R package implementation and webserver of our EMMA method are publicly available.
+%Z Kang, Hyun Min
+Zaitlen, Noah A
+Wade, Claire M
+Kirby, Andrew
+Heckerman, David
+Daly, Mark J
+Eskin, Eleazar
+1K25HL080079/HL/NHLBI NIH HHS/United States
+C06 RR017588/RR/NCRR NIH HHS/United States
+K25 HL080079/HL/NHLBI NIH HHS/United States
+P41 RR08605/RR/NCRR NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+Genetics. 2008 Mar;178(3):1709-23. doi: 10.1534/genetics.107.080101.
+%+ Department of Computer Science, University of California, Los Angeles, California 90095-1596, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Kavvoura, F. K.
+%A Ioannidis, J. P.
+%D 2008
+%T Methods for meta-analysis in genetic association studies: a review of their potential and pitfalls
+%B Hum Genet
+%V 123
+%N 1
+%P 1-14
+%7 2007/11/21
+%8 Feb
+%! Methods for meta-analysis in genetic association studies: a review of their potential and pitfalls
+%O Human genetics
+%@ 0340-6717
+%R 10.1007/s00439-007-0445-9
+%M 18026754
+%K Genetics, Population
+*Genome, Human
+Humans
+*Meta-Analysis as Topic
+Molecular Epidemiology
+%X Meta-analysis offers the opportunity to combine evidence from retrospectively accumulated or prospectively generated data. Meta-analyses may provide summary estimates and can help in detecting and addressing potential inconsistency between the combined datasets. Application of meta-analysis in genetic associations presents considerable potential and several pitfalls. In this review, we present basic principles of meta-analytic methods, adapted for human genome epidemiology. We describe issues that arise in the retrospective or the prospective collection of relevant data through various sources, common traps to consider in the appraisal of evidence and potential biases that may interfere. We describe the relative merits and caveats for common methods used to trace inconsistency across studies along with possible reasons for non-replication of proposed associations. Different statistical models may be employed to combine data and some common misconceptions may arise in the process. Several meta-analysis diagnostics are often applied or misapplied in the literature, and we comment on their use and limitations. An alternative to overcome limitations arising from retrospective combination of data from published studies is to create networks of research teams working in the same field and perform collaborative meta-analyses of individual participant data, ideally on a prospective basis. We discuss the advantages and the challenges inherent in such collaborative approaches. Meta-analysis can be a useful tool in dissecting the genetics of complex diseases and traits, provided its methods are properly applied and interpreted.
+%Z 1432-1203
+Kavvoura, Fotini K
+Ioannidis, John P A
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Germany
+Hum Genet. 2008 Feb;123(1):1-14. Epub 2007 Nov 17.
+%+ Clinical and Molecular Epidemiology Unit, Department of Hygiene and Epidemiology, University of Ioannina School of Medicine, University Campus, Ioannina, 45110, Greece.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Lambert, J. C.
+%A Heath, S.
+%A Even, G.
+%A Campion, D.
+%A Sleegers, K.
+%A Hiltunen, M.
+%A Combarros, O.
+%A Zelenika, D.
+%A Bullido, M. J.
+%A Tavernier, B.
+%A Letenneur, L.
+%A Bettens, K.
+%A Berr, C.
+%A Pasquier, F.
+%A Fievet, N.
+%A Barberger-Gateau, P.
+%A Engelborghs, S.
+%A De Deyn, P.
+%A Mateo, I.
+%A Franck, A.
+%A Helisalmi, S.
+%A Porcellini, E.
+%A Hanon, O.
+%A de Pancorbo, M. M.
+%A Lendon, C.
+%A Dufouil, C.
+%A Jaillard, C.
+%A Leveillard, T.
+%A Alvarez, V.
+%A Bosco, P.
+%A Mancuso, M.
+%A Panza, F.
+%A Nacmias, B.
+%A Bossu, P.
+%A Piccardi, P.
+%A Annoni, G.
+%A Seripa, D.
+%A Galimberti, D.
+%A Hannequin, D.
+%A Licastro, F.
+%A Soininen, H.
+%A Ritchie, K.
+%A Blanche, H.
+%A Dartigues, J. F.
+%A Tzourio, C.
+%A Gut, I.
+%A Van Broeckhoven, C.
+%A Alperovitch, A.
+%A Lathrop, M.
+%A Amouyel, P.
+%D 2009
+%T Genome-wide association study identifies variants at CLU and CR1 associated with Alzheimer's disease
+%B Nat Genet
+%V 41
+%N 10
+%P 1094-9
+%7 2009/09/08
+%8 Oct
+%! Genome-wide association study identifies variants at CLU and CR1 associated with Alzheimer's disease
+%O Nature genetics
+%@ 1061-4036
+%R 10.1038/ng.439
+%M 19734903
+%K Alzheimer Disease/*genetics
+Clusterin/*genetics
+European Continental Ancestry Group/genetics
+*Genetic Predisposition to Disease
+*Genome-Wide Association Study
+Haplotypes
+Humans
+Polymorphism, Single Nucleotide
+Receptors, Complement 3b/*genetics
+%X The gene encoding apolipoprotein E (APOE) on chromosome 19 is the only confirmed susceptibility locus for late-onset Alzheimer's disease. To identify other risk loci, we conducted a large genome-wide association study of 2,032 individuals from France with Alzheimer's disease (cases) and 5,328 controls. Markers outside APOE with suggestive evidence of association (P < 10(-5)) were examined in collections from Belgium, Finland, Italy and Spain totaling 3,978 Alzheimer's disease cases and 3,297 controls. Two loci gave replicated evidence of association: one within CLU (also called APOJ), encoding clusterin or apolipoprotein J, on chromosome 8 (rs11136000, OR = 0.86, 95% CI 0.81-0.90, P = 7.5 x 10(-9) for combined data) and the other within CR1, encoding the complement component (3b/4b) receptor 1, on chromosome 1 (rs6656401, OR = 1.21, 95% CI 1.14-1.29, P = 3.7 x 10(-9) for combined data). Previous biological studies support roles of CLU and CR1 in the clearance of beta amyloid (Abeta) peptide, the principal constituent of amyloid plaques, which are one of the major brain lesions of individuals with Alzheimer's disease.
+%Z 1546-1718
+Lambert, Jean-Charles
+Heath, Simon
+Even, Gael
+Campion, Dominique
+Sleegers, Kristel
+Hiltunen, Mikko
+Combarros, Onofre
+Zelenika, Diana
+Bullido, Maria J
+Tavernier, Beatrice
+Letenneur, Luc
+Bettens, Karolien
+Berr, Claudine
+Pasquier, Florence
+Fievet, Nathalie
+Barberger-Gateau, Pascale
+Engelborghs, Sebastiaan
+De Deyn, Peter
+Mateo, Ignacio
+Franck, Ana
+Helisalmi, Seppo
+Porcellini, Elisa
+Hanon, Olivier
+European Alzheimer's Disease Initiative Investigators
+de Pancorbo, Marian M
+Lendon, Corinne
+Dufouil, Carole
+Jaillard, Celine
+Leveillard, Thierry
+Alvarez, Victoria
+Bosco, Paolo
+Mancuso, Michelangelo
+Panza, Francesco
+Nacmias, Benedetta
+Bossu, Paola
+Piccardi, Paola
+Annoni, Giorgio
+Seripa, Davide
+Galimberti, Daniela
+Hannequin, Didier
+Licastro, Federico
+Soininen, Hilkka
+Ritchie, Karen
+Blanche, Helene
+Dartigues, Jean-Francois
+Tzourio, Christophe
+Gut, Ivo
+Van Broeckhoven, Christine
+Alperovitch, Annick
+Lathrop, Mark
+Amouyel, Philippe
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+Nat Genet. 2009 Oct;41(10):1094-9. doi: 10.1038/ng.439. Epub 2009 Sep 6.
+%+ Inserm U744, Lille, France.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Lambert, J. C.
+%A Ibrahim-Verbaas, C. A.
+%A Harold, D.
+%A Naj, A. C.
+%A Sims, R.
+%A Bellenguez, C.
+%A DeStafano, A. L.
+%A Bis, J. C.
+%A Beecham, G. W.
+%A Grenier-Boley, B.
+%A Russo, G.
+%A Thorton-Wells, T. A.
+%A Jones, N.
+%A Smith, A. V.
+%A Chouraki, V.
+%A Thomas, C.
+%A Ikram, M. A.
+%A Zelenika, D.
+%A Vardarajan, B. N.
+%A Kamatani, Y.
+%A Lin, C. F.
+%A Gerrish, A.
+%A Schmidt, H.
+%A Kunkle, B.
+%A Dunstan, M. L.
+%A Ruiz, A.
+%A Bihoreau, M. T.
+%A Choi, S. H.
+%A Reitz, C.
+%A Pasquier, F.
+%A Cruchaga, C.
+%A Craig, D.
+%A Amin, N.
+%A Berr, C.
+%A Lopez, O. L.
+%A De Jager, P. L.
+%A Deramecourt, V.
+%A Johnston, J. A.
+%A Evans, D.
+%A Lovestone, S.
+%A Letenneur, L.
+%A Moron, F. J.
+%A Rubinsztein, D. C.
+%A Eiriksdottir, G.
+%A Sleegers, K.
+%A Goate, A. M.
+%A Fievet, N.
+%A Huentelman, M. W.
+%A Gill, M.
+%A Brown, K.
+%A Kamboh, M. I.
+%A Keller, L.
+%A Barberger-Gateau, P.
+%A McGuiness, B.
+%A Larson, E. B.
+%A Green, R.
+%A Myers, A. J.
+%A Dufouil, C.
+%A Todd, S.
+%A Wallon, D.
+%A Love, S.
+%A Rogaeva, E.
+%A Gallacher, J.
+%A St George-Hyslop, P.
+%A Clarimon, J.
+%A Lleo, A.
+%A Bayer, A.
+%A Tsuang, D. W.
+%A Yu, L.
+%A Tsolaki, M.
+%A Bossu, P.
+%A Spalletta, G.
+%A Proitsi, P.
+%A Collinge, J.
+%A Sorbi, S.
+%A Sanchez-Garcia, F.
+%A Fox, N. C.
+%A Hardy, J.
+%A Deniz Naranjo, M. C.
+%A Bosco, P.
+%A Clarke, R.
+%A Brayne, C.
+%A Galimberti, D.
+%A Mancuso, M.
+%A Matthews, F.
+%A Moebus, S.
+%A Mecocci, P.
+%A Del Zompo, M.
+%A Maier, W.
+%A Hampel, H.
+%A Pilotto, A.
+%A Bullido, M.
+%A Panza, F.
+%A Caffarra, P.
+%A Nacmias, B.
+%A Gilbert, J. R.
+%A Mayhaus, M.
+%A Lannefelt, L.
+%A Hakonarson, H.
+%A Pichler, S.
+%A Carrasquillo, M. M.
+%A Ingelsson, M.
+%A Beekly, D.
+%A Alvarez, V.
+%A Zou, F.
+%A Valladares, O.
+%A Younkin, S. G.
+%A Coto, E.
+%A Hamilton-Nelson, K. L.
+%A Gu, W.
+%A Razquin, C.
+%A Pastor, P.
+%A Mateo, I.
+%A Owen, M. J.
+%A Faber, K. M.
+%A Jonsson, P. V.
+%A Combarros, O.
+%A O'Donovan, M. C.
+%A Cantwell, L. B.
+%A Soininen, H.
+%A Blacker, D.
+%A Mead, S.
+%A Mosley, T. H., Jr.
+%A Bennett, D. A.
+%A Harris, T. B.
+%A Fratiglioni, L.
+%A Holmes, C.
+%A de Bruijn, R. F.
+%A Passmore, P.
+%A Montine, T. J.
+%A Bettens, K.
+%A Rotter, J. I.
+%A Brice, A.
+%A Morgan, K.
+%A Foroud, T. M.
+%A Kukull, W. A.
+%A Hannequin, D.
+%A Powell, J. F.
+%A Nalls, M. A.
+%A Ritchie, K.
+%A Lunetta, K. L.
+%A Kauwe, J. S.
+%A Boerwinkle, E.
+%A Riemenschneider, M.
+%A Boada, M.
+%A Hiltuenen, M.
+%A Martin, E. R.
+%A Schmidt, R.
+%A Rujescu, D.
+%A Wang, L. S.
+%A Dartigues, J. F.
+%A Mayeux, R.
+%A Tzourio, C.
+%A Hofman, A.
+%A Nothen, M. M.
+%A Graff, C.
+%A Psaty, B. M.
+%A Jones, L.
+%A Haines, J. L.
+%A Holmans, P. A.
+%A Lathrop, M.
+%A Pericak-Vance, M. A.
+%A Launer, L. J.
+%A Farrer, L. A.
+%A van Duijn, C. M.
+%A Van Broeckhoven, C.
+%A Moskvina, V.
+%A Seshadri, S.
+%A Williams, J.
+%A Schellenberg, G. D.
+%A Amouyel, P.
+%D 2013
+%T Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease
+%B Nat Genet
+%V 45
+%N 12
+%P 1452-8
+%7 2013/10/29
+%8 Dec
+%! Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease
+%O Nature genetics
+%@ 1061-4036
+%R 10.1038/ng.2802
+%2 PMC3896259
+%$ NIHMS540798
+%M 24162737
+%K Age of Onset
+Aged
+Aged, 80 and over
+Alzheimer Disease/epidemiology/*genetics
+Case-Control Studies
+Cohort Studies
+Female
+*Genetic Loci
+*Genetic Predisposition to Disease
+Genome-Wide Association Study/*statistics & numerical data
+Humans
+Male
+Middle Aged
+Polymorphism, Single Nucleotide
+%X Eleven susceptibility loci for late-onset Alzheimer's disease (LOAD) were identified by previous studies; however, a large portion of the genetic risk for this disease remains unexplained. We conducted a large, two-stage meta-analysis of genome-wide association studies (GWAS) in individuals of European ancestry. In stage 1, we used genotyped and imputed data (7,055,881 SNPs) to perform meta-analysis on 4 previously published GWAS data sets consisting of 17,008 Alzheimer's disease cases and 37,154 controls. In stage 2, 11,632 SNPs were genotyped and tested for association in an independent set of 8,572 Alzheimer's disease cases and 11,312 controls. In addition to the APOE locus (encoding apolipoprotein E), 19 loci reached genome-wide significance (P < 5 x 10(-8)) in the combined stage 1 and stage 2 analysis, of which 11 are newly associated with Alzheimer's disease.
+%Z 1546-1718
+Lambert, J C
+Ibrahim-Verbaas, C A
+Harold, D
+Naj, A C
+Sims, R
+Bellenguez, C
+DeStafano, A L
+Bis, J C
+Beecham, G W
+Grenier-Boley, B
+Russo, G
+Thorton-Wells, T A
+Jones, N
+Smith, A V
+Chouraki, V
+Thomas, C
+Ikram, M A
+Zelenika, D
+Vardarajan, B N
+Kamatani, Y
+Lin, C F
+Gerrish, A
+Schmidt, H
+Kunkle, B
+Dunstan, M L
+Ruiz, A
+Bihoreau, M T
+Choi, S H
+Reitz, C
+Pasquier, F
+Cruchaga, C
+Craig, D
+Amin, N
+Berr, C
+Lopez, O L
+De Jager, P L
+Deramecourt, V
+Johnston, J A
+Evans, D
+Lovestone, S
+Letenneur, L
+Moron, F J
+Rubinsztein, D C
+Eiriksdottir, G
+Sleegers, K
+Goate, A M
+Fievet, N
+Huentelman, M W
+Gill, M
+Brown, K
+Kamboh, M I
+Keller, L
+Barberger-Gateau, P
+McGuiness, B
+Larson, E B
+Green, R
+Myers, A J
+Dufouil, C
+Todd, S
+Wallon, D
+Love, S
+Rogaeva, E
+Gallacher, J
+St George-Hyslop, P
+Clarimon, J
+Lleo, A
+Bayer, A
+Tsuang, D W
+Yu, L
+Tsolaki, M
+Bossu, P
+Spalletta, G
+Proitsi, P
+Collinge, J
+Sorbi, S
+Sanchez-Garcia, F
+Fox, N C
+Hardy, J
+Deniz Naranjo, M C
+Bosco, P
+Clarke, R
+Brayne, C
+Galimberti, D
+Mancuso, M
+Matthews, F
+European Alzheimer's Disease Initiative (EADI)
+Genetic and Environmental Risk in Alzheimer's Disease
+Alzheimer's Disease Genetic Consortium
+Cohorts for Heart and Aging Research in Genomic Epidemiology
+Moebus, S
+Mecocci, P
+Del Zompo, M
+Maier, W
+Hampel, H
+Pilotto, A
+Bullido, M
+Panza, F
+Caffarra, P
+Nacmias, B
+Gilbert, J R
+Mayhaus, M
+Lannefelt, L
+Hakonarson, H
+Pichler, S
+Carrasquillo, M M
+Ingelsson, M
+Beekly, D
+Alvarez, V
+Zou, F
+Valladares, O
+Younkin, S G
+Coto, E
+Hamilton-Nelson, K L
+Gu, W
+Razquin, C
+Pastor, P
+Mateo, I
+Owen, M J
+Faber, K M
+Jonsson, P V
+Combarros, O
+O'Donovan, M C
+Cantwell, L B
+Soininen, H
+Blacker, D
+Mead, S
+Mosley, T H Jr
+Bennett, D A
+Harris, T B
+Fratiglioni, L
+Holmes, C
+de Bruijn, R F
+Passmore, P
+Montine, T J
+Bettens, K
+Rotter, J I
+Brice, A
+Morgan, K
+Foroud, T M
+Kukull, W A
+Hannequin, D
+Powell, J F
+Nalls, M A
+Ritchie, K
+Lunetta, K L
+Kauwe, J S
+Boerwinkle, E
+Riemenschneider, M
+Boada, M
+Hiltuenen, M
+Martin, E R
+Schmidt, R
+Rujescu, D
+Wang, L S
+Dartigues, J F
+Mayeux, R
+Tzourio, C
+Hofman, A
+Nothen, M M
+Graff, C
+Psaty, B M
+Jones, L
+Haines, J L
+Holmans, P A
+Lathrop, M
+Pericak-Vance, M A
+Launer, L J
+Farrer, L A
+van Duijn, C M
+Van Broeckhoven, C
+Moskvina, V
+Seshadri, S
+Williams, J
+Schellenberg, G D
+Amouyel, P
+089703/Wellcome Trust/United Kingdom
+095317/Wellcome Trust/United Kingdom
+100140/Wellcome Trust/United Kingdom
+G0601846/Medical Research Council/United Kingdom
+G0801306/Medical Research Council/United Kingdom
+MC_G1000734/Medical Research Council/United Kingdom
+MC_U105292687/Medical Research Council/United Kingdom
+MC_U123160657/Medical Research Council/United Kingdom
+MC_U137686857/Medical Research Council/United Kingdom
+MR/K013041/1/Medical Research Council/United Kingdom
+P30 AG008051/AG/NIA NIH HHS/United States
+P30 DK063491/DK/NIDDK NIH HHS/United States
+P50 AG005131/AG/NIA NIH HHS/United States
+P50 AG005134/AG/NIA NIH HHS/United States
+P50 AG005138/AG/NIA NIH HHS/United States
+P50 AG008702/AG/NIA NIH HHS/United States
+P50 AG016573/AG/NIA NIH HHS/United States
+R01 AG008122/AG/NIA NIH HHS/United States
+R01 AG016495/AG/NIA NIH HHS/United States
+R01 AG017917/AG/NIA NIH HHS/United States
+R01 AG023629/AG/NIA NIH HHS/United States
+R01 AG033193/AG/NIA NIH HHS/United States
+R01 AG037212/AG/NIA NIH HHS/United States
+R01 AG041232/AG/NIA NIH HHS/United States
+R01 AG041797/AG/NIA NIH HHS/United States
+R01 HL105756/HL/NHLBI NIH HHS/United States
+R01 NS080820/NS/NINDS NIH HHS/United States
+U01 AG016976/AG/NIA NIH HHS/United States
+U01 AG032984/AG/NIA NIH HHS/United States
+U01 AG049505/AG/NIA NIH HHS/United States
+U01 HG006375/HG/NHGRI NIH HHS/United States
+U24 AG021886/AG/NIA NIH HHS/United States
+UL1 TR000124/TR/NCATS NIH HHS/United States
+Arthritis Research UK/United Kingdom
+Medical Research Council/United Kingdom
+Wellcome Trust/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Nat Genet. 2013 Dec;45(12):1452-8. doi: 10.1038/ng.2802. Epub 2013 Oct 27.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Lim, A. S.
+%A Klein, H. U.
+%A Yu, L.
+%A Chibnik, L. B.
+%A Ali, S.
+%A Xu, J.
+%A Bennett, D. A.
+%A De Jager, P. L.
+%D 2017
+%T Diurnal and seasonal molecular rhythms in human neocortex and their relation to Alzheimer's disease
+%B Nat Commun
+%V 8
+%P 14931
+%7 2017/04/04
+%8 Apr 3
+%! Diurnal and seasonal molecular rhythms in human neocortex and their relation to Alzheimer's disease
+%O Nature communications
+%@ 2041-1723
+%R 10.1038/ncomms14931
+%2 PMC5382268
+%M 28368004
+%X Circadian and seasonal rhythms are seen in many species, modulate several aspects of human physiology, including brain functions such as mood and cognition, and influence many neurological and psychiatric illnesses. However, there are few data regarding the genome-scale molecular correlates underlying these rhythms, especially in the human brain. Here, we report widespread, site-specific and interrelated diurnal and seasonal rhythms of gene expression in the human brain, and show their relationship with parallel rhythms of epigenetic modification including histone acetylation, and DNA methylation. We also identify transcription factor-binding sites that may drive these effects. Further, we demonstrate that Alzheimer's disease pathology disrupts these rhythms. These data suggest that interrelated diurnal and seasonal epigenetic and transcriptional rhythms may be an important feature of human brain biology, and perhaps human biology more broadly, and that changes in such rhythms may be consequences of, or contributors to, diseases such as Alzheimer's disease.
+%Z 2041-1723
+Lim, Andrew S P
+Klein, Hans-Ulrich
+Yu, Lei
+Chibnik, Lori B
+Ali, Sanam
+Xu, Jishu
+ORCID: http://orcid.org/0000-0002-3679-6579
+Bennett, David A
+De Jager, Philip L
+R01 AG017917/AG/NIA NIH HHS/United States
+R01 AG052488/AG/NIA NIH HHS/United States
+RF1 AG015819/AG/NIA NIH HHS/United States
+RF1 AG036042/AG/NIA NIH HHS/United States
+Journal Article
+England
+Nat Commun. 2017 Apr 3;8:14931. doi: 10.1038/ncomms14931.
+%+ Division of Neurology, Department of Medicine, Sunnybrook Health Sciences Centre, University of Toronto, 2075 Bayview Avenue, Room M1-600, Toronto M4N1X2, Ontario, Canada.
+Program in Translational Neuropsychiatric Genomics, Department of Neurology, Brigham and Women's Hospital, Harvard Medical School, 77 Avenue Louis Pasteur, NRB 168c, Boston, Massachusetts 02115, USA.
+Program in Medical and Population Genetics, Broad Institute, 415 Main Street, Cambridge, Massachusetts 02142, USA.
+Rush Alzheimer's Disease Center and Department of Neurological Sciences, Rush University Medical Center, 600 South Paulina Street, Chicago, Illinois 60612, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Lippert, C.
+%A Listgarten, J.
+%A Liu, Y.
+%A Kadie, C. M.
+%A Davidson, R. I.
+%A Heckerman, D.
+%D 2011
+%T FaST linear mixed models for genome-wide association studies
+%B Nat Methods
+%V 8
+%N 10
+%P 833-5
+%7 2011/09/06
+%! FaST linear mixed models for genome-wide association studies
+%O Nature methods
+%@ 1548-7091
+%R 10.1038/nmeth.1681
+%M 21892150
+%K Algorithms
+Computer Simulation
+*Genome-Wide Association Study
+*Models, Genetic
+Software
+%X We describe factored spectrally transformed linear mixed models (FaST-LMM), an algorithm for genome-wide association studies (GWAS) that scales linearly with cohort size in both run time and memory use. On Wellcome Trust data for 15,000 individuals, FaST-LMM ran an order of magnitude faster than current efficient algorithms. Our algorithm can analyze data for 120,000 individuals in just a few hours, whereas current algorithms fail on data for even 20,000 individuals (http://mscompbio.codeplex.com/).
+%Z 1548-7105
+Lippert, Christoph
+Listgarten, Jennifer
+Liu, Ying
+Kadie, Carl M
+Davidson, Robert I
+Heckerman, David
+076113/Wellcome Trust/United Kingdom
+085475/Wellcome Trust/United Kingdom
+U10 AA008401/AA/NIAAA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Nat Methods. 2011 Sep 4;8(10):833-5. doi: 10.1038/nmeth.1681.
+%+ Microsoft Research, Los Angeles, California, USA. christoph.lippert@tuebingen.mpg.de
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Manolio, T. A.
+%D 2010
+%T Genomewide association studies and assessment of the risk of disease
+%B N Engl J Med
+%V 363
+%N 2
+%P 166-76
+%7 2010/07/22
+%8 Jul 8
+%! Genomewide association studies and assessment of the risk of disease
+%O The New England journal of medicine
+%@ 0028-4793
+%R 10.1056/NEJMra0905980
+%M 20647212
+%K *Genetic Predisposition to Disease
+Genetic Testing
+*Genome-Wide Association Study
+Humans
+Polymorphism, Single Nucleotide
+*Risk Assessment
+%Z 1533-4406
+Manolio, Teri A
+Journal Article
+Review
+United States
+N Engl J Med. 2010 Jul 8;363(2):166-76. doi: 10.1056/NEJMra0905980.
+%+ Office of Population Genomics, National Human Genome Research Institute, Bldg. 31, Rm. 4B-09, 31 Center Dr., MSC 2152, Bethesda, MD 20892, USA. manolio@nih.gov
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Montagne, A.
+%A Nation, D. A.
+%A Pa, J.
+%A Sweeney, M. D.
+%A Toga, A. W.
+%A Zlokovic, B. V.
+%D 2016
+%T Brain imaging of neurovascular dysfunction in Alzheimer's disease
+%B Acta Neuropathol
+%V 131
+%N 5
+%P 687-707
+%8 May
+%! Brain imaging of neurovascular dysfunction in Alzheimer's disease
+%@ 1432-0533
+%R 10.1007/s00401-016-1570-0
+%M 27038189
+%X Neurovascular dysfunction, including blood-brain barrier (BBB) breakdown and cerebral blood flow (CBF) dysregulation and reduction, are increasingly recognized to contribute to Alzheimer's disease (AD). The spatial and temporal relationships between different pathophysiological events during preclinical stages of AD, including cerebrovascular dysfunction and pathology, amyloid and tau pathology, and brain structural and functional changes remain, however, still unclear. Recent advances in neuroimaging techniques, i.e., magnetic resonance imaging (MRI) and positron emission tomography (PET), offer new possibilities to understand how the human brain works in health and disease. This includes methods to detect subtle regional changes in the cerebrovascular system integrity. Here, we focus on the neurovascular imaging techniques to evaluate regional BBB permeability (dynamic contrast-enhanced MRI), regional CBF changes (arterial spin labeling- and functional-MRI), vascular pathology (structural MRI), and cerebral metabolism (PET) in the living human brain, and examine how they can inform about neurovascular dysfunction and vascular pathophysiology in dementia and AD. Altogether, these neuroimaging approaches will continue to elucidate the spatio-temporal progression of vascular and neurodegenerative processes in dementia and AD and how they relate to each other.
+%U https://www.ncbi.nlm.nih.gov/pubmed/27038189
+%G eng
+
+
+
+%0 Journal Article
+%A Naj, A. C.
+%A Jun, G.
+%A Beecham, G. W.
+%A Wang, L. S.
+%A Vardarajan, B. N.
+%A Buros, J.
+%A Gallins, P. J.
+%A Buxbaum, J. D.
+%A Jarvik, G. P.
+%A Crane, P. K.
+%A Larson, E. B.
+%A Bird, T. D.
+%A Boeve, B. F.
+%A Graff-Radford, N. R.
+%A De Jager, P. L.
+%A Evans, D.
+%A Schneider, J. A.
+%A Carrasquillo, M. M.
+%A Ertekin-Taner, N.
+%A Younkin, S. G.
+%A Cruchaga, C.
+%A Kauwe, J. S.
+%A Nowotny, P.
+%A Kramer, P.
+%A Hardy, J.
+%A Huentelman, M. J.
+%A Myers, A. J.
+%A Barmada, M. M.
+%A Demirci, F. Y.
+%A Baldwin, C. T.
+%A Green, R. C.
+%A Rogaeva, E.
+%A St George-Hyslop, P.
+%A Arnold, S. E.
+%A Barber, R.
+%A Beach, T.
+%A Bigio, E. H.
+%A Bowen, J. D.
+%A Boxer, A.
+%A Burke, J. R.
+%A Cairns, N. J.
+%A Carlson, C. S.
+%A Carney, R. M.
+%A Carroll, S. L.
+%A Chui, H. C.
+%A Clark, D. G.
+%A Corneveaux, J.
+%A Cotman, C. W.
+%A Cummings, J. L.
+%A DeCarli, C.
+%A DeKosky, S. T.
+%A Diaz-Arrastia, R.
+%A Dick, M.
+%A Dickson, D. W.
+%A Ellis, W. G.
+%A Faber, K. M.
+%A Fallon, K. B.
+%A Farlow, M. R.
+%A Ferris, S.
+%A Frosch, M. P.
+%A Galasko, D. R.
+%A Ganguli, M.
+%A Gearing, M.
+%A Geschwind, D. H.
+%A Ghetti, B.
+%A Gilbert, J. R.
+%A Gilman, S.
+%A Giordani, B.
+%A Glass, J. D.
+%A Growdon, J. H.
+%A Hamilton, R. L.
+%A Harrell, L. E.
+%A Head, E.
+%A Honig, L. S.
+%A Hulette, C. M.
+%A Hyman, B. T.
+%A Jicha, G. A.
+%A Jin, L. W.
+%A Johnson, N.
+%A Karlawish, J.
+%A Karydas, A.
+%A Kaye, J. A.
+%A Kim, R.
+%A Koo, E. H.
+%A Kowall, N. W.
+%A Lah, J. J.
+%A Levey, A. I.
+%A Lieberman, A. P.
+%A Lopez, O. L.
+%A Mack, W. J.
+%A Marson, D. C.
+%A Martiniuk, F.
+%A Mash, D. C.
+%A Masliah, E.
+%A McCormick, W. C.
+%A McCurry, S. M.
+%A McDavid, A. N.
+%A McKee, A. C.
+%A Mesulam, M.
+%A Miller, B. L.
+%A Miller, C. A.
+%A Miller, J. W.
+%A Parisi, J. E.
+%A Perl, D. P.
+%A Peskind, E.
+%A Petersen, R. C.
+%A Poon, W. W.
+%A Quinn, J. F.
+%A Rajbhandary, R. A.
+%A Raskind, M.
+%A Reisberg, B.
+%A Ringman, J. M.
+%A Roberson, E. D.
+%A Rosenberg, R. N.
+%A Sano, M.
+%A Schneider, L. S.
+%A Seeley, W.
+%A Shelanski, M. L.
+%A Slifer, M. A.
+%A Smith, C. D.
+%A Sonnen, J. A.
+%A Spina, S.
+%A Stern, R. A.
+%A Tanzi, R. E.
+%A Trojanowski, J. Q.
+%A Troncoso, J. C.
+%A Van Deerlin, V. M.
+%A Vinters, H. V.
+%A Vonsattel, J. P.
+%A Weintraub, S.
+%A Welsh-Bohmer, K. A.
+%A Williamson, J.
+%A Woltjer, R. L.
+%A Cantwell, L. B.
+%A Dombroski, B. A.
+%A Beekly, D.
+%A Lunetta, K. L.
+%A Martin, E. R.
+%A Kamboh, M. I.
+%A Saykin, A. J.
+%A Reiman, E. M.
+%A Bennett, D. A.
+%A Morris, J. C.
+%A Montine, T. J.
+%A Goate, A. M.
+%A Blacker, D.
+%A Tsuang, D. W.
+%A Hakonarson, H.
+%A Kukull, W. A.
+%A Foroud, T. M.
+%A Haines, J. L.
+%A Mayeux, R.
+%A Pericak-Vance, M. A.
+%A Farrer, L. A.
+%A Schellenberg, G. D.
+%D 2011
+%T Common variants at MS4A4/MS4A6E, CD2AP, CD33 and EPHA1 are associated with late-onset Alzheimer's disease
+%B Nat Genet
+%V 43
+%N 5
+%P 436-41
+%7 2011/04/05
+%8 May
+%! Common variants at MS4A4/MS4A6E, CD2AP, CD33 and EPHA1 are associated with late-onset Alzheimer's disease
+%O Nature genetics
+%@ 1061-4036
+%R 10.1038/ng.801
+%2 PMC3090745
+%$ NIHMS287699
+%M 21460841
+%K Adaptor Proteins, Signal Transducing/*genetics
+Age of Onset
+Aged
+Aged, 80 and over
+Alzheimer Disease/*genetics
+Antigens, CD/*genetics
+Antigens, Differentiation, Myelomonocytic/*genetics
+Cohort Studies
+Cytoskeletal Proteins/*genetics
+Databases, Genetic
+Female
+Genetic Predisposition to Disease
+Genetic Variation
+Genome-Wide Association Study
+Humans
+Male
+Membrane Proteins/*genetics
+Multigene Family
+Polymorphism, Single Nucleotide
+Receptor, EphA1/*genetics
+Sialic Acid Binding Ig-like Lectin 3
+%X The Alzheimer Disease Genetics Consortium (ADGC) performed a genome-wide association study of late-onset Alzheimer disease using a three-stage design consisting of a discovery stage (stage 1) and two replication stages (stages 2 and 3). Both joint analysis and meta-analysis approaches were used. We obtained genome-wide significant results at MS4A4A (rs4938933; stages 1 and 2, meta-analysis P (P(M)) = 1.7 x 10(-9), joint analysis P (P(J)) = 1.7 x 10(-9); stages 1, 2 and 3, P(M) = 8.2 x 10(-12)), CD2AP (rs9349407; stages 1, 2 and 3, P(M) = 8.6 x 10(-9)), EPHA1 (rs11767557; stages 1, 2 and 3, P(M) = 6.0 x 10(-10)) and CD33 (rs3865444; stages 1, 2 and 3, P(M) = 1.6 x 10(-9)). We also replicated previous associations at CR1 (rs6701713; P(M) = 4.6 x 10(-10), P(J) = 5.2 x 10(-11)), CLU (rs1532278; P(M) = 8.3 x 10(-8), P(J) = 1.9 x 10(-8)), BIN1 (rs7561528; P(M) = 4.0 x 10(-14), P(J) = 5.2 x 10(-14)) and PICALM (rs561655; P(M) = 7.0 x 10(-11), P(J) = 1.0 x 10(-10)), but not at EXOC3L2, to late-onset Alzheimer's disease susceptibility.
+%Z 1546-1718
+Naj, Adam C
+Jun, Gyungah
+Beecham, Gary W
+Wang, Li-San
+Vardarajan, Badri Narayan
+Buros, Jacqueline
+Gallins, Paul J
+Buxbaum, Joseph D
+Jarvik, Gail P
+Crane, Paul K
+Larson, Eric B
+Bird, Thomas D
+Boeve, Bradley F
+Graff-Radford, Neill R
+De Jager, Philip L
+Evans, Denis
+Schneider, Julie A
+Carrasquillo, Minerva M
+Ertekin-Taner, Nilufer
+Younkin, Steven G
+Cruchaga, Carlos
+Kauwe, John S K
+Nowotny, Petra
+Kramer, Patricia
+Hardy, John
+Huentelman, Matthew J
+Myers, Amanda J
+Barmada, Michael M
+Demirci, F Yesim
+Baldwin, Clinton T
+Green, Robert C
+Rogaeva, Ekaterina
+St George-Hyslop, Peter
+Arnold, Steven E
+Barber, Robert
+Beach, Thomas
+Bigio, Eileen H
+Bowen, James D
+Boxer, Adam
+Burke, James R
+Cairns, Nigel J
+Carlson, Chris S
+Carney, Regina M
+Carroll, Steven L
+Chui, Helena C
+Clark, David G
+Corneveaux, Jason
+Cotman, Carl W
+Cummings, Jeffrey L
+DeCarli, Charles
+DeKosky, Steven T
+Diaz-Arrastia, Ramon
+Dick, Malcolm
+Dickson, Dennis W
+Ellis, William G
+Faber, Kelley M
+Fallon, Kenneth B
+Farlow, Martin R
+Ferris, Steven
+Frosch, Matthew P
+Galasko, Douglas R
+Ganguli, Mary
+Gearing, Marla
+Geschwind, Daniel H
+Ghetti, Bernardino
+Gilbert, John R
+Gilman, Sid
+Giordani, Bruno
+Glass, Jonathan D
+Growdon, John H
+Hamilton, Ronald L
+Harrell, Lindy E
+Head, Elizabeth
+Honig, Lawrence S
+Hulette, Christine M
+Hyman, Bradley T
+Jicha, Gregory A
+Jin, Lee-Way
+Johnson, Nancy
+Karlawish, Jason
+Karydas, Anna
+Kaye, Jeffrey A
+Kim, Ronald
+Koo, Edward H
+Kowall, Neil W
+Lah, James J
+Levey, Allan I
+Lieberman, Andrew P
+Lopez, Oscar L
+Mack, Wendy J
+Marson, Daniel C
+Martiniuk, Frank
+Mash, Deborah C
+Masliah, Eliezer
+McCormick, Wayne C
+McCurry, Susan M
+McDavid, Andrew N
+McKee, Ann C
+Mesulam, Marsel
+Miller, Bruce L
+Miller, Carol A
+Miller, Joshua W
+Parisi, Joseph E
+Perl, Daniel P
+Peskind, Elaine
+Petersen, Ronald C
+Poon, Wayne W
+Quinn, Joseph F
+Rajbhandary, Ruchita A
+Raskind, Murray
+Reisberg, Barry
+Ringman, John M
+Roberson, Erik D
+Rosenberg, Roger N
+Sano, Mary
+Schneider, Lon S
+Seeley, William
+Shelanski, Michael L
+Slifer, Michael A
+Smith, Charles D
+Sonnen, Joshua A
+Spina, Salvatore
+Stern, Robert A
+Tanzi, Rudolph E
+Trojanowski, John Q
+Troncoso, Juan C
+Van Deerlin, Vivianna M
+Vinters, Harry V
+Vonsattel, Jean Paul
+Weintraub, Sandra
+Welsh-Bohmer, Kathleen A
+Williamson, Jennifer
+Woltjer, Randall L
+Cantwell, Laura B
+Dombroski, Beth A
+Beekly, Duane
+Lunetta, Kathryn L
+Martin, Eden R
+Kamboh, M Ilyas
+Saykin, Andrew J
+Reiman, Eric M
+Bennett, David A
+Morris, John C
+Montine, Thomas J
+Goate, Alison M
+Blacker, Deborah
+Tsuang, Debby W
+Hakonarson, Hakon
+Kukull, Walter A
+Foroud, Tatiana M
+Haines, Jonathan L
+Mayeux, Richard
+Pericak-Vance, Margaret A
+Farrer, Lindsay A
+Schellenberg, Gerard D
+081864/Wellcome Trust/United Kingdom
+089703/Wellcome Trust/United Kingdom
+AG010491/AG/NIA NIH HHS/United States
+AG019757/AG/NIA NIH HHS/United States
+AG021547/AG/NIA NIH HHS/United States
+AG025688/AG/NIA NIH HHS/United States
+AG027944/AG/NIA NIH HHS/United States
+G0701075/Medical Research Council/United Kingdom
+K01 AG030514/AG/NIA NIH HHS/United States
+K01 AG030514-04/AG/NIA NIH HHS/United States
+K24 AG027841/AG/NIA NIH HHS/United States
+K24 AG027841-05/AG/NIA NIH HHS/United States
+M01 RR000096-47/RR/NCRR NIH HHS/United States
+MC_G1000734/Medical Research Council/United Kingdom
+MC_G1000735/Medical Research Council/United Kingdom
+MO1RR00096/RR/NCRR NIH HHS/United States
+P01 AG002219/AG/NIA NIH HHS/United States
+P01 AG002219-28/AG/NIA NIH HHS/United States
+P01 AG003991/AG/NIA NIH HHS/United States
+P01 AG003991-25/AG/NIA NIH HHS/United States
+P01 AG010491/AG/NIA NIH HHS/United States
+P01 AG010491-14/AG/NIA NIH HHS/United States
+P01 AG019724/AG/NIA NIH HHS/United States
+P01 AG019724-10/AG/NIA NIH HHS/United States
+P01 AG03991/AG/NIA NIH HHS/United States
+P30 AG008017/AG/NIA NIH HHS/United States
+P30 AG008017-21/AG/NIA NIH HHS/United States
+P30 AG008051/AG/NIA NIH HHS/United States
+P30 AG008051-16/AG/NIA NIH HHS/United States
+P30 AG010124/AG/NIA NIH HHS/United States
+P30 AG010124-15/AG/NIA NIH HHS/United States
+P30 AG010129/AG/NIA NIH HHS/United States
+P30 AG010129-13/AG/NIA NIH HHS/United States
+P30 AG010133/AG/NIA NIH HHS/United States
+P30 AG010133-15/AG/NIA NIH HHS/United States
+P30 AG010161/AG/NIA NIH HHS/United States
+P30 AG010161-14/AG/NIA NIH HHS/United States
+P30 AG012300/AG/NIA NIH HHS/United States
+P30 AG012300-10/AG/NIA NIH HHS/United States
+P30 AG013846/AG/NIA NIH HHS/United States
+P30 AG013846-10/AG/NIA NIH HHS/United States
+P30 AG013854/AG/NIA NIH HHS/United States
+P30 AG013854-10/AG/NIA NIH HHS/United States
+P30 AG019610/AG/NIA NIH HHS/United States
+P30 AG019610-08/AG/NIA NIH HHS/United States
+P30 AG028377/AG/NIA NIH HHS/United States
+P30 AG028377-05/AG/NIA NIH HHS/United States
+P30 AG028383/AG/NIA NIH HHS/United States
+P30 AG028383-03/AG/NIA NIH HHS/United States
+P30 AG08051/AG/NIA NIH HHS/United States
+P30 AG10133/AG/NIA NIH HHS/United States
+P50/PHS HHS/United States
+P50 AG005131/AG/NIA NIH HHS/United States
+P50 AG005131-21/AG/NIA NIH HHS/United States
+P50 AG005133/AG/NIA NIH HHS/United States
+P50 AG005133-23/AG/NIA NIH HHS/United States
+P50 AG005134/AG/NIA NIH HHS/United States
+P50 AG005134-27/AG/NIA NIH HHS/United States
+P50 AG005136/AG/NIA NIH HHS/United States
+P50 AG005136-21/AG/NIA NIH HHS/United States
+P50 AG005138/AG/NIA NIH HHS/United States
+P50 AG005138-20/AG/NIA NIH HHS/United States
+P50 AG005142/AG/NIA NIH HHS/United States
+P50 AG005142-27/AG/NIA NIH HHS/United States
+P50 AG005146/AG/NIA NIH HHS/United States
+P50 AG005146-25/AG/NIA NIH HHS/United States
+P50 AG005681/AG/NIA NIH HHS/United States
+P50 AG008671/AG/NIA NIH HHS/United States
+P50 AG008671-15/AG/NIA NIH HHS/United States
+P50 AG008702/AG/NIA NIH HHS/United States
+P50 AG008702-20/AG/NIA NIH HHS/United States
+P50 AG016570/AG/NIA NIH HHS/United States
+P50 AG016570-07/AG/NIA NIH HHS/United States
+P50 AG016573/AG/NIA NIH HHS/United States
+P50 AG016573-06/AG/NIA NIH HHS/United States
+P50 AG016574/AG/NIA NIH HHS/United States
+P50 AG016574-12/AG/NIA NIH HHS/United States
+P50 AG016575/AG/NIA NIH HHS/United States
+P50 AG016576/AG/NIA NIH HHS/United States
+P50 AG016577/AG/NIA NIH HHS/United States
+P50 AG016582/AG/NIA NIH HHS/United States
+P50 AG016582-10/AG/NIA NIH HHS/United States
+P50 AG023501/AG/NIA NIH HHS/United States
+P50 AG023501-08/AG/NIA NIH HHS/United States
+P50 AG025688/AG/NIA NIH HHS/United States
+P50 AG025688-07/AG/NIA NIH HHS/United States
+R01 AG009029/AG/NIA NIH HHS/United States
+R01 AG009029-14/AG/NIA NIH HHS/United States
+R01 AG015819/AG/NIA NIH HHS/United States
+R01 AG015819-12/AG/NIA NIH HHS/United States
+R01 AG017173/AG/NIA NIH HHS/United States
+R01 AG017173-06/AG/NIA NIH HHS/United States
+R01 AG017917/AG/NIA NIH HHS/United States
+R01 AG017917-09/AG/NIA NIH HHS/United States
+R01 AG019085/AG/NIA NIH HHS/United States
+R01 AG019085-10/AG/NIA NIH HHS/United States
+R01 AG019757/AG/NIA NIH HHS/United States
+R01 AG019757-06/AG/NIA NIH HHS/United States
+R01 AG020688/AG/NIA NIH HHS/United States
+R01 AG020688-05/AG/NIA NIH HHS/United States
+R01 AG021547/AG/NIA NIH HHS/United States
+R01 AG021547-05/AG/NIA NIH HHS/United States
+R01 AG023801/AG/NIA NIH HHS/United States
+R01 AG025259/AG/NIA NIH HHS/United States
+R01 AG025259-05/AG/NIA NIH HHS/United States
+R01 AG026916/AG/NIA NIH HHS/United States
+R01 AG026916-04/AG/NIA NIH HHS/United States
+R01 AG027944/AG/NIA NIH HHS/United States
+R01 AG027944-05/AG/NIA NIH HHS/United States
+R01 AG030146/AG/NIA NIH HHS/United States
+R01 AG030146-05/AG/NIA NIH HHS/United States
+R01 AG030653/AG/NIA NIH HHS/United States
+R01 AG030653-04/AG/NIA NIH HHS/United States
+R01 AG031278/AG/NIA NIH HHS/United States
+R01 AG031581/AG/NIA NIH HHS/United States
+R01 AG031581-14/AG/NIA NIH HHS/United States
+R01 AG032990/AG/NIA NIH HHS/United States
+R01 AG034504/AG/NIA NIH HHS/United States
+R01 AG037212/AG/NIA NIH HHS/United States
+R01 AG041797/AG/NIA NIH HHS/United States
+R01 AG15819/AG/NIA NIH HHS/United States
+R01 AG17917/AG/NIA NIH HHS/United States
+R01 AG30146/AG/NIA NIH HHS/United States
+R01 CA129769/CA/NCI NIH HHS/United States
+R01 CA129769-03/CA/NCI NIH HHS/United States
+R01 HG002213/HG/NHGRI NIH HHS/United States
+R01 HG002213-09/HG/NHGRI NIH HHS/United States
+R01 HG02213/HG/NHGRI NIH HHS/United States
+R01 MH080295/MH/NIMH NIH HHS/United States
+R01 MH080295-04/MH/NIMH NIH HHS/United States
+R01 NS059873/NS/NINDS NIH HHS/United States
+R01 NS059873-04/NS/NINDS NIH HHS/United States
+R37 AG015473/AG/NIA NIH HHS/United States
+R37 AG015473-09/AG/NIA NIH HHS/United States
+RC2 AG036528/AG/NIA NIH HHS/United States
+RC2 AG036528-02/AG/NIA NIH HHS/United States
+RC2 AG036535/AG/NIA NIH HHS/United States
+RC2 AG036535-02/AG/NIA NIH HHS/United States
+U01 AG006781/AG/NIA NIH HHS/United States
+U01 AG006781-19/AG/NIA NIH HHS/United States
+U01 AG010483/AG/NIA NIH HHS/United States
+U01 AG010483-18/AG/NIA NIH HHS/United States
+U01 AG016976/AG/NIA NIH HHS/United States
+U01 AG016976-09/AG/NIA NIH HHS/United States
+U01 AG024904/AG/NIA NIH HHS/United States
+U01 AG024904-04/AG/NIA NIH HHS/United States
+U01 AG032984/AG/NIA NIH HHS/United States
+U01 AG032984-03/AG/NIA NIH HHS/United States
+U01 AG10483/AG/NIA NIH HHS/United States
+U01 HG004610/HG/NHGRI NIH HHS/United States
+U01 HG004610-04/HG/NHGRI NIH HHS/United States
+U01 HG006375/HG/NHGRI NIH HHS/United States
+U24 AG021886/AG/NIA NIH HHS/United States
+U24 AG021886-09/AG/NIA NIH HHS/United States
+U24 AG026390/AG/NIA NIH HHS/United States
+U24 AG026395/AG/NIA NIH HHS/United States
+U24 AG026395-05/AG/NIA NIH HHS/United States
+UL1 RR025741/RR/NCRR NIH HHS/United States
+UL1 RR029893/RR/NCRR NIH HHS/United States
+UL1 RR029893-03/RR/NCRR NIH HHS/United States
+UL1RR02777/RR/NCRR NIH HHS/United States
+UO1 AG06781/AG/NIA NIH HHS/United States
+UO1 HG004610/HG/NHGRI NIH HHS/United States
+Canadian Institutes of Health Research/Canada
+Wellcome Trust/United Kingdom
+Howard Hughes Medical Institute/United States
+Journal Article
+Meta-Analysis
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Nat Genet. 2011 May;43(5):436-41. doi: 10.1038/ng.801. Epub 2011 Apr 3.
+%+ The John P. Hussman Institute for Human Genomics, University of Miami, Miami, Florida, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Newcombe, P. J.
+%A Verzilli, C.
+%A Casas, J. P.
+%A Hingorani, A. D.
+%A Smeeth, L.
+%A Whittaker, J. C.
+%D 2009
+%T Multilocus Bayesian meta-analysis of gene-disease associations
+%B Am J Hum Genet
+%V 84
+%N 5
+%P 567-80
+%7 2009/05/05
+%8 May
+%! Multilocus Bayesian meta-analysis of gene-disease associations
+%O American journal of human genetics
+%@ 0002-9297
+%R 10.1016/j.ajhg.2009.04.001
+%2 PMC2680997
+%M 19409523
+%K Bayes Theorem
+Computer Simulation
+Cyclic Nucleotide Phosphodiesterases, Type 4/genetics
+Genetic Markers
+*Genetic Predisposition to Disease
+Haplotypes
+Humans
+*Models, Genetic
+Polymorphism, Single Nucleotide
+Stroke/genetics
+%X Meta-analysis is a vital tool in genetic epidemiology. However, meta-analyses to identify gene-disease associations are compromised when contributing studies have typed partially overlapping sets of markers. Currently, only marginal analyses are possible, and these are restricted to the subset of studies typing that marker. This does not allow full use of available data and leads to the confounding of marker effects by closely associated markers. We present a Bayesian approach that exploits prior information on underlying haplotypes to allow multi-marker analysis incorporating data from all relevant studies of a gene or region, irrespective of the markers typed. We present results from application of our approach to data on a possible association between PDE4D and ischemic stroke.
+%Z 1537-6605
+Newcombe, Paul J
+Verzilli, Claudio
+Casas, Juan P
+Hingorani, Aroon D
+Smeeth, Liam
+Whittaker, John C
+082178/Wellcome Trust/United Kingdom
+G0600580/Medical Research Council/United Kingdom
+British Heart Foundation/United Kingdom
+Wellcome Trust/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+United States
+Am J Hum Genet. 2009 May;84(5):567-80. doi: 10.1016/j.ajhg.2009.04.001. Epub 2009 Apr 30.
+%+ Department of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, WC1E 7HT London, UK.
+%W NLM
+%G eng
+
+
+
+%0 Book
+%A Nocedal , J.
+%A Wright , S.
+%D 2006
+%T Numerical Optimization, Second Edition
+%I Springer-Verlag
+%! Numerical Optimization, Second Edition
+
+
+
+%0 Journal Article
+%A Owens, G. K.
+%A Kumar, M. S.
+%A Wamhoff, B. R.
+%D 2004
+%T Molecular regulation of vascular smooth muscle cell differentiation in development and disease
+%B Physiol Rev
+%V 84
+%N 3
+%P 767-801
+%8 Jul
+%! Molecular regulation of vascular smooth muscle cell differentiation in development and disease
+%@ 0031-9333
+%R 10.1152/physrev.00041.2003
+%M 15269336
+%K Aging
+Animals
+Arteriosclerosis
+Cell Aging
+Cell Differentiation
+Embryo, Mammalian
+Humans
+Muscle, Smooth, Vascular
+Myocytes, Smooth Muscle
+Phenotype
+Vascular Diseases
+%X The focus of this review is to provide an overview of the current state of knowledge of molecular mechanisms/processes that control differentiation of vascular smooth muscle cells (SMC) during normal development and maturation of the vasculature, as well as how these mechanisms/processes are altered in vascular injury or disease. A major challenge in understanding differentiation of the vascular SMC is that this cell can exhibit a wide range of different phenotypes at different stages of development, and even in adult organisms the cell is not terminally differentiated. Indeed, the SMC is capable of major changes in its phenotype in response to changes in local environmental cues including growth factors/inhibitors, mechanical influences, cell-cell and cell-matrix interactions, and various inflammatory mediators. There has been much progress in recent years to identify mechanisms that control expression of the repertoire of genes that are specific or selective for the vascular SMC and required for its differentiated function. One of the most exciting recent discoveries was the identification of the serum response factor (SRF) coactivator gene myocardin that appears to be required for expression of many SMC differentiation marker genes, and for initial differentiation of SMC during development. However, it is critical to recognize that overall control of SMC differentiation/maturation, and regulation of its responses to changing environmental cues, is extremely complex and involves the cooperative interaction of many factors and signaling pathways that are just beginning to be understood. There is also relatively recent evidence that circulating stem cell populations can give rise to smooth muscle-like cells in association with vascular injury and atherosclerotic lesion development, although the exact role and properties of these cells remain to be clearly elucidated. The goal of this review is to summarize the current state of our knowledge in this area and to attempt to identify some of the key unresolved challenges and questions that require further study.
+%U https://www.ncbi.nlm.nih.gov/pubmed/15269336
+%G eng
+
+
+
+%0 Book
+%A Pawitan, Y.
+%D 2001
+%T In all likelihood
+%I Oxford University Press
+%P 525
+%! In all likelihood
+
+
+
+%0 Journal Article
+%A Soto, I.
+%A Grabowska, W. A.
+%A Onos, K. D.
+%A Graham, L. C.
+%A Jackson, H. M.
+%A Simeone, S. N.
+%A Howell, G. R.
+%D 2016
+%T Meox2 haploinsufficiency increases neuronal cell loss in a mouse model of Alzheimer's disease
+%B Neurobiol Aging
+%V 42
+%P 50-60
+%8 Jun
+%! Meox2 haploinsufficiency increases neuronal cell loss in a mouse model of Alzheimer's disease
+%@ 1558-1497
+%R 10.1016/j.neurobiolaging.2016.02.025
+%2 PMC4878023
+%M 27143421
+%X Evidence suggests that multiple genetic and environmental factors conspire together to increase susceptibility to Alzheimer's disease (AD). The amyloid cascade hypothesis states that deposition of the amyloid-β (Aβ) peptide is central to AD; however, evidence in humans and animals suggests that Aβ buildup alone is not sufficient to cause neuronal cell loss and cognitive decline. Mouse models that express high levels of mutant forms of amyloid precursor protein and/or cleaving enzymes deposit amyloid but do not show neuron loss. Therefore, a double-hit hypothesis for AD has been proposed whereby vascular dysfunction precedes and promotes Aβ toxicity. In support of this, copy number variations in mesenchyme homeobox 2 (MEOX2), a gene involved in vascular development, are associated with severe forms of AD. However, the role of MEOX2 in AD has not been studied. Here, we tested Meox2 haploinsufficiency in B6.APP/PS1 (B6.APB(Tg)) mice, a mouse model of AD. Despite no overt differences in plaque deposition or glial activation, B6.APB(Tg) mice that carry only one copy of Meox2 (B6.APB(Tg).Mx(-/+)) show increased neuronal cell loss, particularly in regions containing plaques, compared with B6.APB(Tg) mice. Neuronal cell loss corresponds with a significant decrease in plaque-associated microvessels, further supporting a synergistic effect of vascular compromise and amyloid deposition on neuronal cell dysfunction in AD.
+%U https://www.ncbi.nlm.nih.gov/pubmed/27143421
+%G eng
+
+
+
+%0 Journal Article
+%A Stephens, M.
+%A Balding, D. J.
+%D 2009
+%T Bayesian statistical methods for genetic association studies
+%B Nat Rev Genet
+%V 10
+%N 10
+%P 681-90
+%7 2009/09/19
+%8 Oct
+%! Bayesian statistical methods for genetic association studies
+%O Nature reviews. Genetics
+%@ 1471-0056
+%R 10.1038/nrg2615
+%M 19763151
+%K *Bayes Theorem
+*Genome-Wide Association Study
+Humans
+Polymorphism, Single Nucleotide/*genetics
+%X Bayesian statistical methods have recently made great inroads into many areas of science, and this advance is now extending to the assessment of association between genetic variants and disease or other phenotypes. We review these methods, focusing on single-SNP tests in genome-wide association studies. We discuss the advantages of the Bayesian approach over classical (frequentist) approaches in this setting and provide a tutorial on basic analysis steps, including practical guidelines for appropriate prior specification. We demonstrate the use of Bayesian methods for fine mapping in candidate regions, discuss meta-analyses and provide guidance for refereeing manuscripts that contain Bayesian analyses.
+%Z 1471-0064
+Stephens, Matthew
+Balding, David J
+EP/C533542/EP/EAPO CDC HHS/United States
+HL084689/HL/NHLBI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Review
+England
+Nat Rev Genet. 2009 Oct;10(10):681-90. doi: 10.1038/nrg2615.
+%+ Departments of Statistics and Human Genetics, University of Chicago, Chicago, IL 60637, USA. mstephens@uchicago.edu
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Verzilli, C.
+%A Shah, T.
+%A Casas, J. P.
+%A Chapman, J.
+%A Sandhu, M.
+%A Debenham, S. L.
+%A Boekholdt, M. S.
+%A Khaw, K. T.
+%A Wareham, N. J.
+%A Judson, R.
+%A Benjamin, E. J.
+%A Kathiresan, S.
+%A Larson, M. G.
+%A Rong, J.
+%A Sofat, R.
+%A Humphries, S. E.
+%A Smeeth, L.
+%A Cavalleri, G.
+%A Whittaker, J. C.
+%A Hingorani, A. D.
+%D 2008
+%T Bayesian meta-analysis of genetic association studies with different sets of markers
+%B Am J Hum Genet
+%V 82
+%N 4
+%P 859-72
+%7 2008/04/09
+%8 Apr
+%! Bayesian meta-analysis of genetic association studies with different sets of markers
+%O American journal of human genetics
+%@ 0002-9297
+%R 10.1016/j.ajhg.2008.01.016
+%2 PMC2665011
+%M 18394581
+%K Adolescent
+Adult
+Aged
+Aged, 80 and over
+Bayes Theorem
+Biomarkers/analysis
+C-Reactive Protein/*analysis/*genetics
+Child
+Computer Simulation
+Coronary Disease/*genetics
+Female
+*Genetic Predisposition to Disease
+Haplotypes
+Humans
+*Linkage Disequilibrium
+Male
+Middle Aged
+Polymorphism, Single Nucleotide
+Quantitative Trait, Heritable
+Risk
+Software
+%X Robust assessment of genetic effects on quantitative traits or complex-disease risk requires synthesis of evidence from multiple studies. Frequently, studies have genotyped partially overlapping sets of SNPs within a gene or region of interest, hampering attempts to combine all the available data. By using the example of C-reactive protein (CRP) as a quantitative trait, we show how linkage disequilibrium in and around its gene facilitates use of Bayesian hierarchical models to integrate informative data from all available genetic association studies of this trait, irrespective of the SNP typed. A variable selection scheme, followed by contextualization of SNPs exhibiting independent associations within the haplotype structure of the gene, enhanced our ability to infer likely causal variants in this region with population-scale data. This strategy, based on data from a literature based systematic review and substantial new genotyping, facilitated the most comprehensive evaluation to date of the role of variants governing CRP levels, providing important information on the minimal subset of SNPs necessary for comprehensive evaluation of the likely causal relevance of elevated CRP levels for coronary-heart-disease risk by Mendelian randomization. The same method could be applied to evidence synthesis of other quantitative traits, whenever the typed SNPs vary among studies, and to assist fine mapping of causal variants.
+%Z 1537-6605
+Verzilli, Claudio
+Shah, Tina
+Casas, Juan P
+Chapman, Juliet
+Sandhu, Manjinder
+Debenham, Sally L
+Boekholdt, Matthijs S
+Khaw, Kay Tee
+Wareham, Nicholas J
+Judson, Richard
+Benjamin, Emelia J
+Kathiresan, Sekar
+Larson, Martin G
+Rong, Jian
+Sofat, Reecha
+Humphries, Steve E
+Smeeth, Liam
+Cavalleri, Gianpiero
+Whittaker, John C
+Hingorani, Aroon D
+082178/Wellcome Trust/United Kingdom
+AG028321/AG/NIA NIH HHS/United States
+FS/02/086/14760/British Heart Foundation/United Kingdom
+FS/05/125/British Heart Foundation/United Kingdom
+G0401527/Medical Research Council/United Kingdom
+G0600580/Medical Research Council/United Kingdom
+G0601942/Medical Research Council/United Kingdom
+GR076024/PHS HHS/United States
+HL076784/HL/NHLBI NIH HHS/United States
+MC_U106179471/Medical Research Council/United Kingdom
+N01-HC 25195/HC/NHLBI NIH HHS/United States
+PG2000/015/British Heart Foundation/United Kingdom
+Wellcome Trust/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Am J Hum Genet. 2008 Apr;82(4):859-72. doi: 10.1016/j.ajhg.2008.01.016.
+%+ Department of Epidemiology and Population Health, London School of Hygiene and Tropical Medicine, London WC1E 7HT, UK.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Ward, L. D.
+%A Kellis, M.
+%D 2012
+%T HaploReg: a resource for exploring chromatin states, conservation, and regulatory motif alterations within sets of genetically linked variants
+%B Nucleic Acids Res
+%V 40
+%N Database issue
+%P D930-4
+%7 2011/11/09
+%8 Jan
+%! HaploReg: a resource for exploring chromatin states, conservation, and regulatory motif alterations within sets of genetically linked variants
+%O Nucleic acids research
+%@ 0305-1048
+%R 10.1093/nar/gkr917
+%2 PMC3245002
+%M 22064851
+%K Animals
+Base Sequence
+Chromatin/*chemistry
+Conserved Sequence
+*Databases, Nucleic Acid
+Enhancer Elements, Genetic
+Genetic Linkage
+*Genome-Wide Association Study
+Genomics
+*INDEL Mutation
+Linkage Disequilibrium
+Molecular Sequence Annotation
+Nucleotide Motifs
+*Polymorphism, Single Nucleotide
+Regulatory Sequences, Nucleic Acid
+%X The resolution of genome-wide association studies (GWAS) is limited by the linkage disequilibrium (LD) structure of the population being studied. Selecting the most likely causal variants within an LD block is relatively straightforward within coding sequence, but is more difficult when all variants are intergenic. Predicting functional non-coding sequence has been recently facilitated by the availability of conservation and epigenomic information. We present HaploReg, a tool for exploring annotations of the non-coding genome among the results of published GWAS or novel sets of variants. Using LD information from the 1000 Genomes Project, linked SNPs and small indels can be visualized along with their predicted chromatin state in nine cell types, conservation across mammals and their effect on regulatory motifs. Sets of SNPs, such as those resulting from GWAS, are analyzed for an enrichment of cell type-specific enhancers. HaploReg will be useful to researchers developing mechanistic hypotheses of the impact of non-coding variants on clinical phenotypes and normal variation. The HaploReg database is available at http://compbio.mit.edu/HaploReg.
+%Z 1362-4962
+Ward, Lucas D
+Kellis, Manolis
+R01 HG004037/HG/NHGRI NIH HHS/United States
+R01-HG004037/HG/NHGRI NIH HHS/United States
+RC1-HG005334/HG/NHGRI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, Non-P.H.S.
+England
+Nucleic Acids Res. 2012 Jan;40(Database issue):D930-4. doi: 10.1093/nar/gkr917. Epub 2011 Nov 7.
+%+ Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology and The Broad Institute of MIT and Harvard, Cambridge, MA 02139, USA. lukeward@mit.edu
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Welter, D.
+%A MacArthur, J.
+%A Morales, J.
+%A Burdett, T.
+%A Hall, P.
+%A Junkins, H.
+%A Klemm, A.
+%A Flicek, P.
+%A Manolio, T.
+%A Hindorff, L.
+%A Parkinson, H.
+%D 2014
+%T The NHGRI GWAS Catalog, a curated resource of SNP-trait associations
+%B Nucleic Acids Res
+%V 42
+%N Database issue
+%P D1001-6
+%7 2013/12/10
+%8 Jan
+%! The NHGRI GWAS Catalog, a curated resource of SNP-trait associations
+%O Nucleic acids research
+%@ 0305-1048
+%R 10.1093/nar/gkt1229
+%2 PMC3965119
+%M 24316577
+%K *Databases, Nucleic Acid
+Gene Ontology
+Genome, Human
+*Genome-Wide Association Study
+Humans
+Internet
+Karyotype
+*Polymorphism, Single Nucleotide
+%X The National Human Genome Research Institute (NHGRI) Catalog of Published Genome-Wide Association Studies (GWAS) Catalog provides a publicly available manually curated collection of published GWAS assaying at least 100,000 single-nucleotide polymorphisms (SNPs) and all SNP-trait associations with P <1 x 10(-5). The Catalog includes 1751 curated publications of 11 912 SNPs. In addition to the SNP-trait association data, the Catalog also publishes a quarterly diagram of all SNP-trait associations mapped to the SNPs' chromosomal locations. The Catalog can be accessed via a tabular web interface, via a dynamic visualization on the human karyotype, as a downloadable tab-delimited file and as an OWL knowledge base. This article presents a number of recent improvements to the Catalog, including novel ways for users to interact with the Catalog and changes to the curation infrastructure.
+%Z 1362-4962
+Welter, Danielle
+MacArthur, Jacqueline
+Morales, Joannella
+Burdett, Tony
+Hall, Peggy
+Junkins, Heather
+Klemm, Alan
+Flicek, Paul
+Manolio, Teri
+Hindorff, Lucia
+Parkinson, Helen
+3U41-HG006104/HG/NHGRI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+Nucleic Acids Res. 2014 Jan;42(Database issue):D1001-6. doi: 10.1093/nar/gkt1229. Epub 2013 Dec 6.
+%+ European Bioinformatics Institute (EMBL-EBI), European Molecular Biology Laboratory, Wellcome Trust Genome Campus, Hinxton, Cambridge, CB10 1SD, UK, Division of Genomic Medicine, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA and Division of Policy, Communication and Education, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA.
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Zhang, Z.
+%A Ersoz, E.
+%A Lai, C. Q.
+%A Todhunter, R. J.
+%A Tiwari, H. K.
+%A Gore, M. A.
+%A Bradbury, P. J.
+%A Yu, J.
+%A Arnett, D. K.
+%A Ordovas, J. M.
+%A Buckler, E. S.
+%D 2010
+%T Mixed linear model approach adapted for genome-wide association studies
+%B Nat Genet
+%V 42
+%N 4
+%P 355-60
+%7 2010/03/09
+%8 Apr
+%! Mixed linear model approach adapted for genome-wide association studies
+%O Nature genetics
+%@ 1061-4036
+%R 10.1038/ng.546
+%2 PMC2931336
+%$ NIHMS212982
+%M 20208535
+%K Family
+Genome-Wide Association Study/*methods
+Humans
+*Linear Models
+Population Groups
+Software
+%X Mixed linear model (MLM) methods have proven useful in controlling for population structure and relatedness within genome-wide association studies. However, MLM-based methods can be computationally challenging for large datasets. We report a compression approach, called 'compressed MLM', that decreases the effective sample size of such datasets by clustering individuals into groups. We also present a complementary approach, 'population parameters previously determined' (P3D), that eliminates the need to re-compute variance components. We applied these two methods both independently and combined in selected genetic association datasets from human, dog and maize. The joint implementation of these two methods markedly reduced computing time and either maintained or improved statistical power. We used simulations to demonstrate the usefulness in controlling for substructure in genetic association datasets for a range of species and genetic architectures. We have made these methods available within an implementation of the software program TASSEL.
+%Z 1546-1718
+Zhang, Zhiwu
+Ersoz, Elhan
+Lai, Chao-Qiang
+Todhunter, Rory J
+Tiwari, Hemant K
+Gore, Michael A
+Bradbury, Peter J
+Yu, Jianming
+Arnett, Donna K
+Ordovas, Jose M
+Buckler, Edward S
+1R21AR055228-01A1/AR/NIAMS NIH HHS/United States
+R01 HL054776-09A1/HL/NHLBI NIH HHS/United States
+R21 AR055228/AR/NIAMS NIH HHS/United States
+R01 HL054776-05/HL/NHLBI NIH HHS/United States
+5U01HL072524-06/HL/NHLBI NIH HHS/United States
+R01 HL054776-04/HL/NHLBI NIH HHS/United States
+HL54776/HL/NHLBI NIH HHS/United States
+U01 HL072524/HL/NHLBI NIH HHS/United States
+R01 HL054776-12/HL/NHLBI NIH HHS/United States
+R01 HL054776-07/HL/NHLBI NIH HHS/United States
+R01 HL054776-11/HL/NHLBI NIH HHS/United States
+R01 HL054776-08/HL/NHLBI NIH HHS/United States
+R01 HL054776-13/HL/NHLBI NIH HHS/United States
+R01 HL054776-06/HL/NHLBI NIH HHS/United States
+R01 HL054776-10/HL/NHLBI NIH HHS/United States
+R01 HL054776/HL/NHLBI NIH HHS/United States
+U 01 HL72524/HL/NHLBI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+Nat Genet. 2010 Apr;42(4):355-60. doi: 10.1038/ng.546. Epub 2010 Mar 7.
+%+ Institute for Genomic Diversity, Cornell University, Ithaca, New York, USA. zz19@cornell.edu
+%W NLM
+%G eng
+
+
+
+%0 Journal Article
+%A Zhao, Y.
+%A Biswas, S. K.
+%A McNulty, P. H.
+%A Kozak, M.
+%A Jun, J. Y.
+%A Segar, L.
+%D 2011
+%T PDGF-induced vascular smooth muscle cell proliferation is associated with dysregulation of insulin receptor substrates
+%B Am J Physiol Cell Physiol
+%V 300
+%N 6
+%P C1375-85
+%8 Jun
+%! PDGF-induced vascular smooth muscle cell proliferation is associated with dysregulation of insulin receptor substrates
+%@ 1522-1563
+%R 10.1152/ajpcell.00670.2008
+%2 PMC3118627
+%M 21325637
+%K Antibiotics, Antineoplastic
+Benzamides
+Butadienes
+Cell Line
+Cell Proliferation
+Enzyme Activation
+Enzyme Inhibitors
+Extracellular Signal-Regulated MAP Kinases
+Furans
+Humans
+Imatinib Mesylate
+Insulin Receptor Substrate Proteins
+MAP Kinase Kinase 1
+Muscle, Smooth, Vascular
+Myocytes, Smooth Muscle
+Nitriles
+Phosphatidylinositol 3-Kinases
+Piperazines
+Platelet-Derived Growth Factor
+Proto-Oncogene Proteins c-sis
+Pyridines
+Pyrimidines
+Ribosomal Protein S6 Kinases, 70-kDa
+Signal Transduction
+Sirolimus
+%X In vascular smooth muscle cells (VSMCs), platelet-derived growth factor (PDGF) plays a major role in inducing phenotypic switching from contractile to proliferative state. Importantly, VSMC phenotypic switching is also determined by the phosphorylation state/expression levels of insulin receptor substrate (IRS), an intermediary signaling component that is shared by insulin and IGF-I. To date, the roles of PDGF-induced key proliferative signaling components including Akt, p70S6kinase, and ERK1/2 on the serine phosphorylation/expression of IRS-1 and IRS-2 isoforms remain unclear in VSMCs. We hypothesize that PDGF-induced VSMC proliferation is associated with dysregulation of insulin receptor substrates. Using human aortic VSMCs, we demonstrate that prolonged PDGF treatment led to sustained increases in the phosphorylation of protein kinases such as Akt, p70S6kinase, and ERK1/2, which mediate VSMC proliferation. In addition, PDGF enhanced IRS-1/IRS-2 serine phosphorylation and downregulated IRS-2 expression in a time- and concentration-dependent manner. Notably, phosphoinositide 3-kinase (PI 3-kinase) inhibitor (PI-103) and mammalian target of rapamycin inhibitor (rapamycin), which abolished PDGF-induced Akt and p70S6kinase phosphorylation, respectively, blocked PDGF-induced IRS-1 serine phosphorylation and IRS-2 downregulation. In contrast, MEK1/ERK inhibitor (U0126) failed to block PDGF-induced IRS-1 serine phosphorylation and IRS-2 downregulation. PDGF-induced IRS-2 downregulation was prevented by lactacystin, an inhibitor of proteasomal degradation. Functionally, PDGF-mediated IRS-1/IRS-2 dysregulation resulted in the attenuation of insulin-induced IRS-1/IRS-2-associated PI 3-kinase activity. Pharmacological inhibition of PDGF receptor tyrosine kinase with imatinib prevented IRS-1/IRS-2 dysregulation and restored insulin receptor signaling. In conclusion, strategies to inhibit PDGF receptors would not only inhibit neointimal growth but may provide new therapeutic options to prevent dysregulated insulin receptor signaling in VSMCs in nondiabetic and diabetic states.
+%U https://www.ncbi.nlm.nih.gov/pubmed/21325637
+%G eng
+
+
+
+%0 Journal Article
+%A Zhao, Z.
+%A Nelson, A. R.
+%A Betsholtz, C.
+%A Zlokovic, B. V.
+%D 2015
+%T Establishment and Dysfunction of the Blood-Brain Barrier
+%B Cell
+%V 163
+%N 5
+%P 1064-78
+%8 Nov
+%! Establishment and Dysfunction of the Blood-Brain Barrier
+%@ 1097-4172
+%R 10.1016/j.cell.2015.10.067
+%2 PMC4655822
+%M 26590417
+%K Animals
+Astrocytes
+Blood-Brain Barrier
+Endothelial Cells
+Humans
+Membrane Transport Proteins
+Nervous System Diseases
+Pericytes
+%X Structural and functional brain connectivity, synaptic activity, and information processing require highly coordinated signal transduction between different cell types within the neurovascular unit and intact blood-brain barrier (BBB) functions. Here, we examine the mechanisms regulating the formation and maintenance of the BBB and functions of BBB-associated cell types. Furthermore, we discuss the growing evidence associating BBB breakdown with the pathogenesis of inherited monogenic neurological disorders and complex multifactorial diseases, including Alzheimer's disease.
+%U https://www.ncbi.nlm.nih.gov/pubmed/26590417
+%G eng
+
+
+
+%0 Journal Article
+%A Zhou, X.
+%A Stephens, M.
+%D 2014
+%T Efficient multivariate linear mixed model algorithms for genome-wide association studies
+%B Nat Methods
+%V 11
+%N 4
+%P 407-9
+%7 2014/02/18
+%8 Apr
+%! Efficient multivariate linear mixed model algorithms for genome-wide association studies
+%O Nature methods
+%@ 1548-7091
+%R 10.1038/nmeth.2848
+%2 PMC4211878
+%$ NIHMS560150
+%M 24531419
+%K *Algorithms
+*Genome
+Likelihood Functions
+*Linear Models
+*Multivariate Analysis
+Polymorphism, Single Nucleotide/*genetics
+Software
+%X Multivariate linear mixed models (mvLMMs) are powerful tools for testing associations between single-nucleotide polymorphisms and multiple correlated phenotypes while controlling for population stratification in genome-wide association studies. We present efficient algorithms in the genome-wide efficient mixed model association (GEMMA) software for fitting mvLMMs and computing likelihood ratio tests. These algorithms offer improved computation speed, power and P-value calibration over existing methods, and can deal with more than two phenotypes.
+%Z 1548-7105
+Zhou, Xiang
+Stephens, Matthew
+HG02585/HG/NHGRI NIH HHS/United States
+HL092206/HL/NHLBI NIH HHS/United States
+R01 HG002585/HG/NHGRI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Nat Methods. 2014 Apr;11(4):407-9. doi: 10.1038/nmeth.2848. Epub 2014 Feb 16.
+%+ 1] Department of Human Genetics, University of Chicago, Chicago, Illinois, USA. [2] Department of Statistics, University of Chicago, Chicago, Illinois, USA.
+%W NLM
+%G eng
+
+
+
